@@ -1,13 +1,16 @@
 ---
-标题: "-MCP爆火！它到底想干什么？"
-链接: "https://mp.weixin.qq.com/s/5Bph-10vb--Rx9XHPsu_5Q"
+标题: -MCP爆火！它到底想干什么？
+链接: https://mp.weixin.qq.com/s/5Bph-10vb--Rx9XHPsu_5Q
 作者: "[[JJJohn]]"
-创建时间: "2025-04-10T17:58:39+08:00"
-摘要:
+创建时间: 2025-04-10T17:58:39+08:00
+摘要: 
 tags:
-  - "clippings"
+  - clippings
+  - "#MCP"
+  - "#入门"
 字数: "427"
-状态: "未开始"
+状态: 未开始
+总结:
 ---
 # [[预读法介绍]]
 ### 预读问题  
@@ -26,9 +29,14 @@ tags:
 - [ ] 
 
 ### 总结
-- 是什么
-- 为什么
-- 怎么用
+- 是什么：MCP 通过标准化协议和接口，实现了配置管理的跨服务商统一访问。
+- 为什么：model content protcol
+- 怎么用：配置使用
+#### 理解
+- - **定义了一套协议 (Defines a protocol):** MCP 规范了客户端和服务端之间通信的数据格式、交互方式、认证授权机制等。这确保了双方能够理解彼此的请求和响应。
+- **工具商 (MCP Server) 按照协定定义了一套接口 (Tool vendor (MCP Server) defines a set of interfaces according to the agreement):** 服务端（通常由工具提供商实现）遵循 MCP 协议，暴露出一组标准的 API 接口。这些接口用于接收客户端的配置请求、管理配置信息等。
+- **使用人 (MCP Client) 调用相同的接口 (User (MCP Client) calls the same interface):** 客户端（应用程序或管理工具）只需要知道 MCP 协议和这些标准接口的使用方法，而无需关心底层具体服务提供商的实现细节。
+- **配置不同的服务商就能达到不同服务商的实现结果 (Configuring different service providers can achieve the implementation results of different service providers):** 通过在 MCP 客户端配置不同的服务提供商信息（例如，连接地址、认证凭据等），客户端可以与不同的后端服务进行交互，并获得它们各自的实现结果。这实现了服务提供商的透明切换和灵活选择。
 
 # 内容
 原创 JJJohn *2025年03月08日 10:25* *北京*
@@ -86,7 +94,7 @@ MCP使用客户端-主机-服务器细节方案如下：
 
 由于每个服务器遵循相同的协议，客户端可以在不同服务器之间切换或添加新服务器，而无需重新设计通信方式。
 
-这种“即插即用”特性类似于前面说的USB的方式，可以让我们使用同一个端口连接各种设备到计算机。
+这种“即插即用”特性类似于USB的方式，可以让我们使用同一个端口连接各种设备到计算机。
 
 ### MCP主机
 
@@ -138,7 +146,7 @@ LLM将决定使用哪些工具，客户端促进调用，输出返回给LLM，LL
 
 ## 不用MCP行吗？
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJnId8M6Lyib5DLgIyAKrlVm7pa3VvM62awTGV1N2CUaIdja58oH0GeWUw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 当然行！
 
@@ -171,9 +179,9 @@ LLM将决定使用哪些工具，客户端促进调用，输出返回给LLM，LL
 
 **文件：** `banking_server.py` ——银行服务端
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJnbSljjANa6744vn2bZAOa6syxdKBkSFGs6iaEyjJpPY3dxaia5aiaGZOFg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJnicICVaVp9LY1ib0qEEXQibeYuNx9craHDicHibA8FoicFEC3saPRX5RW1cgg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 服务器中干了些什么？
 
@@ -201,7 +209,7 @@ LLM将决定使用哪些工具，客户端促进调用，输出返回给LLM，LL
 
 文件： `banking_client.py` ——银行客户端
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJnA0gufWb933LpgMMiahia4Nat5IUDuZsxx9z7AFZ59JA03EOqvmKXNoxw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 客户端里干了些什么？
 
@@ -235,11 +243,24 @@ LLM将决定使用哪些工具，客户端促进调用，输出返回给LLM，LL
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJnK4ic0Q91RHl0HfE38rs7dejz6cSSJ7UvbKXngbdavIYna5pdVTgXF1w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-## 一致的接口使用MCP，服务器上的每个功能都以相同的方式被发现和调用——无需单独的REST端点，无需额外的Web框架。模块化和可扩展性随着添加更多工具(例如，calculate\_mortgage、check\_account\_balance等)，无需为每个工具创建全新的自定义集成。只需用@mcp.tool()装饰它们，它们就会自动可用。更易于AI集成如果我们的AI系统或聊天机器人有MCP客户端组件，它可以直接以结构化方式调用这些工具。实际上，我们可以教AI系统了解服务器的功能。减少重复工作不再为每个项目重写逻辑或手动设置新端点。如果我们有标准的MCP方法，可以在多个应用或团队中重用这种模式。面向未来因为MCP是开放标准，社区可能会创建各种服务器、工具和功能。我们的AI或应用程序可以连接到新服务器，而无需重新设计整个集成。
+1. **一致的接口**
+	- 使用MCP，服务器上的每个功能都以相同的方式被发现和调用——无需单独的REST端点，无需额外的Web框架。
+
+2. **模块化和可扩展性**
+	- 随着添加更多工具(例如，`calculate_mortgage`、`check_account_balance`等)，无需为每个工具创建全新的自定义集成。只需用`@mcp.tool()`装饰它们，它们就会自动可用。
+
+3. **更易于AI集成**
+	- 如果我们的AI系统或聊天机器人有MCP客户端组件，它可以**直接**以结构化方式调用这些工具。实际上，我们可以教AI系统**了解**服务器的功能。
+
+4. **减少重复工作**
+	- 不再为每个项目重写逻辑或手动设置新端点。如果我们有标准的MCP方法，可以在多个应用或团队中重用这种模式。
+    
+5. **面向未来**
+	- 因为MCP是**开放标准**，社区可能会创建各种服务器、工具和功能。我们的AI或应用程序可以连接到新服务器，而无需重新设计整个集成。
 
 ## 全流程整合
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJniaKDfvoDaU4QH9SeZib1XKbNq2LI2WjVefNGmNo2R6PcN0ZOv1RibFGjQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 当 **运行服务器** 时：
 
@@ -269,7 +290,7 @@ python banking_client.py
 
 而如何将上述的 **银行** MCP服务器代码集成到 **Windsurf IDE** 中呢？
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF8czH7T9LRia141Uym8ZgJn0Fr981j6VwHDUuKbTKq96LTkicHy3asFoPHJsY1fwlsoNZNoQp5ORYg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 以Windsurf 为例，我们可以在 **Windsurf IDE** 工作区或设置文件夹中，找到（或创建）名为 `mcp_config.json` 的文件。
 
@@ -287,41 +308,3 @@ python banking_client.py
 
 大功告成。
 
-👇
-
-👇
-
-👇
-
-👇
-
-另，我用AI 建了个同名星球《AGI Hunt》，AI 会实时采集和监控X 等各平台的热点 AI 内容，并基于数个资讯处理的 AI agent 挑选、审核、翻译、总结到星球中。
-
-——这是个只有干货、没有感情的前沿一线AI 资讯信息流（不是推荐流、不卖课、不讲道理、不教你做人、只提供信息，懂的懂）
-
-- 每天约监控6000 条消息，可节省约800+ 小时的阅读成本；
-- 每天挖掘出10+ 热门的/新的 github 开源 AI 项目；
-- 每天转译、点评 10+ 热门 arxiv AI 前沿论文。
-
-**星球非免费。** 定价99元/年，0.27元/天。(每+100人，+20元。元老福利~）
-
-- 一是运行有成本，我希望它能自我闭环，这样才能长期稳定运转；
-- 二是对人的挑选，鱼龙混杂不是我想要的，希望找到关注和热爱 AI 的人。
-
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
-**欢迎你的加入！也欢迎加群和2000+群友交流 ![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)** 
-
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
-除了冰冷的实时资讯，还会有冰冷的AI 早晚报，欢迎你来！
-
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
-JJJohn
-
- **微信扫一扫赞赏作者**
-
-继续滑动看下一个
-
-向上滑动看下一个 [知道了](https://mp.weixin.qq.com/s/) ： ， ， ， ， ， ， ， ， ， ， ， ， 。 视频 小程序 赞 ，轻点两下取消赞 在看 ，轻点两下取消在看 分享 留言 收藏 听过
