@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "8ef21de6da3e4122",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e367e9a28c8e717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c7faaa70dff3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型/MCP/-MCP爆火！它到底想干什么？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-MCP爆火！它到底想干什么？"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a01cbe8c46d8ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8971ac6ebd8918b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499801c21c312d25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9af52773118ee76e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c277707e72953bad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4858eaef6d4f7df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea17f20dea997b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14a2612144cf015",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大模型/MCP/-MCP爆火！它到底想干什么？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "-MCP爆火！它到底想干什么？ 的反向链接列表"
+            }
+          },
+          {
+            "id": "89918fe051ae100c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templater/笔记模版.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "笔记模版 的出链列表"
+            }
+          },
+          {
+            "id": "95af12fae67838e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "251d321b2a0ab663",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大模型/MCP/-MCP爆火！它到底想干什么？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "-MCP爆火！它到底想干什么？ 的大纲"
+            }
+          },
+          {
+            "id": "e6e7a314e3d0f90b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "251d321b2a0ab663",
+  "lastOpenFiles": [
+    "模版/日记模版.md",
+    "每日笔记/2025-04-10.md",
+    "{{yesterday}}].md",
+    "每日笔记/20250410.md",
+    "google/Google 一夜十二次，能否逆袭当回 AI 界老大｜一文看懂 Google Cloud Next 25 AI 大更新.md",
+    "每日笔记",
+    "大模型/从0开始/最近尝试的一种新的阅读 & AI写作方法-最近尝试的一种新的阅读 & AI写作方法：.md",
+    "大模型/从0开始/-【新手攻略】从0到1学习并拥有你的域名，开启个人品牌第一步，解锁互联网隐藏福利.md",
+    "大模型/从0开始/-【教程】效率党必备：录屏剪辑从0到1速成指南。附飞书录屏技巧.md",
+    "大模型/从0开始/-【推荐】微信公众号排版神器 + AI Prompt 技巧，应群友要求创作，耗时3小时。.md",
+    "大模型/从0开始",
+    "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
+    "大模型/测评",
+    "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
+    "大模型/prompt/Prompt 编写模式：如何将思维框架赋予机器.md",
+    "大模型/prompt/-最简单的 Prompt 写作框架，简单无脑，记忆点非常强！.md",
+    "大模型/prompt/-为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+    "大模型/prompt/-【教程】最近疯传的神级提示词，一键生成杂志级网页，附公众号发20屏长图技巧，威武极了！.md",
+    "大模型/prompt/-【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物....md",
+    "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
+    "大模型/prompt/-【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。.md",
+    "大模型/prompt",
+    "大模型/MCP/谷歌发布A2A支持MCP生态，AI之间的协作壁垒终于打破，没座这就是顶尖！-谷歌发布A2A支持MCP生态，AI之间的协作壁垒终于打破，没座这就是顶尖！.md",
+    "大模型/MCP/-MCP爆火！它到底想干什么？.md",
+    "大模型/MCP/-AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
+    "大模型/MCP",
+    "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
+    "工具/coze",
+    "大模型/google/Google 一夜十二次，能否逆袭当回 AI 界老大｜一文看懂 Google Cloud Next 25 AI 大更新.md",
+    "大模型/google",
+    "大模型/deepseek",
+    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
+    "大模型/Claude/-终于，Claude 的脑壳子被扒开看了！.md",
+    "大模型/Claude",
+    "大模型/chatgpt",
+    "学习方法/预读法介绍.md",
+    "604324683442daba904c50be33aef38a_MD5.webp",
+    "a9bf0639b300f8362c7e71cd2980013b_MD5.webp",
+    "c99e2b2e795ca45d6142b66388d05b0e_MD5.webp",
+    "9ee95c3dceb50e9fa0c08f86a9a9f490_MD5.webp",
+    "8c1b69b060ac4e8ff5bb28df4b6c6331_MD5.webp",
+    "3feb027930cfb746a0a75ee16023ca08_MD5.webp",
+    "80cdcf24e91faad4286445818e08562b_MD5.webp",
+    "ff6cf5366a89497fc40dff73ca6717aa_MD5.webp",
+    "477e4bb823c96b0d96a49c1a738bd2bd_MD5.webp",
+    "2c3d0341f6f2d7f02ba14000e3ef9254_MD5.webp"
+  ]
+}
