@@ -1,13 +1,14 @@
 ---
-标题: "-Claude think ≠ extended thinking，傻傻分不清？官方教程来了！"
-链接: "https://mp.weixin.qq.com/s/fIWmuNH7XQ0eEqhrjcuifg"
+标题: -Claude think ≠ extended thinking，傻傻分不清？官方教程来了！
+链接: https://mp.weixin.qq.com/s/fIWmuNH7XQ0eEqhrjcuifg
 作者: "[[JJJohn]]"
-创建时间: "2025-04-10T18:03:59+08:00"
-摘要:
+创建时间: 2025-04-10T18:03:59+08:00
+摘要: 
 tags:
-  - "clippings"
+  - clippings
+  - "#claude_think"
 字数: "469"
-状态: "未开始"
+状态: 结束
 ---
 # [[预读法介绍]]
 ### 预读问题  
@@ -30,7 +31,7 @@ tags:
 - 是什么
 - 为什么
 - 怎么用
-
+#review
 # 内容
 原创 JJJohn *2025年03月22日 10:52* *北京*
 
@@ -345,7 +346,7 @@ Claude 3.7 Sonnet在Tau-Bench评估的"零售"领域的性能
 
 - 推理过程中预期的详细程度；
 - 如何将复杂指令分解为可操作步骤；
-- 处理常见场景的决策树；以及
+- 处理常见场景的决策树；
 - 如何检查是否收集了所有必要信息。
 
 ### 2\. 将复杂指导放在系统提示中
