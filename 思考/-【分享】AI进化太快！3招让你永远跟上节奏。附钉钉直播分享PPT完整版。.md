@@ -57,7 +57,7 @@ https://aistudio.google.com/
 
 **最好用的AI编程工具从Cursor、Windsurf变成 Visual Studio Code + Augment插件**
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0a8XlMFzcESIxlKA4HSkPUtuVEAzOf4qfUMYicUibTwBNqjP0r7miaXfGA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 https://www.augmentcode.com/
 
@@ -65,7 +65,7 @@ https://www.augmentcode.com/
 
 前提：不拼美学，只拼语义理解和场景丰富度。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0dboZ6Q8o8UC4Za6YBPv2CZvnB1evNUs70NNMyibI8qcpR5z70B7QJUw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 https://chatgpt.com/
 
