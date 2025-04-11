@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/提示词示例.md",
+                "file": "大模型/deepseek/「DeepSeek-V3 技术解析」：多词元预测技术（Multi-Token Prediction, MTP）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词示例"
+              "title": "「DeepSeek-V3 技术解析」：多词元预测技术（Multi-Token Prediction, MTP）"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/提示词示例.md",
+                "file": "大模型/deepseek/「DeepSeek-V3 技术解析」：多词元预测技术（Multi-Token Prediction, MTP）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示词示例 的大纲"
+              "title": "「DeepSeek-V3 技术解析」：多词元预测技术（Multi-Token Prediction, MTP） 的大纲"
             }
           },
           {
@@ -184,8 +184,22 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "499801c21c312d25",
+  "active": "36c7faaa70dff3e0",
   "lastOpenFiles": [
+    "大模型/测评/这可能是目前最强的TTS，10秒复刻你的声音.md",
+    "大模型/deepseek/「DeepSeek-V3 技术解析」：多词元预测技术（Multi-Token Prediction, MTP）.md",
+    "大模型/deepseek/未确认 557840.crdownload",
+    "大模型/prompt/提示词示例.md",
+    "大模型/测评/未确认 623392.crdownload",
+    "大模型/prompt/技巧.md",
+    "思考/都2025年了，人们到底在用AI做什么？国外大牛总结了100个案例.md",
+    "思考/未确认 48911.crdownload",
+    "大模型/MCP/从RestAPI到MCP：Higress AI网关一键切换.md",
+    "大模型/MCP/未确认 922634.crdownload",
+    "大模型/chatgpt/ChatGPT终于发布长期记忆功能，开启个人Agent时代.md",
+    "大模型/chatgpt/未确认 929606.crdownload",
+    "大模型/智能体/n8n/DeepSeek+开源n8n：24小时推特(X)热点监控工作流太绝了！【附赠：完整工作流】-DeepSeek+开源n8n：24h推特(X)热点监控Workflow太绝了！【附赠：完整工作流】.md",
+    "大模型/智能体/n8n/未确认 944341.crdownload",
     "大模型/智能体/n8n/{{_Translation of titles into Chinese_}}-比扣子更强大！n8n开源AI工作流神器，1500+模板随拿随用，绝了！.md",
     "大模型/智能体/n8n/未确认 612078.crdownload",
     "大模型/协议/对比区分/标题翻译为中文-一分钟让你秒懂 MCP 和 A2A 这两个 AI 界的“新装备”！.md",
@@ -193,19 +207,11 @@
     "大模型/协议/对比区分",
     "大模型/协议/LLMs.txt/LLMs.txt：让大模型更懂你的 Web 文档-LLMs.txt：让大模型更懂你的 Web 文档.md",
     "大模型/协议/LLMs.yxy/未确认 505032.crdownload",
-    "大模型/协议/LLMs.txt",
     "大模型/智能体/n8n/「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~-「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~.md",
-    "大模型/智能体/n8n/未确认 210998.crdownload",
-    "大模型/智能体/n8n",
-    "大模型/智能体",
     "大模型/协议/Agent2Agent/AI Agent大变天！谷歌开源A2A，一夜改变智能体交互-AI Agent大变天！谷歌开源A2A，一夜改变智能体交互.md",
-    "大模型/协议/Agent2Agent/未确认 646851.crdownload",
     "大模型/协议/Agent2Agent/Google强势发布：Agent2Agent通信协议-Google强势发布：Agent2Agent通信协议.md",
-    "大模型/协议/Agent2Agent/未确认 242558.crdownload",
     "大模型/prompt/gpt4o/{{_Translation of titles into Chinese_}}-GPT4o又出15种脑洞玩法，吉卜力已经落后N个版本了.md",
     "大模型/deepseek/DeepSeek联手清华让AI“自我批评”：更大不如更聪明-DeepSeek联手清华让AI“自我批评”：更大不如更聪明.md",
-    "大模型/prompt/技巧.md",
-    "大模型/prompt/提示词示例.md",
     "面经/智谱大模型算法岗面经！.md",
     "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
     "大模型/MCP/谷歌发布A2A支持MCP生态，AI之间的协作壁垒终于打破，没座这就是顶尖！-谷歌发布A2A支持MCP生态，AI之间的协作壁垒终于打破，没座这就是顶尖！.md",
@@ -217,12 +223,6 @@
     "{{yesterday}}].md",
     "每日笔记/20250410.md",
     "google/Google 一夜十二次，能否逆袭当回 AI 界老大｜一文看懂 Google Cloud Next 25 AI 大更新.md",
-    "大模型/从0开始/最近尝试的一种新的阅读 & AI写作方法-最近尝试的一种新的阅读 & AI写作方法：.md",
-    "大模型/从0开始/-【新手攻略】从0到1学习并拥有你的域名，开启个人品牌第一步，解锁互联网隐藏福利.md",
-    "大模型/从0开始/-【教程】效率党必备：录屏剪辑从0到1速成指南。附飞书录屏技巧.md",
-    "大模型/从0开始/-【推荐】微信公众号排版神器 + AI Prompt 技巧，应群友要求创作，耗时3小时。.md",
-    "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
-    "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
     "604324683442daba904c50be33aef38a_MD5.webp",
     "a9bf0639b300f8362c7e71cd2980013b_MD5.webp",
     "c99e2b2e795ca45d6142b66388d05b0e_MD5.webp",
