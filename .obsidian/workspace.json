@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36c7faaa70dff3e0",
+            "id": "07663745c2d55d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书评/最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词"
+            }
+          },
+          {
+            "id": "1c08c456e9fb6e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "2025-04-11"
             }
+          },
+          {
+            "id": "4d5671a7bdd70808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude think ≠ extended thinking，傻傻分不清？官方教程来了！"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日笔记/2025-04-11.md",
+                "file": "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-11 的大纲"
+              "title": "Claude think ≠ extended thinking，傻傻分不清？官方教程来了！ 的大纲"
             }
           },
           {
@@ -162,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,10 +212,14 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "36c7faaa70dff3e0",
+  "active": "251d321b2a0ab663",
   "lastOpenFiles": [
-    "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "每日笔记/2025-04-11.md",
+    "书评/最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词.md",
+    "模版/日记模版.md",
+    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
+    "大模型/MCP/MCP科普.md",
+    "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "每日笔记/20250411.md",
     "大模型/agent/data_agent/Apache Doris × AI 的5个应用场景（附完整案例）.md",
     "大模型/prompt/ima.copilot-1.5.1(2386).dmg",
@@ -217,10 +250,6 @@
     "大模型/agent/n8n/「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~-「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~.md",
     "大模型/协议/Agent2Agent/AI Agent大变天！谷歌开源A2A，一夜改变智能体交互-AI Agent大变天！谷歌开源A2A，一夜改变智能体交互.md",
     "大模型/协议/Agent2Agent/Google强势发布：Agent2Agent通信协议-Google强势发布：Agent2Agent通信协议.md",
-    "大模型/prompt/gpt4o/{{_Translation of titles into Chinese_}}-GPT4o又出15种脑洞玩法，吉卜力已经落后N个版本了.md",
-    "大模型/deepseek/DeepSeek联手清华让AI“自我批评”：更大不如更聪明-DeepSeek联手清华让AI“自我批评”：更大不如更聪明.md",
-    "面经/智谱大模型算法岗面经！.md",
-    "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
     "Pasted image 20250410204505.png",
     "604324683442daba904c50be33aef38a_MD5.webp",
     "a9bf0639b300f8362c7e71cd2980013b_MD5.webp",

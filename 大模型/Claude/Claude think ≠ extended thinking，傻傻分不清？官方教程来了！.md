@@ -17,7 +17,8 @@ tags:
 - Q3:   
 
 ### 关键图表/代码  
-![[提取的图表或代码片段]]
+- 如果Claude一开始就有足够信息回答问题，用「extended thinking」就够了
+- 如果Claude需要处理外部信息（如工具调用结果），「think」工具就派上用场了
 ### 初步关联  
 - 已知：[[已掌握的相关知识]]  
 - 未知：`#待探索`  
@@ -41,7 +42,7 @@ Anthropic 发布了一个全新官方博客：Engineering at Anthropic，专门�
 
 文中详细讲解了Claude的「think」工具，让AI能够在复杂任务中 **暂停并思考** ！
 
-![Abstract shapes illustrating Anthropic's Engineering Blog](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![Abstract shapes illustrating Anthropic's Engineering Blog](https://mmbiz.qpic.cn/sz_mmbiz_jpg/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQu0rDLQKFYGIyLHrHz9S89smZpK2DFTrj84YbbLODYf4718Ga9TaBNg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 而Claude 3.7 Sonnet Thinking 在 LMArena 排行榜上的排名也已公布。该模型在多个类别中表现出色，包括：
 
@@ -50,9 +51,9 @@ Anthropic 发布了一个全新官方博客：Engineering at Anthropic，专门�
 
 可以通过访问 lmarena.ai/leaderboard 查看 Claude 3.7 Sonnet Thinking 在你最关心的类别中的表现。
 
-![Image](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![Image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQfL77QNPjJNYgKhgnhCIesw4BLW4d88WE9GoFTPLV2O5rJ2jSOwTZXw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![Image](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![Image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQGibKP14ExZUdvBjnpVmicmmm9DdCPp96BGewCK4YP4MRjFLtRPOl3y0Q/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **有开发者看到这个消息，兴奋得睡不着觉：**
 
@@ -140,7 +141,7 @@ Engineering at Anthropic
 
 随着我们持续增强Claude在复杂问题解决方面的能力，我们发现了一种特别有效的方法："think"工具，它在复杂任务中为结构化思考创造了专门的空间。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQhR0zibS5HyfRDkteUWXejmoTEbv33A4icKRW3bjadChXOUMXraDjmuPg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 
@@ -190,7 +191,7 @@ Engineering at Anthropic
 - **航空领域** ：带优化提示的"think"工具在pass^1指标上达到0.570，相比基准线的0.370——相对提升54%；
 - **零售领域** ：仅"think"工具达到0.812，相比基准线的0.783。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQXFwniaia6zIYpc3XqqwLSkXC8KAcVnB7Iib2OiaceiaYVQ7G8cKdj0YG7PA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 图1：显示Claude 3.7 Sonnet在Tau-Bench评估的"航空"领域的性能折线图
 
@@ -209,9 +210,82 @@ Claude 3.7 Sonnet在Tau-Bench评估的"航空"领域的性能
 
 ```markdown
 ## 使用think工具
-在收到工具结果后采取任何行动或回应用户之前，使用think工具作为草稿来：- 列出适用于当前请求的特定规则- 检查是否收集了所有必需信息- 验证计划的行动是否符合所有政策- 迭代工具结果以确保正确性
-以下是在think工具内迭代的一些示例：<think_tool_example_1>用户想要取消航班ABC123- 需要验证：用户ID、预订ID、原因- 检查取消规则：  * 是否在预订后24小时内？  * 如果不是，检查机票等级和保险- 验证没有已飞行或过去的航段- 计划：收集缺失信息，验证规则，获取确认</think_tool_example_1>
-<think_tool_example_2>用户想要预订3张去纽约的机票，每人2个托运行李- 需要用户ID来检查：  * 会员等级以确定行李限额  * 个人资料中存在哪些支付方式- 行李计算：  * 经济舱×3名乘客  * 如果是普通会员：每人1个免费行李→3个额外行李=$150  * 如果是银卡会员：每人2个免费行李→0个额外行李=$0  * 如果是金卡会员：每人3个免费行李→0个额外行李=$0- 需要验证的支付规则：  * 最多1张旅行证书，1张信用卡，3张礼品卡  * 所有支付方式必须在个人资料中  * 旅行证书余额将被浪费- 计划：1. 获取用户ID2. 验证会员等级以确定行李费用3. 检查个人资料中的支付方式及其组合是否允许4. 计算总额：机票价格+任何行李费用5. 获取预订的明确确认</think_tool_example_2>
+
+在收到工具结果后采取任何行动或回应用户之前，使用think工具作为草稿来：
+
+- 列出适用于当前请求的特定规则
+
+- 检查是否收集了所有必需信息
+
+- 验证计划的行动是否符合所有政策
+
+- 迭代工具结果以确保正确性
+
+  
+
+以下是在think工具内迭代的一些示例：
+
+<think_tool_example_1>
+
+用户想要取消航班ABC123
+
+- 需要验证：用户ID、预订ID、原因
+
+- 检查取消规则：
+
+* 是否在预订后24小时内？
+
+* 如果不是，检查机票等级和保险
+
+- 验证没有已飞行或过去的航段
+
+- 计划：收集缺失信息，验证规则，获取确认
+
+</think_tool_example_1>
+
+  
+
+<think_tool_example_2>
+
+用户想要预订3张去纽约的机票，每人2个托运行李
+
+- 需要用户ID来检查：
+
+* 会员等级以确定行李限额
+
+* 个人资料中存在哪些支付方式
+
+- 行李计算：
+
+* 经济舱×3名乘客
+
+* 如果是普通会员：每人1个免费行李→3个额外行李=$150
+
+* 如果是银卡会员：每人2个免费行李→0个额外行李=$0
+
+* 如果是金卡会员：每人3个免费行李→0个额外行李=$0
+
+- 需要验证的支付规则：
+
+* 最多1张旅行证书，1张信用卡，3张礼品卡
+
+* 所有支付方式必须在个人资料中
+
+* 旅行证书余额将被浪费
+
+- 计划：
+
+1. 获取用户ID
+
+2. 验证会员等级以确定行李费用
+
+3. 检查个人资料中的支付方式及其组合是否允许
+
+4. 计算总额：机票价格+任何行李费用
+
+5. 获取预订的明确确认
+
+</think_tool_example_2>
 ```
 
 特别有趣的是不同方法的比较。使用带优化提示的"think"工具相比延伸思考模式（其表现与未提示的"think"工具相似）取得了显著更好的结果。仅使用"think"工具（不带提示）相比基准线改进了性能，但仍低于优化方法。
@@ -220,7 +294,7 @@ Claude 3.7 Sonnet在Tau-Bench评估的"航空"领域的性能
 
 在零售领域，我们也测试了各种配置以了解每种方法的具体影响。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/M3PrhSUICnF75Giak3sEgmHxNianUZYjRQPwygFTetvDV54Bnc8vc1KicIEqSYkMu84Y9UbrvJvAbiasKTOtTmpmLQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 图2：显示Claude 3.7 Sonnet在Tau-Bench评估的"零售"领域在三种不同配置下的性能折线图
 
