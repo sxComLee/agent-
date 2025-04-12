@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+                "file": "每日笔记/2025-04-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词"
+              "title": "2025-04-11"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:核心信息提取",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+                "file": "每日笔记/2025-04-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词 的大纲"
+              "title": "2025-04-11 的大纲"
             }
           },
           {
@@ -185,19 +186,19 @@
   },
   "active": "1c08c456e9fb6e0c",
   "lastOpenFiles": [
+    "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md",
+    "每日笔记/2025-04-11.md",
+    "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+    "a5e923ecaf240ff3a982218f6dd39a07_MD5.webp",
+    "2bbcf48df40f45e339583b9252824bd3_MD5.webp",
+    "38aba10fd4850a169a94abb9a9dcd536_MD5.webp",
+    "77016c57ec4ae16d27f6c27c512243f3_MD5.webp",
+    "7dfdd6b8f393b1f58084c43539d67e61_MD5.webp",
     "edb3d29e3015910815480b19918f5c97_MD5.png",
     "06398593e6726464658718359fc4906b_MD5.png",
     "bb0963a530c2be28d7e88d05b0be6484_MD5.webp",
     "6fb0f20004e9628420a7e2aa2176f3b4_MD5.webp",
     "24655a10f921c40a887c50bf42a5bd6f_MD5.jpg",
-    "a5e923ecaf240ff3a982218f6dd39a07_MD5.webp",
-    "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
-    "2bbcf48df40f45e339583b9252824bd3_MD5.webp",
-    "31276c128dfb2e7d7be970d9a4b388b3_MD5.webp",
-    "38aba10fd4850a169a94abb9a9dcd536_MD5.webp",
-    "4ff66928b02b56b17aa81b494c1dc983_MD5.webp",
-    "52d34fa3419363b2722595d4c800d8a2_MD5.webp",
-    "每日笔记/2025-04-11.md",
     "大模型/prompt/未确认 426654.crdownload",
     "大模型/prompt/-最简单的 Prompt 写作框架，简单无脑，记忆点非常强！.md",
     "大模型/prompt/-为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
