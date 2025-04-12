@@ -43,13 +43,9 @@ tags:
 
 但咱们谁都不知道它脑子里到底咋想的！
 
-关注 重播 分享 赞
+<video src="https://mpvideo.qpic.cn/0b2elmadmaaajealtihfjrtvaw6dgznqanqa.f10002.mp4?dis_k=fe1560cb9234001141d9abb8b26dc5e3&dis_t=1744438067&play_scene=10120&auth_info=B9Xh2+8EamAOytqHthowElU4HUZoB3A6bkxXMDZQZzM2AzpvXgg3D2wyHlkXPicoXw==&auth_key=405ba620b15043ea94c592823b326f1a&vid=wxv_3917569644982173698&format_id=10002&support_redirect=0&mmversion=false"></video>
 
-0 / 0
 
-00:00 / 02:55  进度条，百分之0 [播放](https://mp.weixin.qq.com/s/) 00:00 / 02:5502:55 *全屏* 倍速播放中 <video src="https://mpvideo.qpic.cn/0b2elmadmaaajealtihfjrtvaw6dgznqanqa.f10002.mp4?dis_k=97249c76f9991fcddd2f7aa763960fd2&amp;dis_t=1744279639&amp;play_scene=10120&amp;auth_info=dpWGubpXQChDnNPhvGQzGUsMGigoYAZmHxEmWyw/JB9KNC9CZm56IxZiAToQA3AgRBhM&amp;auth_key=3cae739ab06839c226cbb801a7860f67&amp;vid=wxv_3917569644982173698&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false">您的浏览器不支持 video 标签</video>
-
-继续观看
 
 终于，Claude 的脑壳子被扒开看了！
 

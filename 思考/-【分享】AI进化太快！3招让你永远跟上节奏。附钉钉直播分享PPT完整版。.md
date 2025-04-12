@@ -8,7 +8,7 @@ tags:
   - clippings
   - "#学习"
 字数: "115"
-状态: 未开始
+状态: 结束
 ---
 # [[预读法介绍]]
 ### 预读问题  
@@ -27,9 +27,13 @@ tags:
 - [ ] 
 
 ### 总结
-- 是什么
-- 为什么
-- 怎么用
+- **技术趋势**：AI工具快速更替，但底层交互逻辑（如Prompt）稳定，需聚焦基础能力。
+- **学习策略**：以解决问题为导向，避免纯理论学习；强调“人机协同”中人的主导性。
+- **行动号召**：鼓励读者通过实际项目（如开发插件、工具）深化AI应用能力。
+- **方法论：干中学（Learning by Doing）**
+    - 通过解决实际问题学习：开发Chrome插件提升效率、用AI生成代码工具（如Yourware）、自建博客等。
+    - 提升底层能力：审美素养、沟通表达、逻辑思考，结合行业经验与AI工具。
+    - **AI领导力**：强调用户需自身变强以“带领AI员工”。
 
 # 内容
 原创 向阳乔木 *2025年04月09日 22:55* *天津*
@@ -129,17 +133,17 @@ Prompt提示词也最多从面向过程转向面向目标。
 
 就给自己开发一个Chrome插件解决。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0gmibTHt2YG6el5C35GqNlY9EicO4e5HAry8OLYYhv19TGFFxIHu0P0xQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 [【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。](https://mp.weixin.qq.com/s?__biz=MzAwODIyOTQ4Mw==&mid=2649442582&idx=2&sn=cc941d1eafc7ec9ebaed0a72fa9a6d74&scene=21#wechat_redirect)
 
 觉得AI生成代码分享不方便，就让AI开发一个Yourware开源版。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz05M5z22mNqZtdLibRvwO06CVNRWYfo5uiaWDJy6Uw44vwm7lKiatBCS1zg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 觉得Wordpress不够好，就开发一个自己的博客。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0smvfUlbMAJmxYTx1ZERZ9KrWGsOLsF3XNlVgPiawBDYH3icttqypapqg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ...
 
@@ -161,7 +165,7 @@ Prompt提示词也最多从面向过程转向面向目标。
 
 https://jiahejiaoyu.feishu.cn/docx/YHOHd1TLyom6KDxQY8Ac8m4hngf
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0pJ7ncxQ5amkFl4pCTtNr0j5LdQknrOV1vBia9KIEuWAib1Br47gTBf8g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 

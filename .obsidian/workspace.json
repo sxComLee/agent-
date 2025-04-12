@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07663745c2d55d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "书评/最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词"
-            }
-          },
-          {
             "id": "1c08c456e9fb6e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
+                "file": "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。"
+              "title": "为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
+                "file": "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。 的大纲"
+              "title": "为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词 的大纲"
             }
           },
           {
@@ -199,11 +183,29 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "251d321b2a0ab663",
+  "active": "1c08c456e9fb6e0c",
   "lastOpenFiles": [
+    "edb3d29e3015910815480b19918f5c97_MD5.png",
+    "06398593e6726464658718359fc4906b_MD5.png",
+    "bb0963a530c2be28d7e88d05b0be6484_MD5.webp",
+    "6fb0f20004e9628420a7e2aa2176f3b4_MD5.webp",
+    "24655a10f921c40a887c50bf42a5bd6f_MD5.jpg",
+    "a5e923ecaf240ff3a982218f6dd39a07_MD5.webp",
+    "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+    "2bbcf48df40f45e339583b9252824bd3_MD5.webp",
+    "31276c128dfb2e7d7be970d9a4b388b3_MD5.webp",
+    "38aba10fd4850a169a94abb9a9dcd536_MD5.webp",
+    "4ff66928b02b56b17aa81b494c1dc983_MD5.webp",
+    "52d34fa3419363b2722595d4c800d8a2_MD5.webp",
     "每日笔记/2025-04-11.md",
-    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
+    "大模型/prompt/未确认 426654.crdownload",
+    "大模型/prompt/-最简单的 Prompt 写作框架，简单无脑，记忆点非常强！.md",
+    "大模型/prompt/-为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
+    "大模型/prompt/未确认 726303.crdownload",
+    "大模型/Claude/-终于，Claude 的脑壳子被扒开看了！.md",
+    "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
     "书评/最近全球最火电子书《微小实验》书评。附爆款潜力文改写技巧和提示词.md",
+    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
     "模版/日记模版.md",
     "大模型/MCP/MCP科普.md",
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
@@ -222,30 +224,12 @@
     "大模型/agent/data_agent",
     "未命名",
     "大模型/测评/OmniTalker炸场：一段视频学会说话，唇形表情全同步！.md",
-    "大模型/测评/未确认 602212.crdownload",
     "大模型/测评/这可能是目前最强的TTS，10秒复刻你的声音.md",
-    "大模型/deepseek/未确认 557840.crdownload",
     "大模型/prompt/提示词示例.md",
     "大模型/prompt/技巧.md",
     "思考/都2025年了，人们到底在用AI做什么？国外大牛总结了100个案例.md",
     "大模型/MCP/从RestAPI到MCP：Higress AI网关一键切换.md",
     "大模型/chatgpt/ChatGPT终于发布长期记忆功能，开启个人Agent时代.md",
-    "大模型/agent/n8n/DeepSeek+开源n8n：24小时推特(X)热点监控工作流太绝了！【附赠：完整工作流】-DeepSeek+开源n8n：24h推特(X)热点监控Workflow太绝了！【附赠：完整工作流】.md",
-    "大模型/agent/n8n/{{_Translation of titles into Chinese_}}-比扣子更强大！n8n开源AI工作流神器，1500+模板随拿随用，绝了！.md",
-    "大模型/协议/对比区分/标题翻译为中文-一分钟让你秒懂 MCP 和 A2A 这两个 AI 界的“新装备”！.md",
-    "大模型/协议/LLMs.txt/LLMs.txt：让大模型更懂你的 Web 文档-LLMs.txt：让大模型更懂你的 Web 文档.md",
-    "大模型/agent/n8n/「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~-「n8n云服务」免费一键部署！还提供域名访问，小白也能轻松搞定~.md",
-    "大模型/协议/Agent2Agent/AI Agent大变天！谷歌开源A2A，一夜改变智能体交互-AI Agent大变天！谷歌开源A2A，一夜改变智能体交互.md",
-    "大模型/协议/Agent2Agent/Google强势发布：Agent2Agent通信协议-Google强势发布：Agent2Agent通信协议.md",
-    "Pasted image 20250410204505.png",
-    "604324683442daba904c50be33aef38a_MD5.webp",
-    "a9bf0639b300f8362c7e71cd2980013b_MD5.webp",
-    "c99e2b2e795ca45d6142b66388d05b0e_MD5.webp",
-    "9ee95c3dceb50e9fa0c08f86a9a9f490_MD5.webp",
-    "8c1b69b060ac4e8ff5bb28df4b6c6331_MD5.webp",
-    "3feb027930cfb746a0a75ee16023ca08_MD5.webp",
-    "80cdcf24e91faad4286445818e08562b_MD5.webp",
-    "ff6cf5366a89497fc40dff73ca6717aa_MD5.webp",
-    "477e4bb823c96b0d96a49c1a738bd2bd_MD5.webp"
+    "大模型/agent/n8n/DeepSeek+开源n8n：24小时推特(X)热点监控工作流太绝了！【附赠：完整工作流】-DeepSeek+开源n8n：24h推特(X)热点监控Workflow太绝了！【附赠：完整工作流】.md"
   ]
 }
