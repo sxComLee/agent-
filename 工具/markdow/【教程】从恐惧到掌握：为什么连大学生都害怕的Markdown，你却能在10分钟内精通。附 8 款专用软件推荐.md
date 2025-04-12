@@ -81,7 +81,8 @@ tags:
 Markdown 由两位技术天才 John Gruber 和 Aaron Swartz 在 2004 年创造的。
 
 **John Gruber** 是著名的科技博主和程序员，创建了知名博客 Daring Fireball。  
-他设计 Markdown 的初衷：创造一种既容易阅读，又容易用于写作的纯文本格式，同时还能方便转换为 HTML 文档。
+#flashcards 
+他设计 Markdown 的初衷::创造一种既容易阅读，又容易用于写作的纯文本格式，同时还能方便转换为 HTML 文档。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAgIEYEuUQ1muaiccJyNaSkvmOInj2bW9GicrgOjdtO52WTCcMjFF6NH3w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -282,7 +283,7 @@ GitHub 会自动把网址变成可点击的链接，比如：https://github.com
 
 ### 1\. Typora（所有电脑都能用）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAnCoHnTUvkocpP55NrDZrnqX2TicibxlvChkRum1kZ05rRicUpEGgqN5lQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 - • **为什么好用** ：所见即所得，你写的同时就能看到效果
 - • **多少钱** ：15 天免费试用，之后单用户授权约 $ 14.99，合人民币108左右。
@@ -293,7 +294,7 @@ https://typora.io/
 
 ### 2\. VS Code（所有电脑都能用）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAz2Jnf6OKHiaib6iaRbmTsmQqzZksMibl9GbdVib2PziaTicNicZNOJtHaUHnGw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 - • **为什么好用** ：免费！还能装很多插件增强功能
@@ -307,7 +308,7 @@ https://visualstudio.microsoft.com/zh-hans/
 
 ### 3\. Obsidian（所有电脑都能用）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXACSHH3N9VUiaEClFicWgzesU0rQicLerJ9cwQDTVbV3O8qy4Dalh6cOC0w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 - • **为什么好用** ：不只是编辑器，还是强大的笔记系统
@@ -319,7 +320,7 @@ https://obsidian.md/
 
 ### 4\. 飞书文档（中国出品）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAkv7ZlcZJu7ia9vKRSCF55qsE1VHzAm5cIsVricjheFHLgX9AXhdPnYjA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 - • **为什么好用** ：团队协作神器，支持多人实时编辑
 - • **多少钱** ：基础功能免费
@@ -330,7 +331,7 @@ https://www.feishu.cn/
 
 ### 5\. MarkText（所有电脑都能用）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAmxRwkzFGup0micx3DJM9onL2K3nKVgTV36gUvertGfLpJA2gxM1RpnQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 - • **为什么好用** ：开源免费，界面简洁，实时预览
@@ -344,7 +345,7 @@ https://www.marktext.cc/
 
 ### 6\. MWeb（苹果设备专用）
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAvtQFcvbRqEpPoXDiaogqgG0iavicVL62se6wVyD219x2oeH8nuTuichtlg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 - • **为什么好用** ：专为中文用户设计，发布到各平台方便
@@ -364,7 +365,7 @@ https://zh.mweb.im/
 
 ### 1\. Doocs Markdown 编辑器
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAFk9zUanz0FCVgPgkfdea5tichJwb1BJPkKkRFCoG60EHzSnYNFGeYzQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 - • **特色功能** ：支持多种主题，导出 PDF、图片
@@ -377,7 +378,7 @@ https://github.com/doocs/md
 
 ### 2\. 乔木 Markdown 编辑器
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAiavxqVAxK6D2bLMUawIAY58nAPYflv4cpSVibZdpq1kSNPSfLQIICbPw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 - • **特色功能** ：简洁界面，AI 辅助功能
 - • **适合场景** ：快速编辑和分享
@@ -388,7 +389,7 @@ Doocs MD搭建的自用Markdown工具，我在用这个工具写本篇文章。
 
   
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXA4BPUQIdpNicurJmAFq9EngTXt3rdQ8EXD7e9uE1yaGgrf7jXsego54w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 
@@ -405,7 +406,7 @@ Markdown 最棒的地方是可以轻松变成其他格式：
 
 ### Pandoc：终极格式转换神器
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXA7Bx7iaRKGpP4rUVhIRl1bcBiczgbPSyeyYjHPE4UkK3qVgk8QicjYGgrQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 官网： https://pandoc.org/
 
@@ -596,12 +597,12 @@ ChatGPT 原生支持 Markdown 格式，这意味着：
 Obsidian 是基于 Markdown 的知识管理工具，结合 AI 插件后功能更强大：
 
 - • **Smart Composer 插件** ：类似 Cursor 的 AI 辅助写作功能，直接在 Markdown 文件中获得智能补全，Embedding后支持跟整个笔记库对话。
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAmKNnTncbH7wD8J3DcicRVg2mq4icdGpvaVRIibHCibcTLFsjPkAicCApAMA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 - • **Copilot 插件** ：在笔记中直接与各种AI模型对话，生成内容并插入当前笔记，Embedding后支持跟整个笔记库对话，推荐相关Markdown等。  
-	![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+	![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAkQjjTpz9ZTvtAQTwqnkQAQz57bxO4TQI8yYk02wVxHP3Y3jdo8rNfA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 - • **Text Generator 插件** ：一键生成各种类型的内容，如标题、摘要、扩展、修改等，支持自定义Prompt、自定义模型。
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXA5ficibkoFOBibJFmkL5ziaXAYWAicGdN6UpEfia04soSBkjKKMOvvt3yql7g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 #### 实用工作流：
 
@@ -784,7 +785,7 @@ Markdown 不仅仅是一种格式，它是一种思维方式，一种让你专�
 
 用本文+Claude 3.7 Sonnet生成赛博朋克风格HTML，来源于群友@魔云兽。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAWMiaicq8uqm62ZeOAPCSibLT7J4hQl2JgKLKvaQE9BI9GGn06EHorqjyA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
 
@@ -822,14 +823,14 @@ https://www.32kw.com/view/ab6a894
 
 **生成网页版PPT**
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAubS5fyLrxpRZaXbbZtntHFPxtG2G1mN806IYyDvDrVTO8sPxv9005w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **网址：**  
 https://www.32kw.com/view/fd00818
 
 **生成金句卡片**
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAc0lTUdoU0cQJwXptn9W82OFOecaVUpaCEsPGH7KkCGrQzNEqknqTMw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **网址：**  
 https://www.32kw.com/view/84264d9
@@ -841,9 +842,3 @@ https://www.32kw.com/view/84264d9
 干货满满，一杯咖啡的鼓励！
 
  **微信扫一扫赞赏作者**
-
-修改于 2025年04月02日
-
-修改于 2025年04月02日 继续滑动看下一个
-
-向上滑动看下一个 [知道了](https://mp.weixin.qq.com/s/) ： ， ， ， ， ， ， ， ， ， ， ， ， 。 视频 小程序 赞 ，轻点两下取消赞 在看 ，轻点两下取消在看 分享 留言 收藏 听过
