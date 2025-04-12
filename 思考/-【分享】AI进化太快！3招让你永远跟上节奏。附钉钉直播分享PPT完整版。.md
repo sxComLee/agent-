@@ -85,7 +85,7 @@ Prompt提示词也最多从面向过程转向面向目标。
 
 所以，今年整理的提示词学习知识库一点没落伍。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0Vs2NpciaribavUHAFLwVnRUXVj5kOMqnBrSrhfG8p4IRBIx3oFul6XSA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **免费访问地址**
 
@@ -95,14 +95,15 @@ Prompt提示词也最多从面向过程转向面向目标。
 
 《半拿铁》刘飞老师两年前写的Midjourney小报童课，到现在依然实用。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0fmHfmBpEMKjHvo0UEQU6fCYv6OT0lkxIibyGTlj7t9yOz283El7QReA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **下单地址**
 
 > https://www.xiaobot.net/p/MJ2023?refer=57b15ed3-a4b9-4f45-8137-7c0e49d84bbe
 
+#flashcards 
 ## 如何学才能收获最大？
-
+?
 答案： **干中学**
 
 把手弄脏，用AI模型和工具解决自己工作和生活中的各种真实问题。
@@ -117,10 +118,10 @@ Prompt提示词也最多从面向过程转向面向目标。
 
 只有自己变强，才能带领你的AI员工，所向披靡。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0kmxv2SeqBB2zSGibxKouT4dSLXAicphXqI2dIFCeC1H8toklvkHI0icug/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **AI领导力概念一览**  
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCVGziadI4DexHQORfiaNURqz0ibHXeOWUSjrOt0aGJ06Jiah12z0VnqqooicQnD4w91bZOTJsE0lSH4NuQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 用AI工具解决实际问题
 
