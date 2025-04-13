@@ -1,15 +1,15 @@
 ---
-标题: "Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？"
-链接: "https://mp.weixin.qq.com/s/CmndrE63eFviON4C-ug1Hg"
+标题: Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？
+链接: https://mp.weixin.qq.com/s/CmndrE63eFviON4C-ug1Hg
 作者: "[[宝藏同学阿真]]"
-创建时间: "2025-04-11T11:50:57+08:00"
-摘要:
+创建时间: 2025-04-11T11:50:57+08:00
+摘要: 
 tags:
-  - "clippings"
-  - "mjv7"
-  - "prompt"
+  - clippings
+  - mjv7
+  - prompt
 字数: "2849"
-状态: "未开始"
+状态:
 ---
 # [[学习方法/预读法介绍]]
 ### 预读问题  
