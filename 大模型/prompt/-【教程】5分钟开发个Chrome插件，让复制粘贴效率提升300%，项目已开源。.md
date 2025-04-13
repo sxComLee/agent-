@@ -1,15 +1,16 @@
 ---
-标题: "-【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。"
-链接: "https://mp.weixin.qq.com/s/L6GdGvcRz19SJUN4jhLohA"
+标题: -【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。
+链接: https://mp.weixin.qq.com/s/L6GdGvcRz19SJUN4jhLohA
 作者: "[[向阳乔木]]"
-创建时间: "2025-04-10T18:20:51+08:00"
-摘要:
+创建时间: 2025-04-10T18:20:51+08:00
+摘要: 
 tags:
-  - "clippings"
-  - "提示词"
-  - "chrom插件"
+  - clippings
+  - 提示词
+  - chrom插件
+  - "#ai编程"
 字数: "537"
-状态: "未开始"
+状态: 结束
 ---
 # [[预读法介绍]]
 ### 预读问题  
@@ -226,7 +227,7 @@ Ctrl + A 全选复制，往往复制过多，会把广告和网页菜单、底�
 
 开源的Readability.js代码实现，10分钟搞定。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAFKte3kZdJ0MkPpS0VkvtlIGiczgnRBibw0JVtxCTV4f1sO75gGgLQLkg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 新功能：三击展示高级复制
 
@@ -240,7 +241,7 @@ Ctrl + A 全选复制，往往复制过多，会把广告和网页菜单、底�
 
 在弹窗内完成所有操作。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jibL99tg2bCWl9RlahLVIPWg9cEphiaQXAo3p6pXibECFgFPhAM3g9RIb7ZrfjXvRHHqoP4RVzQbtzLW7tJIfZZRQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 功能介绍和开源地址
 
@@ -271,13 +272,3 @@ Anyway，我想说：
 一句话定制开发软件的时代真的快来了。
 
   
-
-向阳乔木
-
-干货满满，一杯咖啡的鼓励！
-
- **微信扫一扫赞赏作者**
-
-继续滑动看下一个
-
-向上滑动看下一个 [知道了](https://mp.weixin.qq.com/s/) ： ， ， ， ， ， ， ， ， ， ， ， ， 。 视频 小程序 赞 ，轻点两下取消赞 在看 ，轻点两下取消在看 分享 留言 收藏 听过

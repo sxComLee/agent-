@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "6cc91a8a080de8b4",
+            "id": "1a60d9f9eb5330a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
+                "file": "工具/-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐"
+              "title": "-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木"
+            }
+          },
+          {
+            "id": "90bfed57fde52747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube"
             }
           }
         ],
@@ -89,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
+                "file": "工具/-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐 的大纲"
+              "title": "-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木 的大纲"
             }
           },
           {
@@ -199,22 +212,26 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "6cc91a8a080de8b4",
+  "active": "1a60d9f9eb5330a2",
   "lastOpenFiles": [
+    "c8bb98b72100758bc8c66bfdf2c3668a_MD5.webp",
+    "工具/-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木.md",
+    "0d0222a456e6a4e7370a205dfc74e408_MD5.webp",
+    "e87ce75b3aa71fb3d33ee2ee0faadc8a_MD5.gif",
+    "d259cf14f76bbfdb5ad672d8cc089281_MD5.webp",
+    "f9d9c7e539b47ce255ff71fdd073f6fd_MD5.webp",
+    "36396c0fde652bb197177d3f02bffd76_MD5.webp",
+    "7d9ce5a54e40dc719af61c38b60c23a8_MD5.webp",
+    "81db3445bc8c98c698928d281a0d2c4b_MD5.webp",
+    "66a2da9d3528b399dfd90838cc1960a4_MD5.webp",
+    "3c05e4d6d6bbf2b0de524dc8acaf985f_MD5.webp",
     "每日笔记/2025-04-11.md",
+    "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
+    "大模型/prompt/-【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。.md",
+    "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md",
     "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
-    "a5e923ecaf240ff3a982218f6dd39a07_MD5.webp",
-    "2bbcf48df40f45e339583b9252824bd3_MD5.webp",
-    "38aba10fd4850a169a94abb9a9dcd536_MD5.webp",
-    "77016c57ec4ae16d27f6c27c512243f3_MD5.webp",
-    "7dfdd6b8f393b1f58084c43539d67e61_MD5.webp",
-    "edb3d29e3015910815480b19918f5c97_MD5.png",
-    "06398593e6726464658718359fc4906b_MD5.png",
-    "bb0963a530c2be28d7e88d05b0be6484_MD5.webp",
-    "6fb0f20004e9628420a7e2aa2176f3b4_MD5.webp",
-    "24655a10f921c40a887c50bf42a5bd6f_MD5.jpg",
     "大模型/prompt/未确认 426654.crdownload",
     "大模型/prompt/-最简单的 Prompt 写作框架，简单无脑，记忆点非常强！.md",
     "大模型/prompt/-为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
@@ -241,11 +258,6 @@
     "未命名",
     "大模型/测评/OmniTalker炸场：一段视频学会说话，唇形表情全同步！.md",
     "大模型/测评/这可能是目前最强的TTS，10秒复刻你的声音.md",
-    "大模型/prompt/提示词示例.md",
-    "大模型/prompt/技巧.md",
-    "思考/都2025年了，人们到底在用AI做什么？国外大牛总结了100个案例.md",
-    "大模型/MCP/从RestAPI到MCP：Higress AI网关一键切换.md",
-    "大模型/chatgpt/ChatGPT终于发布长期记忆功能，开启个人Agent时代.md",
-    "大模型/agent/n8n/DeepSeek+开源n8n：24小时推特(X)热点监控工作流太绝了！【附赠：完整工作流】-DeepSeek+开源n8n：24h推特(X)热点监控Workflow太绝了！【附赠：完整工作流】.md"
+    "大模型/prompt/提示词示例.md"
   ]
 }

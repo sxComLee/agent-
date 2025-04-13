@@ -1,13 +1,15 @@
 ---
-标题: "-【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube"
-链接: "https://mp.weixin.qq.com/s/GtI2LZ0ltlTiVX4Ty7n9AQ"
+标题: -【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube
+链接: https://mp.weixin.qq.com/s/GtI2LZ0ltlTiVX4Ty7n9AQ
 作者: "[[向阳乔木]]"
-创建时间: "2025-04-10T18:19:50+08:00"
-摘要:
+创建时间: 2025-04-10T18:19:50+08:00
+摘要: 
 tags:
-  - "clippings"
+  - clippings
+  - "#prompt"
+  - "#封面"
 字数: "144"
-状态: "未开始"
+状态: 结束
 ---
 # [[预读法介绍]]
 ### 预读问题  
