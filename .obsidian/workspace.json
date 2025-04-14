@@ -63,27 +63,6 @@
               "title": "Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "48a4b35c3ea2a894",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ffd8a03ceb16200",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://md.qiaomu.ai/md/",
-                "title": "微信 Markdown 编辑器 | Doocs 开源社区",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "微信 Markdown 编辑器 | Doocs 开源社区"
-            }
-          }
         ]
       }
     ],
@@ -141,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -205,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
+                "file": "每日笔记/2025-04-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式 的大纲"
+              "title": "2025-04-11 的大纲"
             }
           },
           {
@@ -257,7 +237,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8c338ab47b55aca0",
+  "active": "1c08c456e9fb6e0c",
   "lastOpenFiles": [
     "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
     "大模型/从0开始/-【推荐】微信公众号排版神器 + AI Prompt 技巧，应群友要求创作，耗时3小时。.md",
