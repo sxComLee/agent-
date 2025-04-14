@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
+                "file": "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐"
+              "title": "-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式"
+            }
+          },
+          {
+            "id": "9ad5d19acc464d90",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s/0VlazB1bpZz9QAxG5S9A9g",
+                "title": "【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式"
             }
           },
           {
@@ -51,6 +65,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "48a4b35c3ea2a894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ffd8a03ceb16200",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://md.qiaomu.ai/md/",
+                "title": "微信 Markdown 编辑器 | Doocs 开源社区",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "微信 Markdown 编辑器 | Doocs 开源社区"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
+                "file": "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐 的大纲"
+              "title": "-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式 的大纲"
             }
           },
           {
@@ -223,19 +257,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "017caaf068f7a895",
+  "active": "8c338ab47b55aca0",
   "lastOpenFiles": [
+    "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
+    "大模型/从0开始/-【推荐】微信公众号排版神器 + AI Prompt 技巧，应群友要求创作，耗时3小时。.md",
     "每日笔记/2025-04-11.md",
+    "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
+    "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
     "工具/-本周设计开源两个超酷产品！另辟谣：此乔木非彼乔木.md",
     "大模型/prompt/-【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。.md",
     "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
-    "工具/markdow/【教程】从恐惧到掌握：为什么连大学生都害怕的Markdown，你却能在10分钟内精通。附 8 款专用软件推荐.md",
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md",
     "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
     "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
     "大模型/MCP/MCP科普.md",
-    "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
     "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
     "c8bb98b72100758bc8c66bfdf2c3668a_MD5.webp",
     "0d0222a456e6a4e7370a205dfc74e408_MD5.webp",
@@ -268,8 +304,6 @@
     "大模型/agent/data_agent/未确认 12920.crdownload",
     "大模型/agent/data_agent",
     "未命名",
-    "大模型/测评/OmniTalker炸场：一段视频学会说话，唇形表情全同步！.md",
-    "大模型/测评/这可能是目前最强的TTS，10秒复刻你的声音.md",
-    "大模型/prompt/提示词示例.md"
+    "大模型/测评/OmniTalker炸场：一段视频学会说话，唇形表情全同步！.md"
   ]
 }

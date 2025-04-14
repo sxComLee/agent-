@@ -17,7 +17,7 @@
   "deepseekApiKey": "sk-2235706d474c45deb39a42a24b805275",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-chat|deepseek",
-  "embeddingModelKey": "text-embedding-3-large|openai",
+  "embeddingModelKey": "Pro/BAAI/bge-m3|3rd party (openai-format)",
   "temperature": 0.1,
   "maxTokens": 1000,
   "contextTurns": 15,
@@ -224,6 +224,16 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
+    },
+    {
+      "name": "Pro/BAAI/bge-m3",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-nigokgxlvmcmwhlsarggsgwhdbojwwmbsyjvnjysokkymbbv",
+      "isEmbeddingModel": true,
+      "capabilities": []
     }
   ],
   "embeddingRequestsPerMin": 90,

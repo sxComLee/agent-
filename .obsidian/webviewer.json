@@ -1,5 +1,7 @@
 {
   "openExternalURLs": true,
   "enableAdblocking": true,
-  "homepage": "https://chat.deepseek.com/"
+  "homepage": "https://chat.deepseek.com/",
+  "markdownPath": "clippings",
+  "searchEngine": "google"
 }
