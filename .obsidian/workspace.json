@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "2ab1ea400bfae71b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cookbook.openai.com/examples/vector_databases/readme",
+                "title": "Vector databases | OpenAI Cookbook",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Vector databases | OpenAI Cookbook"
+            }
+          },
+          {
             "id": "44ff781aa8449c15",
             "type": "leaf",
             "state": {
@@ -251,9 +265,9 @@
   },
   "active": "1c08c456e9fb6e0c",
   "lastOpenFiles": [
+    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
-    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "每日笔记/2025-04-11.md",
     "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
     "大模型/prompt/文生图/即梦3.0万能提示词模板，一键直出高级海报.md",
@@ -284,7 +298,6 @@
     "大模型/prompt/提示词示例.md",
     "大模型/Claude/-终于，Claude 的脑壳子被扒开看了！.md",
     "clippings/终于，Claude 的脑壳子被扒开看了！.md",
-    "0a1333ce4780c51f08ab9b8ad5e8b11e_MD5.webp",
     "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
     "大模型/从0开始/-【推荐】微信公众号排版神器 + AI Prompt 技巧，应群友要求创作，耗时3小时。.md",
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
