@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
+                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "提示词最佳实践宝典"
+              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
+                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示词最佳实践宝典 的大纲"
+              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041 的大纲"
             }
           },
           {
@@ -264,13 +264,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "ba4767a7993afc9e",
   "lastOpenFiles": [
+    "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
     "大模型/prompt/文生图/即梦3.0万能提示词模板，一键直出高级海报.md",
     "大模型/prompt/文生图/未确认 212300.crdownload",
     "大模型/prompt/文生图",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
-    "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
     "大模型/prompt/教程_翻译/AI Model Citations.md",
     "大模型/prompt/教程_翻译/AI Model Citations.html",
     "大模型/prompt/教程_翻译/AI Model Citations_副本.md",
