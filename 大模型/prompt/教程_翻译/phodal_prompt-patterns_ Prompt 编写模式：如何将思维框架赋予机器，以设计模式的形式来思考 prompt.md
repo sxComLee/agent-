@@ -1,14 +1,52 @@
 ---
-type: 技术笔记
-相关技术: 
-date: 2024-11-29
-status: 未开始
-技术效果: 
-tags: 
-作者: 
-字数: 
-建议时长:
+标题: "phodal/prompt-patterns: Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt"
+链接: "https://github.com/phodal/prompt-patterns?tab=readme-ov-file"
+作者: "[[GitHub]]"
+创建时间: "2025-04-15T20:38:36+08:00"
+摘要: "本文介绍了如何通过设计模式的形式来思考Prompt编写，将思维框架赋予机器，以更好地应用Prompt对AI进行编程。"
+tags:
+  - "clippings"
+  - "AI"
+  - "编程"
+  - "Prompt编写"
+  - "设计模式"
+  - "思维框架"
+字数: "1406"
+状态: "未开始"
 ---
+# [[学习方法/预读法介绍]]
+### 预读问题  
+**基于你的目标**：
+- Q1: 
+- Q2: 
+- Q3:   
+
+### 关键图表/代码  
+![[提取的图表或代码片段]]
+### 初步关联  
+- 已知：[[已掌握的相关知识]]  
+- 未知：`#待探索`  
+
+### 输出目标
+- [ ] 
+
+### 总结
+- 是什么
+- 为什么
+- 怎么用
+
+# 内容
+#flashcards
+Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+
+[prompt-patterns.phodal.com](https://prompt-patterns.phodal.com/ "https://prompt-patterns.phodal.com")
+
+[Open in github.dev](https://github.dev/) [Open in a new github.dev tab](https://github.dev/) [Open in codespace](https://github.com/codespaces/new/phodal/prompt-patterns?resume=1)
+
+## Prompt 编写模式：如何将思维框架赋予机器
+
+欢迎使用集成了这些模式的工具： [https://github.com/prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt)
+
 本书旨在介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。
 
 我们非常感谢您对本书的关注和支持，并欢迎您为该项目做出贡献！您可以通过以下方式参与本书的开发：
@@ -21,22 +59,23 @@ tags:
 我们希望通过大家的共同努力，能够让本书更加完善和实用，为更多的开发人员提供有价值的帮助和指导。谢谢您的支持和贡献！
 
 ChatGPT Simple Cheatsheet
+![[Pasted image 20250415204351.png]]
 
-[![[_resources/未命名/945d793534020957dfbc62a1306c7c6f_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/cheatsheet/prompt-simple-cheatsheet.jpg)
+[![](https://github.com/phodal/prompt-patterns/blob/master/patterns/specific.svg)
 
-Download: [pdf](https://github.com/phodal/prompt-patterns/blob/master/cheatsheet/prompt-simple-cheatsheet.pdf), [pptx](https://github.com/phodal/prompt-patterns/blob/master/cheatsheet/prompt-simple-cheatsheet.pptx)
+Download: [pdf](https://github.com/phodal/prompt-patterns/blob/master/cheatsheet/prompt-simple-cheatsheet.pdf), [pptx](https://github.com/phodal/prompt-patterns/blob/master/cheatsheet/prompt-simple-cheatsheet.pptx)
 
 如何理解 Prompt ？
 
-[![[_resources/未命名/3096ff23a10437b0b744e2776a1f0705_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/prompt-engine.svg)
+[![Prompt Enginneering](https://github.com/phodal/prompt-patterns/raw/master/patterns/prompt-engine.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/prompt-engine.svg)
 
 > prompt 通常指的是一个输入的文本段落或短语，作为生成模型输出的起点或引导。prompt 可以是一个问题、一段文字描述、一段对话或任何形式的文本输入，模型会基于 prompt 所提供的上下文和语义信息，生成相应的输出文本。
 
 举个例子，对于一个语言模型，prompt 可以是 "The cat sat on the"，模型可以通过对接下来的词语进行预测，生成类似于 "mat"、"chair"、"sofa" 等不同的输出：
 
-[![[_resources/未命名/9e0742adbe1fc47a5467392aa80cef5f_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/the-cast-sit-on.png)
+[![The Cat](https://github.com/phodal/prompt-patterns/raw/master/images/the-cast-sit-on.png)](https://github.com/phodal/prompt-patterns/blob/master/images/the-cast-sit-on.png)
 
-上图为 Stable Diffusion 生成 (Prompt: The cat sat on the , Steps: 30, Sampler: Euler a, CFG scale: 7, Seed: 234310862, Size: 512x512, Model hash: d8722b4a4d, Model: neverendingDreamNED_bakedVae)
+上图为 Stable Diffusion 生成 (Prompt: The cat sat on the, Steps: 30, Sampler: Euler a, CFG scale: 7, Seed: 234310862, Size: 512x512, Model hash: d8722b4a4d, Model: neverendingDreamNED\_bakedVae)
 
 Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它可以帮助模型更好地理解用户意图，并生成更准确、有意义的文本内容。 诸如于如下的 prompt
 
@@ -44,15 +83,12 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 可以在 Stable Diffusion 生成图片（配置了 negative prompt）：
 
-|   |   |   |
-|---|---|---|
-|[![[_resources/未命名/a4b05cacefe6d49d105108bde4b4fba9_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-1.png)|[![[_resources/未命名/0429ac274ecedc8b9757f703c28da9cc_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-2.png)|[![[_resources/未命名/1cfc4839c3c19717842f2a1a6142e9f6_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-3.png)|
+| [![](https://github.com/phodal/prompt-patterns/raw/master/images/backview-new-1.png)](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-1.png) | [![](https://github.com/phodal/prompt-patterns/raw/master/images/backview-new-2.png)](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-2.png) | [![](https://github.com/phodal/prompt-patterns/raw/master/images/backview-new-3.png)](https://github.com/phodal/prompt-patterns/blob/master/images/backview-new-3.png) |
+| --- | --- | --- |
 
 所以，质量看上去不错，但是可能不是你想要的。在 ChatGPT 则可以生成文本，质量上也是相似的，但是对于 AI 输出的文本来说，质量并没有这么直观。
 
-# 模式要素
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A8%A1%E5%BC%8F%E8%A6%81%E7%B4%A0)
+## 模式要素
 
 > 省去几千字
 
@@ -66,9 +102,7 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 - 结构图（Structure）：Prompt 模式的结构由一个输入文本和一个输出文本组成，它们被定义为模型的输入和输出。通常，输入文本包括一些关键词或短语，用于指定模型需要执行的任务或操作，而输出文本则是模型的预测结果。
 - 参考（References）：相关的文献包括 "GPT-3: Language Models are Few-Shot Learners"， "Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly" 等。常用的机器学习框架包括 TensorFlow，PyTorch 等。
 
-# 核心思想：概念与类比
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A0%B8%E5%BF%83%E6%80%9D%E6%83%B3%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%B1%BB%E6%AF%94)
+## 核心思想：概念与类比
 
 开始之前，可以看一下这个问题示例：
 
@@ -83,9 +117,7 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 当然了，类比和定义概念不一定都会成功。
 
-# 基础模式
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%BC%8F)
+## 基础模式
 
 四种基础模式：
 
@@ -96,13 +128,11 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 ## 特定指令（By specific）
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%89%B9%E5%AE%9A%E6%8C%87%E4%BB%A4by-specific)
-
-[![[_resources/未命名/2a6552ace833fb655615c3797735fc57_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/specific.svg)
+[![Prompt Enginneering](https://github.com/phodal/prompt-patterns/raw/master/patterns/specific.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/specific.svg)
 
 > 在这种模式下，我们给模型提供一些特定信息，例如问题或关键词，模型需要生成与这些信息相关的文本。这种模式通常用于生成答案、解释或推荐等。特定信息可以是单个问题或多个关键词，具体取决于任务的要求。
 
-如 `翻译`、`告诉我`，以我们的开头来说：
+如 `翻译` 、 `告诉我` ，以我们的开头来说：
 
 - 定义一下 prompt 工程
 
@@ -115,39 +145,35 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 ### 子模式
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%AD%90%E6%A8%A1%E5%BC%8F)
-
 如我们通过下面的 prompt 转换了 ChatGPT 输出的子模式：
 
-> 转化为 markdown 的 """`markdown {}` """ 表格形式，其中的字段为英语模式、中文、简述、示例。
+> 转化为 markdown 的 """ `markdown {} ` """ 表格形式，其中的字段为英语模式、中文、简述、示例。
 
 表格示例：
 
-|英语模式|中文|简述|示例|
-|---|---|---|---|
-|Completion-based|补全型|用户提供部分文本，AI 根据上下文生成建议|用户输入“我想买一件…”，ChatGPT 生成“红色连衣裙”|
-|Classification-based|分类型|用户提供问题或任务描述，AI 生成答案|用户输入“如何做巧克力蛋糕？”ChatGPT 生成“将巧克力蛋糕放入预热好的烤箱中烤25-30分钟。”|
-|Generation-based|生成型|用户提供初始信息，AI 生成新文本|用户输入“科技创新”，ChatGPT 生成“人工智能是科技创新领域的重要方向之一。”|
-|Translation-based|翻译型|用户提供文本，AI 进行翻译|用户输入“Hello”，ChatGPT 生成“你好”|
-|Question-answering|问答型|用户提供问题，AI 生成答案|用户输入“什么是机器学习？”，ChatGPT 生成“机器学习是一种人工智能的分支。”|
-|Conversation-based|对话型|用户与 AI 进行对话，AI 生成回答|用户输入“今天天气怎么样？”ChatGPT 生成“今天天气晴朗，温度适宜。”|
-|Summarization-based|摘要型|用户提供文本，AI 生成文本摘要|用户输入一篇文章，ChatGPT 生成该文章的摘要|
+| 英语模式 | 中文 | 简述 | 示例 |
+| --- | --- | --- | --- |
+| Completion-based | 补全型 | 用户提供部分文本，AI 根据上下文生成建议 | 用户输入“我想买一件…”，ChatGPT 生成“红色连衣裙” |
+| Classification-based | 分类型 | 用户提供问题或任务描述，AI 生成答案 | 用户输入“如何做巧克力蛋糕？”ChatGPT 生成“将巧克力蛋糕放入预热好的烤箱中烤25-30分钟。” |
+| Generation-based | 生成型 | 用户提供初始信息，AI 生成新文本 | 用户输入“科技创新”，ChatGPT 生成“人工智能是科技创新领域的重要方向之一。” |
+| Translation-based | 翻译型 | 用户提供文本，AI 进行翻译 | 用户输入“Hello”，ChatGPT 生成“你好” |
+| Question-answering | 问答型 | 用户提供问题，AI 生成答案 | 用户输入“什么是机器学习？”，ChatGPT 生成“机器学习是一种人工智能的分支。” |
+| Conversation-based | 对话型 | 用户与 AI 进行对话，AI 生成回答 | 用户输入“今天天气怎么样？”ChatGPT 生成“今天天气晴朗，温度适宜。” |
+| Summarization-based | 摘要型 | 用户提供文本，AI 生成文本摘要 | 用户输入一篇文章，ChatGPT 生成该文章的摘要 |
 
 其重点是：Output Driven
 
-在提示的开头包含所有相关信息，包括任何上下文或期望的结果，以及 长度，格式样式等。诸如于：`用 100 字总结一下 ChatGPT`。
+在提示的开头包含所有相关信息，包括任何上下文或期望的结果，以及 长度，格式样式等。诸如于： `用 100 字总结一下 ChatGPT` 。
 
 ## 指令模板（Instruction Template）
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%8C%87%E4%BB%A4%E6%A8%A1%E6%9D%BFinstruction-template)
-
-[![[_resources/未命名/e049acc5adb0ed454acfe5dfd8bafcea_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/instruction.svg)
+[![Instruction](https://github.com/phodal/prompt-patterns/raw/master/patterns/instruction.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/instruction.svg)
 
 > 在这种模式下，我们给模型提供一些明确的指令，模型需要根据这些指令生成文本。这种模式通常用于生成类似于技术说明书、操作手册等需要明确指令的文本。指令可以是单个句子或多个段落，具体取决于任务的要求。
 
 如下是一个示例：
 
-```md
+```
 使用 STAR 原则与下面的格式总结一下这段话：
 
 """
@@ -162,7 +188,7 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 输出文本时要注意中英文之间插入空格，留出间隔，诸如于 """Hello 你好"""，用这种方式输出一下刚才的文本：
 
-```md
+```
 情境(Situation): 最近几天，在工作和兴趣的驱动下，研究如何使用 text 2 image 和 text 2 article 展示 prompt 演进以及结合 GitHub Copliot 来完成工作。
 
 任务(Task):
@@ -185,21 +211,15 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 ### 最佳实践
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
-
 - zero-shot、few-shot 优先，最开始可以不给示例（因为示例可能是错的），看任务执行情况，再提供少量样本，如果不行，再对模型进行微调。
 
 ## 代理模式(By proxy)
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8Fby-proxy)
-
-[![[_resources/未命名/8c140c3568240a3a7b1f3a7f723c0ab1_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/proxy.svg)
+[![Proxy](https://github.com/phodal/prompt-patterns/raw/master/patterns/proxy.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/proxy.svg)
 
 > Proxy 模式是指用户可以要求 ChatGPT 以特定的身份、角色或者身份扮演某个特定的人、角色或对象来生成回答。这种模式通常用于模拟某个特定人物的语言风格和语境，生成特定情境下的对话、回答或其他形式的文本。
 
 ### 例子 1：公司客服
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E4%BE%8B%E5%AD%90-1%E5%85%AC%E5%8F%B8%E5%AE%A2%E6%9C%8D)
 
 当使用 ChatGPT 来代替某个人或实体时，可以使用 by proxy 模式。
 
@@ -213,11 +233,9 @@ Prompt 在人工智能语言生成领域中扮演着重要的角色，因为它�
 
 ### 例子 2：终端计算机
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E4%BE%8B%E5%AD%90-2%E7%BB%88%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA)
-
 这种方式可以通过让 ChatGPT 扮演某个实体的角色，例如客服、销售代表等等，来帮助用户解决问题。
 
-在 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 中：
+在 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 中：
 
 > Human: Act as a Linux Terminal
 
@@ -226,8 +244,6 @@ Robot:
 > ChatGPT: I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
 
 ## 示例模式（By demonstration）
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%A4%BA%E4%BE%8B%E6%A8%A1%E5%BC%8Fby-demonstration)
 
 > 在这种模式下，我们给模型提供一些示例文本，模型需要生成与示例文本类似的文本。这种模式通常用于生成类似于给定示例的文本，例如自动生成电子邮件、产品描述、新闻报道等。示例文本可以是单个句子或多个段落，具体取决于任务的要求。
 
@@ -242,26 +258,22 @@ Robot:
 执行 橙色代表什么
 ```
 
-[![[_resources/未命名/a63b190097b088134be8e0581c11a5e8_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/cohere-PromptEngineering_Visual_8.svg)
+[![](https://github.com/phodal/prompt-patterns/raw/master/patterns/cohere-PromptEngineering_Visual_8.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/cohere-PromptEngineering_Visual_8.svg)
 
 上图为 Cohere AI 官网的示例图，对应的聊天记录如下：
 
-```md
+```
 English: Writing about language models is fun.
 Roish: Writingro aboutro languagero modelsro isro funro.
 English: The weather is lovely!
 Roish:
 ```
 
-# 增强 Prompt
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%A2%9E%E5%BC%BA-prompt)
+## 增强 Prompt
 
 ## 符号化模式
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%AC%A6%E5%8F%B7%E5%8C%96%E6%A8%A1%E5%BC%8F)
-
-[![[_resources/未命名/648fe0cc1f83238d9a82168e3cfd8bca_MD5.svg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/prompt-symbol-pattern.svg)
+[![Symbol](https://github.com/phodal/prompt-patterns/raw/master/patterns/prompt-symbol-pattern.svg)](https://github.com/phodal/prompt-patterns/blob/master/patterns/prompt-symbol-pattern.svg)
 
 > 符号化方法通常通过定义符号、符号之间的关系以及基于这些关系的规则来表示知识。
 
@@ -280,10 +292,6 @@ Roish:
 
 围绕这个模式，我们可以创建复制的规则。
 
-## 反向 Prompt 模式
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%8F%8D%E5%90%91-prompt-%E6%A8%A1%E5%BC%8F)
-
 > Negative prompt（负向提示）是一种在使用语言模型时，针对模型输出不希望的结果而设置的一种文本输入方式。通过使用负向提示，可以帮助模型避免输出不良、不准确或不恰当的文本。
 
 具体来说，负向提示通常是以否定的形式呈现的，例如在文本生成任务中，使用“不要写...”、“不要提及...”、“不要使用...”等方式来限制模型生成不想要的文本。在情感分析任务中，使用“不是...”、“并不...”等方式来指示模型识别出一段文本的负面情感。在QA（问答）任务中，使用“不是...”、“不包括...”等方式来指示模型回答问题时避免输出错误或不准确的答案。
@@ -292,7 +300,7 @@ Negative Prompt 在 Stable Diffusion 被广泛使用，相似的，在 ChatGPT �
 
 诸如于：
 
-```md
+```
 我们能玩一个名为 kfc 的谜语创作游戏，当我说 "kfc"，你写一个谜题，要求：
 
 1. 不少于 200 字
@@ -307,17 +315,13 @@ Negative Prompt 在 Stable Diffusion 被广泛使用，相似的，在 ChatGPT �
 
 ## 再生成模式
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%86%8D%E7%94%9F%E6%88%90%E6%A8%A1%E5%BC%8F)
-
 根据 AI 提供的信息，再让 AI 生成内容。
 
 ### 例子 1
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E4%BE%8B%E5%AD%90-1)
-
 当我们无法确定我们的 prompt 是否准确，便可以通过 AI 来帮我们丰富 prompt 。
 
-如我在：[基于编程、绘画、写作的 AI 探索与总结](https://github.com/phodal/ai-research-for-practise) 的例了一样
+如我在： [基于编程、绘画、写作的 AI 探索与总结](https://github.com/phodal/ai-research-for-practise) 的例了一样
 
 - phodal: 我想写一段话描述一张照片，帮我美化一下：一年轻女子穿着裙子，背对着镜头，在海边看着日落，太阳已经到地平线下面了，她的头发在风中飘动。
 - ChatGPT: 这张照片中的场景令人心醉，一位年轻女子穿着一条裙子，站在海边，背对着镜头，凝视着地平线下的夕阳。太阳已经沉入了海面，一片金黄色的光芒在海面上弥漫，照亮了整片海洋，仿佛这个时刻被定格在了时间的某个角落里。女子的头发随着微风轻轻飘动，轮廓被余晖映照得柔和而温暖。她的目光凝视着远方，仿佛在思考着生命的意义和无尽的未来。这张照片中蕴含着一种深刻的内涵，让人感受到时间和自然的力量，也让人思考着自己在这个宏大而美丽的世界中的角色和意义。
@@ -334,25 +338,22 @@ Negative Prompt 在 Stable Diffusion 被广泛使用，相似的，在 ChatGPT �
 
 ## 控线模式
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%8E%A7%E7%BA%BF%E6%A8%A1%E5%BC%8F)
-
 TODO：这里需要给出更精准的定义，如何让 ChatGPT 做到？
 
 在没有推出 ControlNet，对于一个 Stable Diffusion 玩家，它需要反复地吟唱咒语，才能获取到满意的图案。
 
 在有了 ControlNet 之后，我们可以创建一个 Openpose，或者是导入图片从图片生成 pose，相当于是给机器一个示例，而后生成的图片就会有令人满意的姿势。：
 
-|   |   |   |
-|---|---|---|
-|[![[_resources/未命名/1095126b78d3532f3ef1b5a996a1b881_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-1.png)|[![[_resources/未命名/eb8818cc702fe3587d186a99193718c9_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-gen-1.png)|[![[_resources/未命名/a842fdc6f52f2b9602f47f4ceae5153d_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-gen-2.png)|
+| [![](https://github.com/phodal/prompt-patterns/raw/master/images/openpose-1.png)](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-1.png) | [![](https://github.com/phodal/prompt-patterns/raw/master/images/openpose-gen-1.png)](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-gen-1.png) | [![](https://github.com/phodal/prompt-patterns/raw/master/images/openpose-gen-2.png)](https://github.com/phodal/prompt-patterns/blob/master/images/openpose-gen-2.png) |
+| --- | --- | --- |
 
 在 GitHub Copilot，我们可以通过设置输入和输出，结合函数名三个要素，Copilot 就能生成大致准确的代码：
 
-[![[_resources/未命名/d207e737296e26dea557ba3f55d6df18_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/github-copilot-dir-sample.png)
+[![GitHub Copilot 示例](https://github.com/phodal/prompt-patterns/raw/master/images/github-copilot-dir-sample.png)](https://github.com/phodal/prompt-patterns/blob/master/images/github-copilot-dir-sample.png)
 
 而在必要的情况下，添加一下注释就能更完整了：
 
-```kotlin
+```
 fun listAllDirInDir(dir: String): List<File> {
     // ignore hidden files
     
@@ -361,17 +362,11 @@ fun listAllDirInDir(dir: String): List<File> {
 
 生成的代码会更贴近我们的需求。
 
-# 概念模式集
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%BC%8F%E9%9B%86)
-
-## Language is Language
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#language-is-language)
+## 概念模式集
 
 对于 ChatGPT 来说，语言就是语言，他不区分自然语言和编程语言，甚至有可能编程语言对它更友好。所以我们可以直接通过编程语言与之交流：
 
-```md
+```
 我有下列遗留代码，我想在接口的函数名、参数名不变的情况下（可以新参数，旧的参数不能变）加入新功能：
 
 module.exports = async function loadYamlFile(filepath, workdir = path.dirname(filepath)) { 
@@ -405,7 +400,7 @@ module.exports = async function loadYamlFile(filepath, workdir = path.dirname(fi
 
 上述描述会比纯自然语言更容易描述我们的需求，适合于更精细的指导。同时，不一定是编程语言，结构化的声明式DSL它也可以很好的解析，如：
 
-```md
+```
 把我给定的输入输出，按照下面的格式写成一个测试用例的描述：
 
 {
@@ -423,7 +418,7 @@ module.exports = async function loadYamlFile(filepath, workdir = path.dirname(fi
 
 结果：
 
-```md
+```
 {
   desc: 'Test with $p_ref returning array',
   input: {
@@ -456,11 +451,9 @@ module.exports = async function loadYamlFile(filepath, workdir = path.dirname(fi
 
 ## 概念抽象
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A6%82%E5%BF%B5%E6%8A%BD%E8%B1%A1)
-
 对于 ChatGPT 尚不存在的概念，可以通过 Google 相关的内容之后，由 ChatGPT 进行总结。
 
-```md
+```
 根据下面的文本重新解释一下 ControlNet：
 
 - 官网介绍：ControlNet is a neural network structure to control diffusion models by adding extra conditions.
@@ -470,13 +463,13 @@ module.exports = async function loadYamlFile(filepath, workdir = path.dirname(fi
 
 结果：
 
-```md
+```
 根据给出的文本，ControlNet是一种神经网络结构，旨在通过添加额外条件来控制扩散模型。在特定场景下，ControlNet被用于生成类似建模效果（法线贴图）的中间图和相关的图像。这种技术可以被应用于多个领域，如骨骼绑定、精准控线、线稿上色、深度图结构透视精准重绘等。
 
 具体来说，ControlNet技术可以被用来控制模型的扩散过程，从而提取特定的信息并生成新的图像。在骨骼绑定、线稿上色等场景中，ControlNet技术可以被用来增强图像，使其更加真实和生动。在依据深度图结构透视精准重绘的场景中，ControlNet技术可以被用来根据图像的深度信息，生成精确的重绘图像，从而提高图像的真实感和逼真度。
 ```
 
-缩短：`能用一句话解释一下 ControlNet 吗`
+缩短： `能用一句话解释一下 ControlNet 吗`
 
 结果：
 
@@ -486,11 +479,9 @@ ControlNet 是一种神经网络结构，通过添加额外的条件来控制扩
 
 ## 概念对齐
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A6%82%E5%BF%B5%E5%AF%B9%E9%BD%90)
-
 如在 ChatGPT 中对于自举的理解是不符合我们这里的需求：
 
-[![[_resources/未命名/a9cd2622f1f6be0065e6845fee1e70f3_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/compiler-bootstrap.png)
+[![Bootstrap](https://github.com/phodal/prompt-patterns/raw/master/images/compiler-bootstrap.png)](https://github.com/phodal/prompt-patterns/blob/master/images/compiler-bootstrap.png)
 
 第一步，定义
 
@@ -504,31 +495,25 @@ ControlNet 是一种神经网络结构，通过添加额外的条件来控制扩
 
 > 那么，抽象一下我们新定义的自举？
 
-[![[_resources/未命名/523acb690ab24547a184655182674bdf_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/summarize.png)
+[![总结](https://github.com/phodal/prompt-patterns/raw/master/images/summarize.png)](https://github.com/phodal/prompt-patterns/blob/master/images/summarize.png)
 
 最后一问：
 
-[![[_resources/未命名/6c04a5ed8494b73853810adab0a6a2cb_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/human-bootstrap.png)
+[![自举](https://github.com/phodal/prompt-patterns/raw/master/images/human-bootstrap.png)](https://github.com/phodal/prompt-patterns/blob/master/images/human-bootstrap.png)
 
 PS：mmp，他一定是故意的。
 
-# 类比模式集（待定）
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%B1%BB%E6%AF%94%E6%A8%A1%E5%BC%8F%E9%9B%86%E5%BE%85%E5%AE%9A)
+## 类比模式集（待定）
 
 > 类比是指将一个事物或概念与另一个事物或概念进行比较，找出它们之间的相似之处，以此来推理或说明某个问题或情况。
 
 ## CoT
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#cot)
 
 > CoT 是 "Chain of Thought" 的缩写，是一种针对自然语言处理 (NLP) 模型的提示方法，旨在提高模型的推理能力。通过将多步骤问题分解为中间推理步骤，CoT 提示使得模型可以更有效地处理需要多步骤推理的任务，如数学问题和常识推理。与传统提示方法不同，CoT 提示引导模型生成中间推理步骤，从而模拟人类推理的直觉过程。
 
 TODO:（rename to Manual-Cot/Auto-CoT ）
 
 ## 模板方法
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95)
 
 > 模板方法模式是一种行为型模式，它定义了一个操作中的算法骨架，将某些步骤延迟到子类中实现，从而使得子类可以在不改变算法结构的情况下重新定义算法中的某些步骤。
 
@@ -590,19 +575,17 @@ console.log(result);
 
 ## 自举模式
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E8%87%AA%E4%B8%BE%E6%A8%A1%E5%BC%8F)
-
 > 自举（Boostrapping）的核心思想是利用一组基础工具和材料来构建和生成一个新的工具或系统，从而逐步替代掉原有的基础工具和材料。在这个过程中，新的工具或系统会逐渐变得更为高效和强大，从而实现对原有基础工具和材料的完全替代。
 
 如下图所示：
 
-[![[_resources/未命名/85171ad0f3d15dac3b1be5c35cb840d3_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/patterns/bootstrapping.png)
+[![Bootstrap](https://github.com/phodal/prompt-patterns/raw/master/patterns/bootstrapping.png)](https://github.com/phodal/prompt-patterns/blob/master/patterns/bootstrapping.png)
 
-TODO：重新解释，上图出自：《[Bootstrapping in Compiler Design](https://www.geeksforgeeks.org/bootstrapping-in-compiler-design/)
+TODO：重新解释，上图出自：《 [Bootstrapping in Compiler Design](https://www.geeksforgeeks.org/bootstrapping-in-compiler-design/)
 
 先看例子 1：文章
 
-[![[_resources/未命名/c90d49ee72c059fec84c2a707cd3f44c_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/chatgpt-bootstrap-article.png)
+[![](https://github.com/phodal/prompt-patterns/raw/master/images/chatgpt-bootstrap-article.png)](https://github.com/phodal/prompt-patterns/blob/master/images/chatgpt-bootstrap-article.png)
 
 例子 2：Wula 2.0
 
@@ -610,17 +593,15 @@ TODO：重新解释，上图出自：《[Bootstrapping in Compiler Design](https
 > wula：创作一个新游戏名为 muji，并解释一下这个游戏："""类似于 wula，可以做简单的图形计算，如体积、面积等。这个游戏还能把解决过程解释清楚，拥有有可运行的 Python 代码，最后的输出结果是一篇文章。"""
 ```
 
-[![[_resources/未命名/9bcd4e9a8e73da5a5ffd5bc1d34119ed_MD5.jpg]]](https://github.com/phodal/prompt-patterns/blob/master/images/wula-muji.png)
+[![Muji Sample](https://github.com/phodal/prompt-patterns/raw/master/images/wula-muji.png)](https://github.com/phodal/prompt-patterns/blob/master/images/wula-muji.png)
 
 ## 拆解模式
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E6%8B%86%E8%A7%A3%E6%A8%A1%E5%BC%8F)
 
 > 对于复杂问题，ChaGPT 无法一次性输出全部内容，需要进行拆解。
 
 已知问题：ChatGPT 当前版本会丢失上下文。
 
-```md
+```
 我们来定义一下 DDD 游戏的步骤，一共有 6 个步骤，步骤如下：
 
 """
@@ -637,27 +618,21 @@ TODO：重新解释，上图出自：《[Bootstrapping in Compiler Design](https
 明白这个游戏怎么玩了吗？
 ```
 
-完整过程见：[DDD Sample](https://github.com/phodal/prompt-patterns/blob/master/ddd.sample.md)
+完整过程见： [DDD Sample](https://github.com/phodal/prompt-patterns/blob/master/ddd.sample.md)
 
-# 其它模式？
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%85%B6%E5%AE%83%E6%A8%A1%E5%BC%8F)
+## 其它模式？
 
 ## pipeline模式（TODO）
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#pipeline%E6%A8%A1%E5%BC%8Ftodo)
 
 后处理 pipe，示例：当你希望给我图片的时候，用mermaid表达
 
 ## 图形化实践
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%9B%BE%E5%BD%A2%E5%8C%96%E5%AE%9E%E8%B7%B5)
-
 phodal: 能用 uml 表示一下上文中的 """ArchGuard Pipeline 的工作流程""" 吗？
 
 > 当然可以。下面是 ArchGuard Pipeline 的工作流程的 UML 类图表示：
 
-```lua
+```
 +-----------------+          +-----------------+
 | ArchGuardConfig  |          | ArchGuardRunner  |
 +-----------------+          +-----------------+
@@ -685,33 +660,21 @@ phodal: 能用 mermaid 表示一下上文中的 """ArchGuard Pipeline 的工作�
 
 注：这与我之前用 UML 表示的工作流程是等价的。
 
-# 其它
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%85%B6%E5%AE%83)
+## 其它
 
 ## 人类如何思考问题？
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E4%BA%BA%E7%B1%BB%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98)
 
 人类相对于其他动物更擅长于类比、概念抽象、符号化等高级认知活动，这些认知活动可以帮助人类在面对新问题时，从已有的知识和经验中找到相似的部分，快速理解和解决新问题。
 
 而对于机器来说，机器学习算法通过大量的数据和计算，学习到数据中的规律和模式，并将这些规律和模式应用到新的数据中，从而实现预测和决策等功能。例如，机器学习算法可以通过大量的图像数据学习到图像的特征，并在新的图像中识别出相应的物体；也可以通过大量的自然语言数据学习到语言的规律，从而生成自然语言文本。
 
-# 相关资源
+## 相关资源
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90)
-
-本文相关的模式图片参考来源主要是：[Prompt Engineering](https://docs.cohere.ai/docs/prompt-engineering)
+本文相关的模式图片参考来源主要是： [Prompt Engineering](https://docs.cohere.ai/docs/prompt-engineering)
 
 ## Practise
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#practise)
-
-参考：[Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-
-## 相关资源 Prompt Engineering
-
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-prompt-engineering)
+参考： [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
@@ -719,25 +682,31 @@ phodal: 能用 mermaid 表示一下上文中的 """ArchGuard Pipeline 的工作�
 
 ### 入门
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%85%A5%E9%97%A8)
-
 - [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
 - [Prompt Engineering Guide: How to Engineer the Perfect Prompts](https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts/)
 
 ### Code
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#code)
-
 - [https://github.com/microsoft/prompt-engine](https://github.com/microsoft/prompt-engine), This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).
 
 ### 安全问题
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98)
-
-- Prompt injection: [Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
+- Prompt injection: [Exploring Prompt Injection Attacks](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 
 ### 相关文章
 
-[](https://github.com/phodal/prompt-patterns?tab=readme-ov-file#%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0)
-
 - [How to get Codex to produce the code you want!](https://microsoft.github.io/prompt-engineering/)
+
+## Releases
+
+No releases published
+
+## Packages
+
+No packages published  
+
+## Deployments 23
+
+- [github-pages](https://github.com/phodal/prompt-patterns/deployments/github-pages)
+
+[\+ 22 deployments](https://github.com/phodal/prompt-patterns/deployments)
