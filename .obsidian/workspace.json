@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
-                "mode": "source",
-                "source": false
+                "file": "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041"
+              "title": "提示词最佳实践宝典"
             }
           },
           {
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.5
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
+                "file": "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041 的大纲"
+              "title": "提示词最佳实践宝典 的大纲"
             }
           },
           {
@@ -267,7 +267,11 @@
   },
   "active": "ba4767a7993afc9e",
   "lastOpenFiles": [
-    "大模型/prompt/教程_翻译/youware教程.md",
+    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
+    "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
+    "大模型/prompt/教程_翻译/AI Model Citations.md",
+    "大模型/prompt/教程_翻译/AI Model Citations.html",
+    "大模型/prompt/教程_翻译/AI Model Citations_副本.md",
     "大模型/prompt/教程_翻译/AI Model Citations_files/saved_resource",
     "大模型/prompt/教程_翻译/AI Model Citations_files/all.min.css",
     "大模型/prompt/教程_翻译/AI Model Citations_files/d4e744ec21a483c8.css",
@@ -277,7 +281,6 @@
     "大模型/prompt/教程_翻译/AI Model Citations_files/6259-9045f1b9b61df21c.js",
     "大模型/prompt/教程_翻译/AI Model Citations_files/polyfills-42372ed130431b0a.js",
     "大模型/prompt/教程_翻译/AI Model Citations_files/collect-rangers-v5.2.1.js",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/f.txt",
     "大模型/prompt/教程_翻译/AI Model Citations_files/logo-shape.svg",
     "大模型/prompt/教程_翻译/AI Model Citations_files/yourware-text-shape.svg",
     "大模型/prompt/教程_翻译/AI Model Citations_files/money-with-wings.svg",
@@ -286,7 +289,6 @@
     "大模型/prompt/教程_翻译/AI Model Citations_files/clap.svg",
     "大模型/prompt/教程_翻译/AI Model Citations_files/3lnapn5ibe.png",
     "大模型/prompt/教程_翻译/AI Model Citations_files/100.svg",
-    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "每日笔记/2025-04-15.md",
     "大模型/prompt/gpt4o/GPT4o又出15种脑洞玩法，吉卜力已经落后N个版本了.md",
     "大模型/prompt/-最简单的 Prompt 写作框架，简单无脑，记忆点非常强！.md",
@@ -309,8 +311,6 @@
     "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
     "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
     "大模型/MCP/MCP科普.md",
-    "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
-    "大模型/prompt/为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md",
-    "大模型/prompt/-为给博客改版，花3小时写了段Prompt，不仅结构内容可控，且效果出众。附实战经验分享和完整提示词.md"
+    "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md"
   ]
 }
