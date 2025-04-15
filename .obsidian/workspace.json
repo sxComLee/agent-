@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -259,13 +259,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ba4767a7993afc9e",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
