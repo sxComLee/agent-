@@ -11,14 +11,12 @@
             "id": "1c08c456e9fb6e0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
-                "mode": "source",
-                "source": false
+                "file": "大模型/prompt/prompt-simple-cheatsheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041"
+              "icon": "lucide-file-text",
+              "title": "prompt-simple-cheatsheet"
             }
           },
           {
@@ -212,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
+                "file": "大模型/prompt/prompt-simple-cheatsheet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041 的大纲"
+              "title": "prompt-simple-cheatsheet 的大纲"
             }
           },
           {
@@ -242,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -263,12 +261,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1c08c456e9fb6e0c",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
+    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
+    "大模型/prompt/prompt-simple-cheatsheet.pdf",
     "templater/笔记模版.md",
     "templater",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
-    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
     "每日笔记/2025-04-11.md",
@@ -283,7 +282,6 @@
     "大模型/prompt/教程_翻译/AI Model Citations_files/d4e744ec21a483c8.css",
     "大模型/prompt/教程_翻译/AI Model Citations_files/4bd1b696-8ce78113a97a239b.js",
     "大模型/prompt/教程_翻译/AI Model Citations_files/1684-eda00b2b5ee5cc9a.js",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/main-app-2f6837e826d2ccfc.js",
     "大模型/prompt/教程_翻译/AI Model Citations_files/logo-shape.svg",
     "大模型/prompt/教程_翻译/AI Model Citations_files/yourware-text-shape.svg",
     "大模型/prompt/教程_翻译/AI Model Citations_files/money-with-wings.svg",
@@ -309,7 +307,6 @@
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md",
     "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md",
-    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md",
-    "大模型/MCP/MCP科普.md"
+    "大模型/Claude/Claude think ≠ extended thinking，傻傻分不清？官方教程来了！.md"
   ]
 }
