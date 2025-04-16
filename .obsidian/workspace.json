@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
+                "file": "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址"
+              "title": "【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube"
             }
           },
           {
@@ -102,7 +102,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "499801c21c312d25",
+  "active": "8c338ab47b55aca0",
   "lastOpenFiles": [
+    "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
     "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
     "大模型/prompt/Prompt 编写模式：如何将思维框架赋予机器.md",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
@@ -268,7 +270,6 @@
     "大模型/prompt/-【教程】5分钟开发个Chrome插件，让复制粘贴效率提升300%，项目已开源。.md",
     "大模型/prompt/【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube.md",
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
-    "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md",
-    "思考/-【分享】AI进化太快！3招让你永远跟上节奏。附钉钉直播分享PPT完整版。.md"
+    "工具/一些实用工具、AI玩法和教程，重点推纳瓦尔最新访谈.md"
   ]
 }
