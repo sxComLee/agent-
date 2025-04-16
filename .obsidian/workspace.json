@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
+                "file": "大模型/prompt/-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt"
+              "title": "-【教程】一个提示词生成29种排版风格，秒杀80%人水平，附在线免费用网址"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:核心信息提取",
+                "query": "小红书",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,15 +222,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "499801c21c312d25",
   "lastOpenFiles": [
+    "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
     "大模型/prompt/Prompt 编写模式：如何将思维框架赋予机器.md",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
     "工具/-【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式.md",
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
-    "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
     "大模型/prompt/教程_翻译/Prompt 编写模式：如何将思维框架赋予机器.md",
     "大模型/prompt/prompt-simple-cheatsheet.pdf",
     "templater/笔记模版.md",
