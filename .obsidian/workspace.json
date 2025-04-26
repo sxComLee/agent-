@@ -102,8 +102,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8c338ab47b55aca0",
+  "active": "499801c21c312d25",
   "lastOpenFiles": [
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "每日笔记/2025-04-22.md",
