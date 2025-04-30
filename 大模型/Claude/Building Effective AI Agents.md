@@ -62,10 +62,10 @@ Below, we will explore both types of agentic systems in detail. In Appendix 1 (�
 ## When (and when not) to use agents何时（以及何时不）使用代理
 
 When building applications with LLMs, we recommend finding the simplest solution possible, and only increasing complexity when needed. This might mean not building agentic systems at all. Agentic systems often trade latency and cost for better task performance, and you should consider when this tradeoff makes sense.  
-在使用 LLMs 构建应用程序时，我们建议寻找最简单的解决方案，并在需要时才增加复杂性。这可能意味着根本不构建代理系统。代理系统通常以牺牲延迟和成本为代价来换取更好的任务性能，你应该考虑这种权衡何时是合理的。
+在使用 LLMs 构建应用程序时，我们建议寻找最简单的解决方案，并在需要时才增加复杂性。这可能意味着根本不构建 Agentic 系统。Agentic 系统通常以**牺牲延迟和成本为代价**来换取更好的任务性能，你应该考虑这种权衡何时是合理的。
 
 When more complexity is warranted, workflows offer predictability and consistency for well-defined tasks, whereas agents are the better option when flexibility and model-driven decision-making are needed at scale. For many applications, however, optimizing single LLM calls with retrieval and in-context examples is usually enough.  
-当需要更多的复杂性时，工作流程为定义明确的任务提供可预测性和一致性，而代理在需要大规模的灵活性和模型驱动决策时是更好的选择。然而，对于许多应用程序来说，优化单个 LLM 调用，使用检索和上下文示例通常就足够了。
+当需要更多的复杂性时，**workflows** 为定义**明确的任务提供可预测性和一致性**，而 **agents** 在需要大规模的**灵活性和模型驱动决策**时是更好的选择。然而，对于许多应用程序来说，优化单个 LLM 调用，使用检索和上下文示例通常就足够了。
 
 ## When and how to use frameworks何时以及如何使用框架
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
+                "file": "大模型/Claude/Building Effective AI Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版"
+              "title": "Building Effective AI Agents"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -224,6 +225,7 @@
   },
   "active": "8c338ab47b55aca0",
   "lastOpenFiles": [
+    "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "大模型/从0开始/分镜4.mp4",
     "大模型/从0开始/分镜4.mp4.crdownload",
     "大模型/从0开始/分镜2.mp4",
@@ -238,7 +240,6 @@
     "大模型/MCP/servers/未确认 555239.crdownload",
     "大模型/MCP/servers",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
-    "大模型/测评/未确认 472032.crdownload",
     "大模型/Claude/Contextual Retrieval in AI Systems.md",
     "大模型/Claude/Building Effective AI Agents.md",
     "大模型/Claude/Claude Code Best Practices.md",
@@ -246,7 +247,6 @@
     "大模型/测评/豆包大模型效果提升建议(20241231版) .md",
     "大模型/A2A/A2A 与 MCP 协议的深度融合：智能体生态的互补性与协同.md",
     "每日笔记/2025-04-27.md",
-    "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "每日笔记/2025-04-22.md",
     "大模型/deepseek/「DeepSeek-V3 技术解析」：DeepSeek-V3-Base 预训练阶段解析.md",
     "大模型/chatgpt/OpenAI发布o3和o4mini，看图不过脑子的大模型开窍了.md",
