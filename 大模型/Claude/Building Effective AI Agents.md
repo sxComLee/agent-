@@ -113,7 +113,7 @@ We recommend focusing on two key aspects of the implementation: tailoring these 
 For the remainder of this post, we'll assume each LLM call has access to these augmented capabilities.  
 在本文的剩余部分，我们将假设每个 LLM 调用都具备这些增强功能。
 
-### Workflow: Prompt chaining工作流程：提示链
+#### Workflow: Prompt chaining工作流程：提示链
 
 Prompt chaining decomposes a task into a sequence of steps, where each LLM call processes the output of the previous one. You can add programmatic checks (see "gate” in the diagram below) on any intermediate steps to ensure that the process is still on track.  
 提示链将任务分解为一系列步骤，其中每个 LLM 调用处理上一个步骤的输出。您可以在任何中间步骤添加程序性检查（见下图中“gate”节点），以确保流程仍在正轨上。
@@ -131,7 +131,7 @@ Prompt chaining decomposes a task into a sequence of steps, where each LLM call 
 - Writing an outline of a document, checking that the outline meets certain criteria, then writing the document based on the outline.  
 	撰写文档大纲，检查大纲是否符合某些标准，然后根据大纲撰写文档。
 
-### Workflow: Routing 工作流程：路由
+#### Workflow: Routing 工作流程：路由
 
 Routing classifies an input and directs it to a specialized followup task. This workflow allows for separation of concerns, and building more specialized prompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs.  
 路由将输入进行分类并引导它到专门的后续任务。此工作流程允许分离关注点，并构建更专业的提示。如果没有此工作流程，针对一种类型的输入进行优化可能会损害其他输入的性能。
@@ -141,6 +141,8 @@ Routing classifies an input and directs it to a specialized followup task. This 
 **When to use this workflow:** Routing works well for complex tasks where there are distinct categories that are better handled separately, and where classification can be handled accurately, either by an LLM or a more traditional classification model/algorithm.  
 何时使用此工作流程：路由适用于具有明显类别且更适合单独处理的复杂任务，以及分类可以准确处理的情况，无论是通过 LLM 还是更传统的分类模型/算法。
 
+什么时候使用路由workflow::适用于具有明显类别且更适合单独处理的复杂任务，以及分类可以准确处理的情况
+
 **Examples where routing is useful:  
 路由应用示例：**
 
@@ -149,7 +151,7 @@ Routing classifies an input and directs it to a specialized followup task. This 
 - Routing easy/common questions to smaller models like Claude 3.5 Haiku and hard/unusual questions to more capable models like Claude 3.5 Sonnet to optimize cost and speed.  
 	将简单/常见问题路由到较小的模型如 Claude 3.5 Haiku，将复杂/不寻常问题路由到更强大的模型如 Claude 3.5 Sonnet，以优化成本和速度。
 
-### Workflow: Parallelization工作流程：并行化
+#### Workflow: Parallelization工作流程：并行化
 
 LLMs can sometimes work simultaneously on a task and have their outputs aggregated programmatically. This workflow, parallelization, manifests in two key variations:  
 LLMs 有时可以同时处理一个任务并将输出程序化地汇总。这种工作流程，即并行化，有两种关键变体：
@@ -164,23 +166,25 @@ LLMs 有时可以同时处理一个任务并将输出程序化地汇总。这种
 The parallelization workflow 并行化工作流程
 
 **When to use this workflow:** Parallelization is effective when the divided subtasks can be parallelized for speed, or when multiple perspectives or attempts are needed for higher confidence results. For complex tasks with multiple considerations, LLMs generally perform better when each consideration is handled by a separate LLM call, allowing focused attention on each specific aspect.  
-何时使用此工作流程：当子任务可以并行化以提高速度或需要多个视角或尝试以提高置信度结果时，并行化是有效的。对于需要考虑多个方面的复杂任务，当每个考虑因素由单独的 LLM 调用处理时，LLMs 通常表现更好，允许对每个特定方面进行专注的注意。
+何时使用此工作流程：当子任务可以并行化以提高速度或需要多个视角以及多次尝试以提高置信度结果时，并行化是有效的。对于需要考虑多个方面的复杂任务，当每个考虑因素由单独的 LLM 调用处理时，LLMs 通常表现更好，允许对每个特定方面进行专注的注意。
+
+什么时候使用并行工作流:: 当子任务可以并行化以提高速度或需要多个视角以及多次尝试以提高置信度结果时。
 
 **Examples where parallelization is useful:  
 示例中并行化有用的场景：**
 
-- **Sectioning**:分节：
+- **Sectioning**:分节（分工处理）：
 	- Implementing guardrails where one model instance processes user queries while another screens them for inappropriate content or requests. This tends to perform better than having the same LLM call handle both guardrails and the core response.  
 		实施防护措施，其中一个模型实例处理用户查询，另一个实例筛选不适当的内容或请求。这通常比让同一个 LLM 调用同时处理防护措施和核心响应表现得更好。
 	- Automating evals for evaluating LLM performance, where each LLM call evaluates a different aspect of the model’s performance on a given prompt.  
 		自动评估以评估 LLM 性能，其中每个 LLM 调用评估给定提示下模型性能的不同方面。
-- **Voting**:投票：
+- **Voting**:投票（多角度筛查）：
 	- Reviewing a piece of code for vulnerabilities, where several different prompts review and flag the code if they find a problem.  
 		检查代码是否存在漏洞，通过多个不同的提示来审查代码，如果发现问题则标记。
 	- Evaluating whether a given piece of content is inappropriate, with multiple prompts evaluating different aspects or requiring different vote thresholds to balance false positives and negatives.  
 		评估给定内容是否不适当，多个提示评估不同方面或需要不同的投票阈值，以平衡误报和漏报。
 
-### Workflow: Orchestrator-workers工作流程：协调器-工作者
+#### Workflow: Orchestrator-workers工作流程：协调器-工作者
 
 In the orchestrator-workers workflow, a central LLM dynamically breaks down tasks, delegates them to worker LLMs, and synthesizes their results.  
 在协调器-工作者工作流程中，一个中央 LLM 动态分解任务，将它们委托给工作者 LLM，并综合他们的结果。
@@ -192,6 +196,12 @@ The orchestrator-workers workflow 协调器-工作者工作流程
 **When to use this workflow:** This workflow is well-suited for complex tasks where you can’t predict the subtasks needed (in coding, for example, the number of files that need to be changed and the nature of the change in each file likely depend on the task). Whereas it’s topographically similar, the key difference from parallelization is its flexibility—subtasks aren't pre-defined, but determined by the orchestrator based on the specific input.  
 何时使用此工作流程：此工作流程非常适合复杂任务，在这些任务中，您无法预测所需的子任务（例如，在编码中，需要更改的文件数量以及每个文件更改的性质可能取决于任务）。虽然它与并行化在拓扑上相似，但其关键区别在于其灵活性——子任务不是预先定义的，而是由协调器根据特定输入确定。
 
+#workflow #Orchestrator-workers #parallelization
+Orchestrator-workers 与 parallelization 的区别
+??
+Orchestrator-workers是分步完成任务，前置大模型将任务分成固定的步数，然后每一步交给下游的大模型完成
+parallelization是任务拆分固定的部分，每部分交给不同的大模型完成
+
 **Example where orchestrator-workers is useful:  
 协调器-工作者有用的示例：**
 
@@ -200,7 +210,7 @@ The orchestrator-workers workflow 协调器-工作者工作流程
 - Search tasks that involve gathering and analyzing information from multiple sources for possible relevant information.  
 	搜索涉及从多个来源收集和分析信息以获取可能相关信息的任务。
 
-### Workflow: Evaluator-optimizer工作流程：评估-优化器
+#### Workflow: Evaluator-optimizer工作流程：评估-优化器
 
 In the evaluator-optimizer workflow, one LLM call generates a response while another provides evaluation and feedback in a loop.  
 在评估-优化器工作流程中，一次 LLM 调用生成响应，而另一次在循环中提供评估和反馈。
@@ -210,7 +220,9 @@ In the evaluator-optimizer workflow, one LLM call generates a response while ano
 The evaluator-optimizer workflow 评估-优化工作流程
 
 **When to use this workflow:** This workflow is particularly effective when we have clear evaluation criteria, and when iterative refinement provides measurable value. The two signs of good fit are, first, that LLM responses can be demonstrably improved when a human articulates their feedback; and second, that the LLM can provide such feedback. This is analogous to the iterative writing process a human writer might go through when producing a polished document.  
-使用此工作流程的时机：当拥有明确的评估标准，且迭代优化能够带来可衡量的价值时，此工作流程特别有效。良好的匹配的两个标志是，首先，当人类明确表达反馈时，LLM 的响应可以明显改进；其次，LLM 可以提供此类反馈。这类似于人类作家在创作精炼文档时可能经历的迭代写作过程。
+使用The evaluator-optimizer workflow的时机
+??
+当拥有**明确的评估标准**，且**迭代优化能够带来可衡量的价值**时，此工作流程特别有效。良好的匹配的两个标志是，首先，当人类明确表达反馈时，LLM 的响应可以明显改进；其次，LLM 可以提供此类反馈。这类似于人类作家在创作精炼文档时可能经历的迭代写作过程。
 
 **Examples where evaluator-optimizer is useful:  
 评估优化器有用的例子：**
@@ -223,7 +235,8 @@ The evaluator-optimizer workflow 评估-优化工作流程
 ### Agents 代理
 
 Agents are emerging in production as LLMs mature in key capabilities—understanding complex inputs, engaging in reasoning and planning, using tools reliably, and recovering from errors. Agents begin their work with either a command from, or interactive discussion with, the human user. Once the task is clear, agents plan and operate independently, potentially returning to the human for further information or judgement. During execution, it's crucial for the agents to gain “ground truth” from the environment at each step (such as tool call results or code execution) to assess its progress. Agents can then pause for human feedback at checkpoints or when encountering blockers. The task often terminates upon completion, but it’s also common to include stopping conditions (such as a maximum number of iterations) to maintain control.  
-随着大型语言模型（LLMs）在理解复杂输入、进行推理和规划、可靠地使用工具以及从错误中恢复等关键能力上的成熟，代理正在生产中兴起。代理的工作开始于来自人类用户的命令或与人类用户的交互式讨论。一旦任务明确，代理将独立地进行计划和操作，可能需要返回人类用户获取更多信息或判断。在执行过程中，代理在每个步骤（如工具调用结果或代码执行）从环境中获取“真实情况”以评估其进度至关重要。代理可以在检查点或遇到阻碍时暂停以获取人类反馈。任务通常在完成时终止，但也可以包括停止条件（如最大迭代次数）以保持控制。
+
+随着大型语言模型（LLMs）在理解复杂输入、进行推理和规划、可靠地使用工具以及从错误中恢复等关键能力上的成熟，代理正在生产中兴起。代理的工作开始于**来自人类用户的命令或与人类用户的交互式讨论。** 一旦任务明确，代理将独立地进行计划和操作，可能需要返回人类用户获取更多信息或判断。在执行过程中，代理在每个步骤（如工具调用结果或代码执行）从环境中获取“真实情况”以评估其进度至关重要。代理可以在检查点或遇到阻碍时暂停以获取人类反馈。任务通常在完成时终止，但也可以包括停止条件（如最大迭代次数）以保持控制。
 
 Agents can handle sophisticated tasks, but their implementation is often straightforward. They are typically just LLMs using tools based on environmental feedback in a loop. It is therefore crucial to design toolsets and their documentation clearly and thoughtfully. We expand on best practices for tool development in Appendix 2 ("Prompt Engineering your Tools").  
 代理可以处理复杂的任务，但它们的实现通常很简单。它们通常是使用基于环境反馈的循环工具的 LLMs。因此，设计工具集及其文档清晰、周到至关重要。我们在附录 2（提示工程你的工具）中扩展了工具开发的最佳实践。

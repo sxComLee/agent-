@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
+                "file": "大模型/Claude/Building Effective AI Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt 的大纲"
+              "title": "Building Effective AI Agents 的大纲"
             }
           },
           {
@@ -201,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +222,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8c338ab47b55aca0",
+  "active": "251d321b2a0ab663",
   "lastOpenFiles": [
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "大模型/从0开始/分镜4.mp4",
