@@ -17,9 +17,9 @@ tags:
 # [[学习方法/预读法介绍]]
 ### 预读问题  
 **基于你的目标**：
-- Q1: 
-- Q2: 
-- Q3:   
+- Q1: 什么是智能体，什么是工作流，两者的区别
+- Q2: 工作流结构有什么，他们的区别是什么，分步工作流和分任务工作流的区别是什么
+- Q3:   agent
 
 ### 关键图表/代码  
 ![[提取的图表或代码片段]]
@@ -28,12 +28,12 @@ tags:
 - 未知：`#待探索`  
 
 ### 输出目标
-- [ ] 
+- [ ] 输出一份智能体和工作流结构的视频或者公众号文章
 
 ### 总结
-- 是什么
-- 为什么
-- 怎么用
+- 是什么: 介绍了智能体和工作流，工作流的几种常用组织形式，智能体的组成。
+- 为什么：
+- 怎么用：
 
 # 内容
 #flashcards
@@ -239,14 +239,15 @@ Agents are emerging in production as LLMs mature in key capabilities—understan
 随着大型语言模型（LLMs）在理解复杂输入、进行推理和规划、可靠地使用工具以及从错误中恢复等关键能力上的成熟，代理正在生产中兴起。代理的工作开始于**来自人类用户的命令或与人类用户的交互式讨论。** 一旦任务明确，代理将独立地进行计划和操作，可能需要返回人类用户获取更多信息或判断。在执行过程中，代理在每个步骤（如工具调用结果或代码执行）从环境中获取“真实情况”以评估其进度至关重要。代理可以在检查点或遇到阻碍时暂停以获取人类反馈。任务通常在完成时终止，但也可以包括停止条件（如最大迭代次数）以保持控制。
 
 Agents can handle sophisticated tasks, but their implementation is often straightforward. They are typically just LLMs using tools based on environmental feedback in a loop. It is therefore crucial to design toolsets and their documentation clearly and thoughtfully. We expand on best practices for tool development in Appendix 2 ("Prompt Engineering your Tools").  
-代理可以处理复杂的任务，但它们的实现通常很简单。它们通常是使用基于环境反馈的循环工具的 LLMs。因此，设计工具集及其文档清晰、周到至关重要。我们在附录 2（提示工程你的工具）中扩展了工具开发的最佳实践。
+代理可以处理复杂的任务，但它们的实现通常很简单。它们通常是使用基于环境反馈的循环工具的 LLMs。因此，设计工具集，及其文档清晰、周到至关重要。我们在附录 2（提示工程你的工具）中扩展了工具开发的最佳实践。
 
 ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F58d9f10c985c4eb5d53798dea315f7bb5ab6249e-2401x1000.png&w=3840&q=75)
 
 Autonomous agent 自主代理
 
-**When to use agents:** Agents can be used for open-ended problems where it’s difficult or impossible to predict the required number of steps, and where you can’t hardcode a fixed path. The LLM will potentially operate for many turns, and you must have some level of trust in its decision-making. Agents' autonomy makes them ideal for scaling tasks in trusted environments.  
-何时使用代理：代理可用于难以预测或无法预测所需步骤数量的开放性问题，以及无法硬编码固定路径的情况。LLM 可能会进行多次操作，你必须对其决策有一定程度的信任。代理的自主性使它们在可信赖的环境中扩展任务时成为理想选择。
+**When to use agents:** Agents can be used for open-ended problems where it’s difficult or impossible to predict the required number of steps, and where you can’t hardcode a fixed path. The LLM will potentially operate for many turns, and you must have some level of trust in its decision-making. Agents' autonomy makes them ideal for scaling tasks in trusted environments.  #agent 
+何时使用代理 :: 代理可用于**难以预测或无法预测所需步骤数量的开放性问题**，**以及无法硬编码固定路径的情况。** 
+LLM 可能会进行多次操作，你必须对其决策有一定程度的信任。代理的自主性使它们在可信赖的环境中扩展任务时成为理想选择。
 
 The autonomous nature of agents means higher costs, and the potential for compounding errors. We recommend extensive testing in sandboxed environments, along with the appropriate guardrails.  
 代理的自主性意味着更高的成本和累积错误的潜在风险。我们建议在沙盒环境中进行广泛的测试，并采取适当的防护措施。
@@ -262,19 +263,21 @@ The following examples are from our own implementations:
 - Our [“computer use” reference implementation](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo), where Claude uses a computer to accomplish tasks.  
 	我们“计算机使用”的参考实现，其中 Claude 使用计算机来完成任务。
 
-![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F4b9a1f4eb63d5962a6e1746ac26bbc857cf3474f-2400x1666.png&w=3840&q=75)
+![High-level flow of a coding agent](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F4b9a1f4eb63d5962a6e1746ac26bbc857cf3474f-2400x1666.png&w=3840&q=75)
 
-High-level flow of a coding agent 编码代理的高级流程
+ 编码代理的高级流程
 
 ## Combining and customizing these patterns组合和定制这些模式
 
 These building blocks aren't prescriptive. They're common patterns that developers can shape and combine to fit different use cases. The key to success, as with any LLM features, is measuring performance and iterating on implementations. To repeat: you should consider adding complexity *only* when it demonstrably improves outcomes.  
-这些构建块并非强制性规定。它们是开发者可以塑造和组合以适应不同用例的通用模式。与任何 LLM 功能一样，成功的关键在于衡量性能并在实现上进行迭代。重复一遍：只有在明显改善结果的情况下，才应考虑增加复杂性。
+这些构建块并非强制性规定。它们是开发者可以塑造和组合以适应不同用例的通用模式。与任何 LLM 功能一样，成功的关键在于衡量性能并在实现上进行迭代。重复一遍：**只有在明显改善结果的情况下，才应考虑增加复杂性。** 
+#agent #workflow
+agent和workflow的选择时机::只有明显改善结果的情况下，才考虑使用agent，正常情况下使用workflow
 
 ## Summary 摘要
 
 Success in the LLM space isn't about building the most sophisticated system. It's about building the *right* system for your needs. Start with simple prompts, optimize them with comprehensive evaluation, and add multi-step agentic systems only when simpler solutions fall short.  
-在 LLM 领域取得成功，并非在于构建最复杂的系统。关键在于构建满足您需求的系统。从简单的提示开始，通过全面的评估进行优化，只有当简单解决方案不足时，才添加多步骤的智能体系统。
+在 LLM 领域取得成功，并非在于构建最复杂的系统。关键在于构建满足您需求的系统。从简单的提示开始，通过全面的评估进行优化，**只有当简单解决方案不足时，才添加多步骤的智能体系统。**
 
 When implementing agents, we try to follow three core principles:  
 在实施智能体时，我们试图遵循三个核心原则：

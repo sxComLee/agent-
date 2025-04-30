@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e367e9a28c8e717",
+        "id": "dedab3b1ee5426a5",
         "type": "tabs",
         "children": [
           {
-            "id": "8c338ab47b55aca0",
+            "id": "b93db502905c2c9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型/Claude/Building Effective AI Agents.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Building Effective AI Agents"
-            }
-          },
-          {
-            "id": "9ad5d19acc464d90",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mp.weixin.qq.com/s/0VlazB1bpZz9QAxG5S9A9g",
-                "title": "【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "【AI实战】一键换肤！免费用公众号排版6大绝美主题。听劝，快用排版神器，开启爆更模式"
-            }
-          },
-          {
-            "id": "05b0af78068e84f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？"
+              "title": "新标签页"
             }
           }
         ]
@@ -171,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/Claude/Building Effective AI Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Building Effective AI Agents 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -222,8 +189,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "251d321b2a0ab663",
+  "active": "b93db502905c2c9f",
   "lastOpenFiles": [
+    "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
+    "大模型/Claude/Building Effective AI Agents.md",
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "大模型/从0开始/分镜4.mp4",
     "大模型/从0开始/分镜4.mp4.crdownload",
@@ -240,7 +209,6 @@
     "大模型/MCP/servers",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
     "大模型/Claude/Contextual Retrieval in AI Systems.md",
-    "大模型/Claude/Building Effective AI Agents.md",
     "大模型/Claude/Claude Code Best Practices.md",
     "大模型/Claude/The _think_ tool_ Enabling Claude to stop and think.md",
     "大模型/测评/豆包大模型效果提升建议(20241231版) .md",
