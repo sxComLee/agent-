@@ -67,6 +67,11 @@ When building applications with LLMs, we recommend finding the simplest solution
 When more complexity is warranted, workflows offer predictability and consistency for well-defined tasks, whereas agents are the better option when flexibility and model-driven decision-making are needed at scale. For many applications, however, optimizing single LLM calls with retrieval and in-context examples is usually enough.  
 当需要更多的复杂性时，**workflows** 为定义**明确的任务提供可预测性和一致性**，而 **agents** 在需要大规模的**灵活性和模型驱动决策**时是更好的选择。然而，对于许多应用程序来说，优化单个 LLM 调用，使用检索和上下文示例通常就足够了。
 
+workflow和agent的区别
+??
+workflow：**明确的任务提供可预测性和一致性**，延迟低，成本低
+agent：大规模的**灵活性和模型驱动决策**，延迟高，成本高
+
 ## When and how to use frameworks何时以及如何使用框架
 
 There are many frameworks that make agentic systems easier to implement, including:  
@@ -98,14 +103,12 @@ In this section, we’ll explore the common patterns for agentic systems we’ve
 ### Building block: The augmented LLM构建块：增强型 LLM
 
 The basic building block of agentic systems is an LLM enhanced with augmentations such as retrieval, tools, and memory. Our current models can actively use these capabilities—generating their own search queries, selecting appropriate tools, and determining what information to retain.  
-代理系统的基础构建块是一个经过增强的 LLM，例如检索、工具和记忆。我们的当前模型可以积极使用这些功能——生成自己的搜索查询，选择合适的工具，并确定要保留的信息。
+代理系统的**基础构建块**是一个经过增强的 LLM，例如检索、工具和记忆。我们的当前模型可以积极使用这些功能 — — 生成自己的搜索查询，选择合适的工具，并确定要保留的信息。
 
-![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fd3083d3f40bb2b6f477901cc9a240738d3dd1371-2401x1000.png&w=3840&q=75)
-
-The augmented LLM 增强型 LLM
+![The augmented LLM 增强型 LLM](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fd3083d3f40bb2b6f477901cc9a240738d3dd1371-2401x1000.png&w=3840&q=75)
 
 We recommend focusing on two key aspects of the implementation: tailoring these capabilities to your specific use case and ensuring they provide an easy, well-documented interface for your LLM. While there are many ways to implement these augmentations, one approach is through our recently released [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol), which allows developers to integrate with a growing ecosystem of third-party tools with a simple [client implementation](https://modelcontextprotocol.io/tutorials/building-a-client#building-mcp-clients).  
-我们建议关注实施的两个关键方面：将这些功能定制到您的特定用例中，并确保它们为您的 LLM 提供简单、文档齐全的接口。虽然实现这些增强有多种方法，但一种方法是通过我们最近发布的模型上下文协议，它允许开发人员通过简单的客户端实现与不断增长的第三方工具生态系统集成。
+我们建议关注实施的两个关键方面：将这些功能定制到您的特定用例中，并确保它们为您的 LLM 提供简单、文档齐全的接口。虽然实现这些增强有多种方法，但一种方法是通过我们最近发布的**模型上下文协议（MCP）**，它允许开发人员通过简单的客户端实现与不断增长的第三方工具生态系统集成。
 
 For the remainder of this post, we'll assume each LLM call has access to these augmented capabilities.  
 在本文的剩余部分，我们将假设每个 LLM 调用都具备这些增强功能。
@@ -113,14 +116,12 @@ For the remainder of this post, we'll assume each LLM call has access to these a
 ### Workflow: Prompt chaining工作流程：提示链
 
 Prompt chaining decomposes a task into a sequence of steps, where each LLM call processes the output of the previous one. You can add programmatic checks (see "gate” in the diagram below) on any intermediate steps to ensure that the process is still on track.  
-提示链将任务分解为一系列步骤，其中每个 LLM 调用处理上一个步骤的输出。您可以在任何中间步骤添加程序性检查（见下图中“门”），以确保流程仍在正轨上。
+提示链将任务分解为一系列步骤，其中每个 LLM 调用处理上一个步骤的输出。您可以在任何中间步骤添加程序性检查（见下图中“gate”节点），以确保流程仍在正轨上。
 
-![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F7418719e3dab222dccb379b8879e1dc08ad34c78-2401x1000.png&w=3840&q=75)
-
-The prompt chaining workflow 提示链工作流程
-
+![The prompt chaining workflow 提示链工作流程](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F7418719e3dab222dccb379b8879e1dc08ad34c78-2401x1000.png&w=3840&q=75)
 **When to use this workflow:** This workflow is ideal for situations where the task can be easily and cleanly decomposed into fixed subtasks. The main goal is to trade off latency for higher accuracy, by making each LLM call an easier task.  
-使用此工作流程的时机：此工作流程适用于任务可以轻松且干净地分解为固定子任务的情况。主要目标是权衡延迟以换取更高的准确性，通过使每个 LLM 调用成为一个更简单的任务。
+使用工作流程的时机 :：此工作流程适用于任务可以**轻松且干净地分解为固定子任务的情况**。主要目标是**权衡延迟以换取更高的准确性**，通过使每个 LLM 调用成为一个更简单的任务。
+
 
 **Examples where prompt chaining is useful:  
 提示链式调用的应用示例：**
@@ -135,9 +136,7 @@ The prompt chaining workflow 提示链工作流程
 Routing classifies an input and directs it to a specialized followup task. This workflow allows for separation of concerns, and building more specialized prompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs.  
 路由将输入进行分类并引导它到专门的后续任务。此工作流程允许分离关注点，并构建更专业的提示。如果没有此工作流程，针对一种类型的输入进行优化可能会损害其他输入的性能。
 
-![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5c0c0e9fe4def0b584c04d37849941da55e5e71c-2401x1000.png&w=3840&q=75)
-
-The routing workflow 路由工作流程
+![The routing workflow 路由工作流程](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5c0c0e9fe4def0b584c04d37849941da55e5e71c-2401x1000.png&w=3840&q=75)
 
 **When to use this workflow:** Routing works well for complex tasks where there are distinct categories that are better handled separately, and where classification can be handled accurately, either by an LLM or a more traditional classification model/algorithm.  
 何时使用此工作流程：路由适用于具有明显类别且更适合单独处理的复杂任务，以及分类可以准确处理的情况，无论是通过 LLM 还是更传统的分类模型/算法。
