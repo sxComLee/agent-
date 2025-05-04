@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dedab3b1ee5426a5",
+        "id": "3725fc4e3a25b8af",
         "type": "tabs",
         "children": [
           {
-            "id": "b93db502905c2c9f",
+            "id": "2b320ddbda7e12b4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了 的大纲"
             }
           },
           {
@@ -174,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +194,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
     "大模型/Claude/Building Effective AI Agents.md",
