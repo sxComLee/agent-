@@ -11,10 +11,12 @@
             "id": "b93db502905c2c9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -168,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,7 +191,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b93db502905c2c9f",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
     "大模型/Claude/Building Effective AI Agents.md",
