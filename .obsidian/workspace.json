@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
+                "file": "大模型/Claude/Building Effective AI Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了"
+              "title": "Building Effective AI Agents"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
+                "file": "大模型/Claude/Building Effective AI Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了 的大纲"
+              "title": "Building Effective AI Agents 的大纲"
             }
           },
           {
@@ -196,6 +196,10 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/Claude/Claude Code Best Practices.md",
+    "大模型/Claude/Contextual Retrieval in AI Systems.md",
+    "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md",
+    "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
     "大模型/Claude/Building Effective AI Agents.md",
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
@@ -213,8 +217,6 @@
     "大模型/MCP/servers/未确认 555239.crdownload",
     "大模型/MCP/servers",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
-    "大模型/Claude/Contextual Retrieval in AI Systems.md",
-    "大模型/Claude/Claude Code Best Practices.md",
     "大模型/Claude/The _think_ tool_ Enabling Claude to stop and think.md",
     "大模型/测评/豆包大模型效果提升建议(20241231版) .md",
     "大模型/A2A/A2A 与 MCP 协议的深度融合：智能体生态的互补性与协同.md",
@@ -230,8 +232,6 @@
     "大模型/测评/奥特曼最新TED 2025对话：AI领跑者的光环与压力.md",
     "大模型/测评/高德地图新出_AI老司机_：能算红绿灯的导航你见过吗？.md",
     "大模型/从0开始/普通人通过AI工具实现副业变现的10种核心方法.md",
-    "大模型/MCP/2025年最新精选MCP服务，覆盖搜索、数据、开发等多个领域，附官方地址.md",
-    "大模型/从0开始/我用AI监控了奥特曼，当他一发推特AI就会自动给我打电话。.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
