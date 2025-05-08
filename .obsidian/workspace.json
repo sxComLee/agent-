@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/Claude/Building Effective AI Agents.md",
+                "file": "每日笔记/2025-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Building Effective AI Agents"
+              "title": "2025-05-08"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/Claude/Building Effective AI Agents.md",
+                "file": "每日笔记/2025-05-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Building Effective AI Agents 的大纲"
+              "title": "2025-05-08 的大纲"
             }
           },
           {
@@ -172,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +195,13 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/Claude/Building Effective AI Agents.md",
+    "每日笔记/2025-05-08.md",
     "大模型/Claude/Claude Code Best Practices.md",
     "大模型/Claude/Contextual Retrieval in AI Systems.md",
     "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md",
     "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
-    "大模型/Claude/Building Effective AI Agents.md",
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
     "大模型/从0开始/分镜4.mp4",
     "大模型/从0开始/分镜4.mp4.crdownload",
@@ -231,7 +231,6 @@
     "大模型/开源框架/腾讯开源全新角色定制生图框架InstantCharacter.md",
     "大模型/测评/奥特曼最新TED 2025对话：AI领跑者的光环与压力.md",
     "大模型/测评/高德地图新出_AI老司机_：能算红绿灯的导航你见过吗？.md",
-    "大模型/从0开始/普通人通过AI工具实现副业变现的10种核心方法.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
