@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/智能体/coze/coze基础信息介绍.md",
-                "mode": "source",
+                "file": "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "coze基础信息介绍"
+              "title": "0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/智能体/coze/coze基础信息介绍.md",
+                "file": "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "coze基础信息介绍 的大纲"
+              "title": "0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档 的大纲"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,13 +190,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
-    "大模型/智能体/coze/扣子空间干掉了扣子自己（附系统提示词）.md",
+    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/662177ee0bd1ffd87b6646f439d5941e_MD5.jpeg",
+    "Pasted image 20250512110230.png",
+    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/a510899dafe3e308014c7f26112227c7_MD5.jpeg",
+    "Pasted image 20250512110151.png",
+    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/c6ac5ef8f496102fb7d69a5edfd9c436_MD5.jpeg",
+    "Pasted image 20250512110112.png",
+    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/9f2601c4ecd6fa9d2646c64f79a6be72_MD5.jpeg",
+    "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
+    "Pasted image 20250512105602.png",
+    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档",
+    "_resources",
+    "Pasted image 20250512105034.png",
     "大模型/智能体/coze/coze基础信息介绍.md",
+    "大模型/智能体/未确认 603339.crdownload",
+    "大模型/智能体/coze/扣子空间干掉了扣子自己（附系统提示词）.md",
     "大模型/智能体/agent执行流程.md",
     "每日笔记/2025-05-08.md",
     "每日笔记/2025-05-12.md",
@@ -216,10 +230,7 @@
     "大模型/从0开始/【科普】AI 热词大扫盲：轻松理解 20 个 AI 概念，大白话+多图.md",
     "大模型/从0开始/未确认 922771.crdownload",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
-    "大模型/cursor/未确认 605518.crdownload",
     "大模型/MCP/servers/微软偷偷上线一款MCP神器，可让Office文件秒变Markdown！.md",
-    "大模型/MCP/servers/未确认 555239.crdownload",
-    "大模型/MCP/servers",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
     "大模型/Claude/The _think_ tool_ Enabling Claude to stop and think.md",
     "大模型/测评/豆包大模型效果提升建议(20241231版) .md",
@@ -229,17 +240,7 @@
     "大模型/deepseek/「DeepSeek-V3 技术解析」：DeepSeek-V3-Base 预训练阶段解析.md",
     "大模型/chatgpt/OpenAI发布o3和o4mini，看图不过脑子的大模型开窍了.md",
     "大模型/prompt/一键生成高逼格的可视化大屏！DeepSeek提示词完全指南.md",
-    "大模型/数字人/4种方法！教会你学会制作AI数字人，真的实用（建议收藏）.md",
-    "大模型/测评/高德地图AI导航智能体NaviAgent上线！实时感知路况，预判风险，开车更省心！.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
-    "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
-    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/logo-shape.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/yourware-text-shape.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/money-with-wings.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/heart-eyes.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/emoji-input-icon.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/clap.svg",
-    "大模型/prompt/教程_翻译/AI Model Citations_files/3lnapn5ibe.png"
+    "大模型/prompt/教程_翻译/Pasted image 20250415204351.png"
   ]
 }
