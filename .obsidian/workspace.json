@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-05-08.md",
+                "file": "大模型/智能体/coze/coze基础信息介绍.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-05-08"
+              "title": "coze基础信息介绍"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "工具调用",
+                "query": "tag:tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日笔记/2025-05-08.md",
+                "file": "大模型/智能体/coze/coze基础信息介绍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-08 的大纲"
+              "title": "coze基础信息介绍 的大纲"
             }
           },
           {
@@ -195,8 +195,12 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
-    "大模型/Claude/Building Effective AI Agents.md",
+    "大模型/智能体/coze/扣子空间干掉了扣子自己（附系统提示词）.md",
+    "大模型/智能体/coze/coze基础信息介绍.md",
+    "大模型/智能体/agent执行流程.md",
     "每日笔记/2025-05-08.md",
+    "每日笔记/2025-05-12.md",
+    "大模型/Claude/Building Effective AI Agents.md",
     "大模型/Claude/Claude Code Best Practices.md",
     "大模型/Claude/Contextual Retrieval in AI Systems.md",
     "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md",
@@ -227,10 +231,6 @@
     "大模型/prompt/一键生成高逼格的可视化大屏！DeepSeek提示词完全指南.md",
     "大模型/数字人/4种方法！教会你学会制作AI数字人，真的实用（建议收藏）.md",
     "大模型/测评/高德地图AI导航智能体NaviAgent上线！实时感知路况，预判风险，开车更省心！.md",
-    "大模型/知识库/用腾讯ima+DeepSeek给你配一个Doris知识库（保姆级教程）.md",
-    "大模型/开源框架/腾讯开源全新角色定制生图框架InstantCharacter.md",
-    "大模型/测评/奥特曼最新TED 2025对话：AI领跑者的光环与压力.md",
-    "大模型/测评/高德地图新出_AI老司机_：能算红绿灯的导航你见过吗？.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041MindMap.png",
