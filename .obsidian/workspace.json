@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/智能体/agent执行流程.md",
+                "file": "大模型/智能体/相关理论/Agent探究.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "agent执行流程"
+              "title": "Agent探究"
             }
           }
         ]
@@ -196,7 +196,11 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/质谱/比R1快8倍，思考深度还翻倍 - 智谱开源了整套六个大模型（附三大平台，支持推理_沉思_基础模型）.md",
     "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
+    "大模型/智能体/agent执行流程.md",
+    "大模型/智能体/相关理论/Agent探究.md",
+    "大模型/智能体/相关理论",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/662177ee0bd1ffd87b6646f439d5941e_MD5.jpeg",
     "Pasted image 20250512110230.png",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/a510899dafe3e308014c7f26112227c7_MD5.jpeg",
@@ -211,7 +215,6 @@
     "大模型/智能体/coze/coze基础信息介绍.md",
     "大模型/智能体/未确认 603339.crdownload",
     "大模型/智能体/coze/扣子空间干掉了扣子自己（附系统提示词）.md",
-    "大模型/智能体/agent执行流程.md",
     "每日笔记/2025-05-08.md",
     "每日笔记/2025-05-12.md",
     "大模型/Claude/Building Effective AI Agents.md",
@@ -228,7 +231,6 @@
     "大模型/从0开始/分镜3.mp4",
     "大模型/从0开始/分镜1.mp4",
     "大模型/从0开始/【科普】AI 热词大扫盲：轻松理解 20 个 AI 概念，大白话+多图.md",
-    "大模型/从0开始/未确认 922771.crdownload",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
     "大模型/MCP/servers/微软偷偷上线一款MCP神器，可让Office文件秒变Markdown！.md",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
@@ -239,7 +241,6 @@
     "每日笔记/2025-04-22.md",
     "大模型/deepseek/「DeepSeek-V3 技术解析」：DeepSeek-V3-Base 预训练阶段解析.md",
     "大模型/chatgpt/OpenAI发布o3和o4mini，看图不过脑子的大模型开窍了.md",
-    "大模型/prompt/一键生成高逼格的可视化大屏！DeepSeek提示词完全指南.md",
     "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png"
   ]
 }
