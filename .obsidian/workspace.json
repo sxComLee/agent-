@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
+                "file": "大模型/智能体/agent执行流程.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档"
+              "title": "agent执行流程"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
+                "file": "大模型/智能体/agent执行流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档 的大纲"
+              "title": "agent执行流程 的大纲"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/662177ee0bd1ffd87b6646f439d5941e_MD5.jpeg",
     "Pasted image 20250512110230.png",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/a510899dafe3e308014c7f26112227c7_MD5.jpeg",
@@ -203,7 +204,6 @@
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/c6ac5ef8f496102fb7d69a5edfd9c436_MD5.jpeg",
     "Pasted image 20250512110112.png",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/9f2601c4ecd6fa9d2646c64f79a6be72_MD5.jpeg",
-    "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "Pasted image 20250512105602.png",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档",
     "_resources",
@@ -240,7 +240,6 @@
     "大模型/deepseek/「DeepSeek-V3 技术解析」：DeepSeek-V3-Base 预训练阶段解析.md",
     "大模型/chatgpt/OpenAI发布o3和o4mini，看图不过脑子的大模型开窍了.md",
     "大模型/prompt/一键生成高逼格的可视化大屏！DeepSeek提示词完全指南.md",
-    "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png",
-    "大模型/prompt/教程_翻译/Pasted image 20250415204351.png"
+    "大模型/prompt/教程_翻译/思维导图_提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.png"
   ]
 }
