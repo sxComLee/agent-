@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/智能体/相关理论/Agent探究.md",
-                "mode": "preview",
-                "source": true
+                "file": "大模型/prompt/教程_翻译/Prompt框架.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent探究"
+              "title": "Prompt框架"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -176,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +198,17 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/prompt/教程_翻译/提示词最佳实践宝典.md",
+    "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
+    "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
+    "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
+    "大模型/prompt/教程_翻译/Prompt框架.md",
+    "_resources/Prompt框架/fc935ace683d2ae2495d9fa5c5076c0d_MD5.jpeg",
+    "_resources/Prompt框架",
+    "Pasted image 20250514114723.png",
+    "大模型/智能体/相关理论/Agent探究.md",
+    "大模型/智能体/Agent _ GPT5？吴恩达最新演讲：四种 Agent 设计范式（通俗易懂版）.md",
+    "大模型/智能体/未确认 540872.crdownload",
     "_resources/Agent探究/abe66061e1d9aa51b5905a92c4ef7410_MD5.webp",
     "_resources/Agent探究/6fe643a8c7a258854d79b68e901534ab_MD5.webp",
     "_resources/Agent探究/35b26ca2eb8dd35776518298322ba0fc_MD5.webp",
@@ -207,12 +220,7 @@
     "大模型/质谱/比R1快8倍，思考深度还翻倍 - 智谱开源了整套六个大模型（附三大平台，支持推理_沉思_基础模型）.md",
     "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "大模型/智能体/agent执行流程.md",
-    "大模型/智能体/相关理论/Agent探究.md",
     "大模型/智能体/相关理论",
-    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/662177ee0bd1ffd87b6646f439d5941e_MD5.jpeg",
-    "Pasted image 20250512110230.png",
-    "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档/a510899dafe3e308014c7f26112227c7_MD5.jpeg",
-    "Pasted image 20250512110151.png",
     "_resources/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档",
     "_resources",
     "大模型/智能体/coze/coze基础信息介绍.md",
@@ -230,17 +238,11 @@
     "大模型/从0开始/分镜4.mp4",
     "大模型/从0开始/分镜4.mp4.crdownload",
     "大模型/从0开始/分镜2.mp4",
-    "大模型/从0开始/分镜2.mp4.crdownload",
-    "大模型/从0开始/分镜3.mp4",
     "大模型/从0开始/【科普】AI 热词大扫盲：轻松理解 20 个 AI 概念，大白话+多图.md",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
     "大模型/MCP/servers/微软偷偷上线一款MCP神器，可让Office文件秒变Markdown！.md",
     "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
     "大模型/Claude/The _think_ tool_ Enabling Claude to stop and think.md",
-    "大模型/测评/豆包大模型效果提升建议(20241231版) .md",
-    "大模型/A2A/A2A 与 MCP 协议的深度融合：智能体生态的互补性与协同.md",
-    "每日笔记/2025-04-27.md",
-    "每日笔记/2025-04-22.md",
-    "大模型/deepseek/「DeepSeek-V3 技术解析」：DeepSeek-V3-Base 预训练阶段解析.md"
+    "大模型/测评/豆包大模型效果提升建议(20241231版) .md"
   ]
 }
