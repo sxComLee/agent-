@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/教程_翻译/Prompt框架.md",
+                "file": "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt框架"
+              "title": "学习知识点提示词"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "right": {
     "id": "4858eaef6d4f7df2",
@@ -198,6 +197,10 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "大模型/prompt/提示词示例.md",
+    "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
+    "大模型/prompt/gemini_2.5_pro提示词",
+    "大模型/prompt/教程_翻译/Prompt框架.md",
     "大模型/agent/deep_research/字节跳动开源了一款 Deep Research 项目.md",
     "大模型/agent/deep_research/未确认 50139.crdownload",
     "大模型/agent/deep_research",
@@ -205,7 +208,6 @@
     "大模型/prompt/教程_翻译/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041.md",
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
     "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
-    "大模型/prompt/教程_翻译/Prompt框架.md",
     "_resources/Prompt框架/fc935ace683d2ae2495d9fa5c5076c0d_MD5.jpeg",
     "_resources/Prompt框架",
     "Pasted image 20250514114723.png",
@@ -238,11 +240,8 @@
     "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
     "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
-    "大模型/从0开始/分镜4.mp4",
     "大模型/从0开始/【科普】AI 热词大扫盲：轻松理解 20 个 AI 概念，大白话+多图.md",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
-    "大模型/MCP/servers/微软偷偷上线一款MCP神器，可让Office文件秒变Markdown！.md",
-    "大模型/测评/扣子案例合集-社区内容分享 - 飞书云文档.md",
-    "大模型/Claude/The _think_ tool_ Enabling Claude to stop and think.md"
+    "大模型/MCP/servers/微软偷偷上线一款MCP神器，可让Office文件秒变Markdown！.md"
   ]
 }
