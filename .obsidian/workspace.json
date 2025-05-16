@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
+                "file": "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习知识点提示词"
+              "title": "四万字长文：AI Agent 应该更有趣还是更有用？"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/智能体/agent执行流程.md",
+                "file": "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "agent执行流程 的大纲"
+              "title": "四万字长文：AI Agent 应该更有趣还是更有用？ 的大纲"
             }
           },
           {
@@ -172,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +194,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2b320ddbda7e12b4",
+  "active": "017caaf068f7a895",
   "lastOpenFiles": [
+    "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
+    "每日笔记/2025-05-16.md",
     "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "大模型/agent/未确认 846849.crdownload",
     "剪藏文件/四万字长文：AI Agent 应该更有趣还是更有用？.md",
-    "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
     "剪藏文件",
     "大模型/prompt/提示词示例.md",
     "大模型/prompt/gemini_2.5_pro提示词",
@@ -241,7 +241,6 @@
     "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md",
     "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md",
     "大模型/prompt/Midjourney V7史诗级测评：50组神级提示词实测，AI绘画霸主地位还稳吗？.md",
-    "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md",
-    "大模型/从0开始/【科普】AI 热词大扫盲：轻松理解 20 个 AI 概念，大白话+多图.md"
+    "工具/coze/-【教程】用扣子Coze搭一个听故事学英语智能体，用上Deepseek R1满血工具版.md"
   ]
 }
