@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习计划.md",
+                "file": "大模型/agent/google/提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习计划"
+              "title": "提示词"
             }
           }
         ]
@@ -197,6 +197,10 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "学习计划.md",
+    "大模型/agent/google/提示词.md",
+    "大模型/agent/google/LangChain框架简介 (1).wav",
+    "大模型/agent/google/LangChain框架简介.wav",
     "每日笔记/2025-05-20.md",
     "每日笔记/2025-05-16.md",
     "每日笔记/2025-04-10.md",
@@ -220,11 +224,9 @@
     "大模型/prompt/教程_翻译/Pasted image 20250415204351.png",
     "大模型/prompt/教程_翻译/phodal_prompt-patterns_ Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt.md",
     "_resources/Prompt框架/fc935ace683d2ae2495d9fa5c5076c0d_MD5.jpeg",
-    "_resources/Prompt框架",
     "Pasted image 20250514114723.png",
     "大模型/智能体/相关理论/Agent探究.md",
     "大模型/智能体/Agent _ GPT5？吴恩达最新演讲：四种 Agent 设计范式（通俗易懂版）.md",
-    "大模型/智能体/未确认 540872.crdownload",
     "_resources/Agent探究/abe66061e1d9aa51b5905a92c4ef7410_MD5.webp",
     "_resources/Agent探究/6fe643a8c7a258854d79b68e901534ab_MD5.webp",
     "_resources/Agent探究/35b26ca2eb8dd35776518298322ba0fc_MD5.webp",
@@ -240,8 +242,6 @@
     "每日笔记/2025-05-08.md",
     "每日笔记/2025-05-12.md",
     "大模型/Claude/Building Effective AI Agents.md",
-    "大模型/Claude/Claude Code Best Practices.md",
-    "大模型/Claude/Contextual Retrieval in AI Systems.md",
-    "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md"
+    "大模型/Claude/Claude Code Best Practices.md"
   ]
 }
