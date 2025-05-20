@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-05-20.md",
+                "file": "学习计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "学习计划"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
-    "每日笔记/2025-05-16.md",
     "每日笔记/2025-05-20.md",
+    "每日笔记/2025-05-16.md",
     "每日笔记/2025-04-10.md",
     "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "_resources/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041",
