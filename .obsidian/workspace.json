@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
+                "file": "每日笔记/2025-05-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "四万字长文：AI Agent 应该更有趣还是更有用？"
+              "title": "2025-05-20"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +195,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
+    "每日笔记/2025-05-16.md",
+    "每日笔记/2025-05-20.md",
+    "每日笔记/2025-04-10.md",
+    "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "_resources/提示工程： 如何与大型语言模型高效沟通【OpenAI官网翻译】—慢慢学AI041",
     "大模型/agent/google/破解300年数学难题，智能体大突破！谷歌发布超强AI Agent.md",
     "大模型/agent/google/未确认 104693.crdownload",
     "大模型/agent/google",
     "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
-    "每日笔记/2025-05-16.md",
-    "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "大模型/agent/未确认 846849.crdownload",
     "剪藏文件/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "剪藏文件",
@@ -229,7 +232,6 @@
     "_resources/Agent探究/4134f6c257abf2b6e50ea5b50b542151_MD5.webp",
     "_resources/Agent探究/c6a563da1f68988b439667be30bfef86_MD5.webp",
     "_resources/Agent探究/889708e56b15f48fc2a11fbc3180bf7c_MD5.webp",
-    "_resources/Agent探究",
     "大模型/质谱/比R1快8倍，思考深度还翻倍 - 智谱开源了整套六个大模型（附三大平台，支持推理_沉思_基础模型）.md",
     "大模型/智能体/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "大模型/智能体/agent执行流程.md",
@@ -240,7 +242,6 @@
     "大模型/Claude/Building Effective AI Agents.md",
     "大模型/Claude/Claude Code Best Practices.md",
     "大模型/Claude/Contextual Retrieval in AI Systems.md",
-    "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md",
-    "大模型/Claude/我用Gemini 1比1搭出了0 成本的GPT Plus++，OpenAI都懵了.md"
+    "大模型/Claude/一文复现Anthropic刚刚发布的ReSearch，原来底层是MCP协议驱动的.md"
   ]
 }
