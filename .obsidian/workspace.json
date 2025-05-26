@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/agent/google/提示词.md",
+                "file": "大模型/agent/智能体对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词"
+              "title": "智能体对比"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "2b320ddbda7e12b4",
   "lastOpenFiles": [
-    "学习计划.md",
     "大模型/agent/google/提示词.md",
+    "大模型/agent/智能体对比.md",
+    "学习计划.md",
     "大模型/agent/google/LangChain框架简介 (1).wav",
     "大模型/agent/google/LangChain框架简介.wav",
     "每日笔记/2025-05-20.md",
@@ -241,7 +242,6 @@
     "大模型/智能体/coze/扣子空间干掉了扣子自己（附系统提示词）.md",
     "每日笔记/2025-05-08.md",
     "每日笔记/2025-05-12.md",
-    "大模型/Claude/Building Effective AI Agents.md",
-    "大模型/Claude/Claude Code Best Practices.md"
+    "大模型/Claude/Building Effective AI Agents.md"
   ]
 }
