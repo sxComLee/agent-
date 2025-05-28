@@ -83,7 +83,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 低时延复杂 agent 的搭建原理"
+                  "title": "Mind Map of agent搭建方式"
                 }
               }
             ]
@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -313,8 +313,10 @@
   },
   "active": "348b023dd565574d",
   "lastOpenFiles": [
-    "大模型/杂乱小点.md",
+    "大模型/agent/agent搭建方式.md",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
+    "学习计划详情.md",
+    "大模型/杂乱小点.md",
     "_resources/低时延复杂 agent 的搭建原理/48fc618c2e3d9a49ba0415d891192733_MD5.jpeg",
     "Pasted image 20250528151052.png",
     "_resources/低时延复杂 agent 的搭建原理/078f651ef76c5732607853f84ccb31ca_MD5.jpg",
@@ -328,9 +330,7 @@
     "_resources/低时延复杂 agent 的搭建原理",
     "大模型/agent/__________________________________________________[对外] 低时延复杂 agent 的搭建原理 - 飞书云文档.md",
     "大模型/agent/未确认 219408.crdownload",
-    "学习计划详情.md",
     "大模型/agent/未确认 874562.crdownload",
-    "大模型/agent/agent搭建方式.md",
     "思维导图.md",
     "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
     "README.md",
