@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "学习计划详情.md",
+                    "file": "大模型/方法论/AI领导力/理解AI的本质和作用.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "学习计划详情"
+                  "title": "理解AI的本质和作用"
                 }
               },
               {
@@ -83,7 +83,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 学习计划详情"
+                  "title": "Mind Map of 理解AI的本质和作用"
                 }
               }
             ]
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习计划详情.md",
+                "file": "大模型/方法论/AI领导力/理解AI的本质和作用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习计划详情 的大纲"
+              "title": "理解AI的本质和作用 的大纲"
             }
           },
           {
@@ -313,6 +313,12 @@
   },
   "active": "348b023dd565574d",
   "lastOpenFiles": [
+    "大模型/方法论/AI领导力/AI领导力学习平台.md",
+    "学习计划详情.md",
+    "大模型/方法论/AI领导力/理解AI的本质和作用.md",
+    "大模型/方法论/AI领导力/未确认 517460.crdownload",
+    "大模型/方法论/AI领导力",
+    "大模型/方法论",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
     "大模型/agent/fR3c2eqZtR0xm17W.docx",
     "大模型/agent/未确认 788183.crdownload",
@@ -322,14 +328,10 @@
     "大模型/agent/未确认 718034.crdownload",
     "Pasted image 20250528163039.png",
     "大模型/agent/SOk3ndc3lUBzn0c6.docx",
-    "大模型/agent/未确认 237256.crdownload",
-    "大模型/agent/SFaHv1n1n7U9YDJI.docx",
-    "大模型/agent/未确认 57276.crdownload",
     "_resources/低时延复杂 agent 的搭建原理/b5eda90d629cb43de6ede60b6d208ae1_MD5.jpeg",
     "大模型/agent/agent搭建方式.md",
     "_resources/低时延复杂 agent 的搭建原理/c9b0c1eac5536f8fe4f6fc5ad09a5ac7_MD5.jpeg",
     "Pasted image 20250528162953.png",
-    "学习计划详情.md",
     "大模型/杂乱小点.md",
     "_resources/低时延复杂 agent 的搭建原理/48fc618c2e3d9a49ba0415d891192733_MD5.jpeg",
     "Pasted image 20250528151052.png",
@@ -358,7 +360,6 @@
     "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
     "剪藏文件/四万字长文：AI Agent 应该更有趣还是更有用？.md",
     "大模型/prompt/提示词示例.md",
-    "大模型/prompt/教程_翻译/Prompt框架.md",
-    "大模型/agent/deep_research/字节跳动开源了一款 Deep Research 项目.md"
+    "大模型/prompt/教程_翻译/Prompt框架.md"
   ]
 }
