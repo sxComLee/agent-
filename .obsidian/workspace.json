@@ -25,17 +25,14 @@
             "id": "b795bbb93ef17e14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "学习计划详情.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "学习计划详情"
             }
           }
         ],
@@ -160,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/agent/四万字长文：AI Agent 应该更有趣还是更有用？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "四万字长文：AI Agent 应该更有趣还是更有用？ 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -194,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,11 +249,12 @@
   },
   "active": "b62db0bff37d53dd",
   "lastOpenFiles": [
+    "学习计划详情.md",
+    "大模型/测评/-最强AI编程工具横评、小白免费使用教程，附4款AI编程实战作品开源代码.md",
+    "README.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "Drawing 2025-05-28 10.07.11.excalidraw.md",
-    "README.md",
-    "学习计划详情.md",
     "学习计划.md",
     "Pasted image 20250512105034.png",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
