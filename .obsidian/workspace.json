@@ -83,7 +83,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 理解AI的本质和作用"
+                  "title": "Mind Map of 未打开文件"
                 }
               }
             ]
@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -272,46 +272,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "floating": {
-    "id": "a3db83a62716f536",
-    "type": "floating",
-    "children": [
-      {
-        "id": "46e17a74b53abfe3",
-        "type": "window",
-        "children": [
-          {
-            "id": "7b0f2eadab8120f0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b62db0bff37d53dd",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/MarkMindCkm/obsidian-MarkMind/blob/main/docs/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md",
-                    "title": "obsidian-markmind/docs/用户手册.md at main · MarkMindCkm/obsidian-markmind · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "obsidian-markmind/docs/用户手册.md at main · MarkMindCkm/obsidian-markmind · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 208,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "348b023dd565574d",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
     "学习计划详情.md",
