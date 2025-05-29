@@ -83,7 +83,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 未打开文件"
+                  "title": "Mind Map of 理解AI的本质和作用"
                 }
               }
             ]
@@ -272,8 +272,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "348b023dd565574d",
   "lastOpenFiles": [
+    "_resources/理解AI的本质和作用",
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
     "学习计划详情.md",
     "大模型/方法论/AI领导力/理解AI的本质和作用.md",
@@ -320,7 +321,6 @@
     "大模型/agent/google/破解300年数学难题，智能体大突破！谷歌发布超强AI Agent.md",
     "大模型/prompt/gemini_2.5_pro提示词/学习知识点提示词.md",
     "剪藏文件/四万字长文：AI Agent 应该更有趣还是更有用？.md",
-    "大模型/prompt/提示词示例.md",
-    "大模型/prompt/教程_翻译/Prompt框架.md"
+    "大模型/prompt/提示词示例.md"
   ]
 }
