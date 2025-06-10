@@ -32,12 +32,40 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "大模型/agent/agent搭建方式.md",
+                    "file": "每日笔记/2025-06-10.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "agent搭建方式"
+                  "title": "2025-06-10"
+                }
+              },
+              {
+                "id": "e13a75e96ec158fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI Agent到底哪家强？横评五款主流Agent"
+                }
+              },
+              {
+                "id": "f5cb88fad46a4729",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI Agent到底哪家强？横评五款主流Agent"
                 }
               },
               {
@@ -55,7 +83,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "b8b8e81637b9bd4a",
@@ -69,7 +97,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 未打开文件"
+                  "title": "Mind Map of AI Agent到底哪家强？横评五款主流Agent"
                 }
               }
             ]
@@ -240,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,13 +287,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b795bbb93ef17e14",
+  "active": "e13a75e96ec158fd",
   "lastOpenFiles": [
+    "每日笔记/2025-06-10.md",
+    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+    "大模型/方法论/AI领导力/理解AI的本质和作用.md",
+    "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
+    "大模型/agent/agent搭建方式.md",
     "每日笔记/2025-06-09.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/dleOUVqeG0bvMvfJ.docx",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 219011.crdownload",
-    "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
     "大模型/prompt/deepseek/未命名.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 808874.crdownload",
     "大模型/prompt/用AI解决100个问题【提示词合集】",
@@ -275,14 +308,11 @@
     "大模型/prompt/文生图/即梦提示词：与屏幕里的美女握手.md",
     "大模型/prompt/deepseek",
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
-    "大模型/方法论/AI领导力/理解AI的本质和作用.md",
-    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
     "大模型/agent/未确认 89005.crdownload",
     "_resources/理解AI的本质和作用",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
     "Pasted image 20250528163039.png",
     "_resources/低时延复杂 agent 的搭建原理/b5eda90d629cb43de6ede60b6d208ae1_MD5.jpeg",
-    "大模型/agent/agent搭建方式.md",
     "_resources/低时延复杂 agent 的搭建原理/c9b0c1eac5536f8fe4f6fc5ad09a5ac7_MD5.jpeg",
     "Pasted image 20250528162953.png",
     "大模型/杂乱小点.md",
@@ -306,7 +336,6 @@
     "大模型/agent/智能体对比.md",
     "大模型/agent/google/提示词.md",
     "每日笔记/2025-05-20.md",
-    "每日笔记/2025-05-16.md",
-    "每日笔记/2025-04-10.md"
+    "每日笔记/2025-05-16.md"
   ]
 }

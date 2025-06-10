@@ -1,18 +1,18 @@
 ---
-标题: "DeepSeek-R1系统提示词"
-链接: "https://mp.weixin.qq.com/s/mXPquw5mGXC7LGa3yeZK-Q"
+标题: DeepSeek-R1系统提示词
+链接: https://mp.weixin.qq.com/s/mXPquw5mGXC7LGa3yeZK-Q
 作者: "[[冷逸]]"
-创建时间: "2025-06-09T11:00:31+08:00"
-摘要: "本文介绍了DeepSeek-R1 AI助手的系统提示词，包括其核心准则、能力边界、交互原则和开源承诺。"
+创建时间: 2025-06-09T11:00:31+08:00
+摘要: 本文介绍了DeepSeek-R1 AI助手的系统提示词，包括其核心准则、能力边界、交互原则和开源承诺。
 tags:
-  - "clippings"
-  - "AI"
-  - "DeepSeek"
-  - "系统提示词"
-  - "开源"
-  - "效率"
+  - clippings
+  - AI
+  - DeepSeek
+  - 系统提示词
+  - 开源
+  - 效率
 字数: "225"
-状态: "未开始"
+状态: 已读完
 ---
 # [[学习方法/预读法介绍]]
 ### 预读问题  
