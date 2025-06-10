@@ -54,7 +54,8 @@
                   "title": "思维导图"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "b8b8e81637b9bd4a",
@@ -68,7 +69,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！"
+                  "title": "Mind Map of 未打开文件"
                 }
               }
             ]
@@ -257,14 +258,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e49e801ca99f26b7",
+  "active": "b795bbb93ef17e14",
   "lastOpenFiles": [
+    "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
     "每日笔记/2025-06-09.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/dleOUVqeG0bvMvfJ.docx",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 219011.crdownload",
     "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
     "大模型/prompt/deepseek/未命名.md",
-    "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 808874.crdownload",
     "大模型/prompt/用AI解决100个问题【提示词合集】",
     "大模型/prompt/deepseek/未确认 310684.crdownload",
