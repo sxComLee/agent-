@@ -46,12 +46,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+                    "file": "每日笔记/2025-06-11.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AI Agent到底哪家强？横评五款主流Agent"
+                  "title": "2025-06-11"
                 }
               },
               {
@@ -97,7 +97,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of AI Agent到底哪家强？横评五款主流Agent"
+                  "title": "Mind Map of 2025-06-11"
                 }
               }
             ]
@@ -289,8 +289,9 @@
   },
   "active": "e13a75e96ec158fd",
   "lastOpenFiles": [
-    "每日笔记/2025-06-10.md",
     "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+    "每日笔记/2025-06-11.md",
+    "每日笔记/2025-06-10.md",
     "大模型/方法论/AI领导力/理解AI的本质和作用.md",
     "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
@@ -335,7 +336,6 @@
     "学习方法/预读法介绍.md",
     "大模型/agent/智能体对比.md",
     "大模型/agent/google/提示词.md",
-    "每日笔记/2025-05-20.md",
-    "每日笔记/2025-05-16.md"
+    "每日笔记/2025-05-20.md"
   ]
 }
