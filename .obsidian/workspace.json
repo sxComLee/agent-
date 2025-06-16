@@ -46,12 +46,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "大模型/agent/低时延复杂 agent 的搭建原理.md",
+                    "file": "大模型/MCP/从架构设计侧剖析： MCP vs A2A 是朋友还是对手？.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "低时延复杂 agent 的搭建原理"
+                  "title": "从架构设计侧剖析： MCP vs A2A 是朋友还是对手？"
                 }
               },
               {
@@ -97,7 +97,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 低时延复杂 agent 的搭建原理"
+                  "title": "Mind Map of 从架构设计侧剖析： MCP vs A2A 是朋友还是对手？"
                 }
               }
             ]
@@ -289,16 +289,20 @@
   },
   "active": "e13a75e96ec158fd",
   "lastOpenFiles": [
+    "大模型/MCP/2025年最新精选MCP服务，覆盖搜索、数据、开发等多个领域，附官方地址.md",
+    "大模型/prompt/文生图/即梦提示词：与屏幕里的美女握手.md",
+    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+    "大模型/agent/agent搭建方式.md",
+    "大模型/agent/智能体对比.md",
+    "大模型/agent/低时延复杂 agent 的搭建原理.md",
     "大模型/prompt/Prompt 编写模式：如何将思维框架赋予机器.md",
     "大模型/prompt/prompt-simple-cheatsheet.pdf",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
     "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
     "大模型/prompt/-【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物....md",
     "每日笔记/2025-06-11.md",
-    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
     "每日笔记/2025-06-10.md",
     "大模型/方法论/AI领导力/理解AI的本质和作用.md",
-    "大模型/agent/agent搭建方式.md",
     "每日笔记/2025-06-09.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/dleOUVqeG0bvMvfJ.docx",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 219011.crdownload",
@@ -309,11 +313,9 @@
     "大模型/prompt/未命名",
     "学习计划详情.md",
     "大模型/prompt/deepseek/未确认 286218.crdownload",
-    "大模型/prompt/文生图/即梦提示词：与屏幕里的美女握手.md",
     "大模型/prompt/deepseek",
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
     "大模型/agent/未确认 89005.crdownload",
-    "大模型/agent/低时延复杂 agent 的搭建原理.md",
     "Pasted image 20250528163039.png",
     "_resources/低时延复杂 agent 的搭建原理/b5eda90d629cb43de6ede60b6d208ae1_MD5.jpeg",
     "_resources/低时延复杂 agent 的搭建原理/c9b0c1eac5536f8fe4f6fc5ad09a5ac7_MD5.jpeg",
@@ -334,8 +336,6 @@
     "Drawing 2025-05-28 10.07.11.excalidraw.md",
     "学习计划.md",
     "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
-    "AI加速器.md",
-    "学习方法/预读法介绍.md",
-    "大模型/agent/智能体对比.md"
+    "AI加速器.md"
   ]
 }
