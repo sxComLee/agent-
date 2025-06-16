@@ -97,7 +97,7 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of 未打开文件"
+                  "title": "Mind Map of 从架构设计侧剖析： MCP vs A2A 是朋友还是对手？"
                 }
               }
             ]
@@ -287,7 +287,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e13a75e96ec158fd",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/MCP/2025年最新精选MCP服务，覆盖搜索、数据、开发等多个领域，附官方地址.md",
     "大模型/prompt/文生图/即梦提示词：与屏幕里的美女握手.md",
