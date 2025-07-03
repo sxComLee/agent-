@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -261,7 +261,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e13a75e96ec158fd",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/agent/claude/Anthropic 官方：Genspark 是如何构建 Agents 的？.md",
     "大模型/agent/claude/Solvely.ai 与 Claude 携手改变全球学习-Solvely.ai transforms global learning with Claude.md",
