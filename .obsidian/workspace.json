@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -261,8 +261,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e13a75e96ec158fd",
+  "active": "251d321b2a0ab663",
   "lastOpenFiles": [
+    "大模型/agent/未确认 490584.crdownload",
     "_resources/AI Agent 的发展：能力、技术架构和软硬件形态",
     "大模型/agent/claude/Solvely.ai 与 Claude 携手改变全球学习-Solvely.ai transforms global learning with Claude.md",
     "大模型/agent/AI Agent 的发展：能力、技术架构和软硬件形态.md",
@@ -292,7 +293,6 @@
     "大模型/prompt/deepseek/未命名.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/未确认 808874.crdownload",
     "大模型/prompt/用AI解决100个问题【提示词合集】",
-    "大模型/prompt/deepseek/未确认 310684.crdownload",
     "学习计划详情.md",
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
     "Pasted image 20250528163039.png",

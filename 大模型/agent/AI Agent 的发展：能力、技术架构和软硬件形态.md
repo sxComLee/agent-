@@ -2,15 +2,10 @@
 标题: "AI Agent 的发展：能力、技术架构和软硬件形态"
 链接: "https://mp.weixin.qq.com/s/R3qLxH7zdYaz123IbQtyoA"
 作者: "[[桑基韬]]"
-创建时间: "2025-07-03T11:56:01+08:00"
-摘要: "文章探讨了AI Agent的发展路径，从能力、技术架构和软硬件形态三个角度分析了其当前进展和未来可能的发展方向。"
+创建时间: "2025-07-03T12:06:48+08:00"
+摘要:
 tags:
   - "clippings"
-  - "AI"
-  - "技术架构"
-  - "人机交互"
-  - "智能代理"
-  - "产品"
 字数: "897"
 状态: "未开始"
 ---
@@ -37,6 +32,7 @@ tags:
 
 # 内容
 #flashcards
+
 原创 桑基韬 *2025年07月01日 18:45*
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NIKCf0OhW56GqOINiaWE7RxZlicfgpNVgEKb2O8X27egVibz9BtdfYu0bnKd6shydDjVaKy6s09XKutw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
@@ -81,7 +77,7 @@ tags:
 
 当模型和数据规模跨越了某个临界点，这些通用特征的潜力通过“预训练-微调”得以释放，机器智能逐步形成了可以统一感知、记忆、生成和推理的基础结构，“新物种”雏形初现，成为迈向类个体智能的转折点。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXEZiaEAdIZ3xzPibD76lKOmWcrpmphaSNpjm6Ak2O4jGwoTdh2DQRG4sg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 2\. 个体智能
 
@@ -91,13 +87,13 @@ tags:
 
 机器智能也经历了类似的路径。物种智能阶段的重心是设计优秀的模型架构，如 SVM、概率图模型、CNN 等。在基于 Transformer 的模型架构成熟和稳定后，模型智能的提升主要来源于数据侧：从预训练阶段的互联网存量语料，到后训练阶段通过模型采样生成的新的推理数据，再到推断阶段与环境交互中产生的行为数据。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXUIBkGUTkOyjocibmoRibLiaNrUFmcImgnyMJZ8kXfySkljOfVEOklUA2Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 在生物智能中，语言的出现是一次认知革命。语言不仅是交流的工具和思维的载体，而且实现了知识的跨时空传承。
 
 对应到机器智能，当前 AI Agent 的记忆机制聚焦单个 Agent，致力于优化内部短期和长期记忆的存取。类似语言的知识传承作用，记忆研究要解决的另一个重要问题是：如何构建一个外部记忆网络， 让 Agent 之间可以共享情境上下文和长期经验 。  
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXQ4pRZxhvLEl9rKZ8PIYx2JTIARBAicbJtT3tUTzhl3MJAgJuLonFMrA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 生物智能进入农业革命阶段，逐步建立起一套相对稳定的基础设施，包括农耕知识、历法制度、定居点等。基于这个简易的社会操作系统，农业生产内部出现开垦、播种、灌溉等专业分工，彼此协作进一步提升了生产效率。
 
@@ -105,7 +101,7 @@ tags:
 
 这一层的抽象可以极大解放垂直智能 Agent 的开发者，使其专注于高层业务逻辑，加速垂直智能 Agent 应用的广度和深度。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX8ppU77EZ7fPsuxPORwrGQ6qqHlQr6Pcs65jS1Pv1QWbVibb10sstvcw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 3\. 社会智能
 
@@ -115,7 +111,7 @@ tags:
 
 为了更好理解 AI Agent 在群体智能阶段的发展，先来回顾人类城市文明的形成过程。农业革命带来了专业化分工，进而有了交换产品和服务的需求。随着生产效率的不断提升，这种交换在没有血缘关系的陌生人之间展开。因此发明了货币、契约、法律等制度，构成了城市文明和大规模社会化协作的底层协议。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXFF8jLwKiav8XSRvhibMPgeDT1XiaSFoASod7P2HKicct6CAZUqfh3b2Bpw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 发展到社会智能阶段，不同 AI Agent 不只为了完成某个人类任务而协作，而是可以作为独立的社会节点，构成一个社会性协作网络。每个 AI Agent 能够基于规则、激励和目标，自主选择合作对象、进行价值交换，形成去中心化的协作模式。
 
@@ -127,7 +123,7 @@ tags:
 
 人机关系将经历 从“人主导、机器辅助”（human-in-the-loop）到“人监督、机器执行” (human-on-the-loop)，再到某些场景下由 AI 按需调用人类能力的“机器主导、人辅助”（human-on-demand）的转变 。 人类的角色更多地转向价值定义、制度设计和伦理边界引导。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX8U2ibLSQLEJYibWINyZ5ctibbQoeBicqOP7MibzncUnTqHfALDYibvghlqcw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 生物智能的演化为我们指出了机器智能和 AI Agent 能力发展的路径：从物种的生理结构进化，到个体的后天学习，再到群体的社会化协作。这些能力的实现，需要依赖技术底座—智能计算架构的不断演进。
 
@@ -135,7 +131,7 @@ tags:
 
 接下来，我们将试着对比这段发展史和今天的智能计算，看看技术架构如何通过层层抽象，逐步构建出能够支撑复杂智能的技术底座。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NKicUC6ia8tIxlVpID6fhib5lNmLcIpcssiaK8JDyyDiaibk3AfRllIXpotzfcJQqSHDdIblU3Wia1Vw3tmQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
 
 从计算架构的演化看 AI Agent 技术架构的发展
 
@@ -151,7 +147,7 @@ tags:
 
 指令式计算的计算元件-操作系统-应用软件层级架构，在智能计算时代呈现出新的对应关系： 大模型等模型架构相当于 CPU 等计算元件，通用 Agent 向 AgentOS 发展，而垂直 Agent 则扮演应用软件的角色 。 大模型提供原始推理算力， AgentOS 负责资源管理、任务调度、记忆持久化和权限隔离，为上层垂直 Agent 暴露一致的调用接口，后者再面向具体场景交付价值。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX7lRPfnPvpHlicyzmjwy7qTGeeiaffDIGj2zjwicSsREuRoBHsOCseZVFg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 1\. 计算元件 (模型架构）
 
@@ -163,7 +159,7 @@ tags:
 
 量变产生质变的临界点出现在 2020 年，OpenAI 推出 GPT-3。GPT-3 验证了大规模预训练模型的潜力，相当于指令式计算的 4004，实现了通用语言能力的第一次规模化集成。此后，大模型参数量继续扩大，并从语言模型发展为具有更强规划和逻辑能力的推理模型。当下两种模式正走向融合，形成兼具“快思考”与“慢思考”能力的混合模型。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX9duYTGibaIWHSS9ZbnpfbrGhPzyvWlweWZgicly37toIJt77Iib4W96gg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 从趋势上，传统计算走向异构计算，通过 CPU+GPU+NPU 处理不同类型的任务，继续优化性能功耗比。规模上向微型化（移动 SoC、低功耗芯片）与巨型化（超算、数据中心级芯片）两个极端发展。
 
@@ -173,7 +169,7 @@ tags:
 
 巨型化旨在探索极限 。 通过继续扩大模型与算力规模，探索智能的上限。以 Stargate 为例，将有更多集中的、巨大的资源被投入到解决人类社会的宏大问题上，包括新药发现、材料科学、可控核聚变等。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXZ4eJ0PHzu9ibQVyxeYhxQeDhI4Kdw2icic1Hx9ICALxRs5nx2EHMarsPQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 2\. 操作系统 (AgentOS）
 
@@ -181,7 +177,7 @@ tags:
 
 在智能计算架构中，AgentOS 的角色正由通用 Agent 来承担（或者是通用 Agent 的发展目标）：作为连接大模型和垂直 Agent 的中间层，正逐步承接传统操作系统的核心职能。可以从以下六个方面，看到二者的结构性对应：
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXdh3OicLvH5dzj3huic4HibGCLADd9Y61O55a5tgm3sEu7oTtj6U7804Vg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 资 源 管理 ：传统 OS 调度的是 CPU、内存等硬件资源；AgentOS 则统一调配大模型、工具调用和记忆系统。例如 ChatGPT 调用代码解释器和搜索插件，Manus 支持连接 shell、爬虫 API 等多种外部工具。MCP、A2A 等 Agent 通信协议也属于这一层。
 
@@ -203,13 +199,13 @@ AgentOS 和传统 OS 在功能上的相似性，背后是因为二者都要通�
 
 智能计算架构下的 AgentOS 发展，也遵循类似的 “智能消耗定律”：完成单次任务所需的智能资源(如 token)不断增长。 最初的工具使用只是将模型推断 token 转换为调用函数的指令。进入任务编排阶段后，Agent 能够将一个高层目标拆解为多个子任务，按顺序或并行调度模型与工具完成各步动作。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXhbclvtkERZOPkMLdNFrl1cGQI1PweOd1gBAIR4icVb67Kuo3821xZ4A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 在目前的多 Agent 协作阶段，多个专业 Agent 相互通信、角色分工、动态协作。每个 Agent 本身的推断消耗，再加上它们之间为了保持上下文一致进行的交互消耗，总 Token 量组合式增长。
 
 未来，AgentOS 需要将多模型能力、基础工具接口、知识和记忆模块抽象化并池化，形成可以自动调用的基础能力层。开发者无需关心使用哪个模型、组合哪些垂直 Agent、调用哪个工具。他们只需定义业务逻辑和最终目标，AgentOS 即可动态地、自动地编排和调度所需资源来完成任务。具有角色和长期目标的Agent会自主决策和行动、持续推断消耗 token。微软最近 提出了“Agentic Web”构想，目标是成为连接和协调智能代理 的操作系统。其生成在操作系统曾原生支持 MCP，并依托 Azure 云平台，为 AI Agent 提供运行、通信和管理的基础设施。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXUZiafDZyicAEFlZpeRcwxr2J5L3gcKsiaUG9nyXKTNib65mQZrSgdskriag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 3\. 应用软件 (垂直智能代理)
 
@@ -217,7 +213,7 @@ AgentOS 和传统 OS 在功能上的相似性，背后是因为二者都要通�
 
 操作系统提供的是应用软件的运行环境，应用软件的构建还需要开发引擎。操作系统层提供了硬件资源抽象与调用的统一接口，应用开发引擎则支持了从编码、调试到部署的一整套流程。  
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXPD6uMnId8S56icCiaLiaS1USH7ib0XrbTTvgO1c2aeJ3BWW7MHMicOw6BEg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 在智能计算架构下，Coze、LangChain 等 Agent 开发平台正尝试扮演类似的角色。但一个显著的不同是：由于大模型本身具备自然语言交互和上下文理解能力，Agent 的开发可以通过低代码甚至零代码的方式完成，开发工具/平台独立存在的必要性似乎有所降低。
 
@@ -227,13 +223,13 @@ AgentOS 和传统 OS 在功能上的相似性，背后是因为二者都要通�
 
 垂直智能代理的发展与智能操作系统（AgentOS）同步，其发展线索是灵活性和定制化的提升 。 在多 Agent 协作阶段，多个拥有不同专业能力的垂直 Agent 可以基于统一的协议和 AgentOS 的调度，进行复杂的协同作业。协作方式可以是基于工作流驱动的，也可以是基于模型原生规划驱动（非提示词触发）的。AgentOS 需要同时支持两种规划方式，既支持以预设的工作流方式定义精确操作逻辑，也支持基于模型原生在推断时动态规划来解决开放式任务。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXEadjQyDAjstI2ArA8egfZNia68mmfocqSiaOjBiarK9tiaEvezEQJwic93A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 进一步发展到“Agent 即服务”阶段，自主服务智能代理将呈现出指令式计算架构中没有的软件形态。垂直智能代理不限于被动执行预设任务，而是能自主发现任务、调度资源、持续与环境互动。此外，与传统软件只能调用预定义函数、基于固定的 UI 不同，Agent 可以借助AI编码能力， 在线、动态地创建任务所需的新工具，甚至即时构建新的垂直智能代理，并根据具体任务需求实时生成相应的用户界面。
 
 通过以上对比，我们可以看到，智能计算正沿着与指令式计算高度平行的路径，构建起“大模型-AgentOS-垂直智能代理”的三层技术架构。这一架构将为实现更复杂、更自主的智能能力提供坚实的技术底座 。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NKicUC6ia8tIxlVpID6fhib5lNxEchnkSVVQI7ZCDCU3OrWta33JbicPsU4mIYNKc18icMWoYDdBV0YnjQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
 
 从人机关系的演化看 AI Agent 软硬件形态的发展
 
@@ -245,7 +241,7 @@ AgentOS 和传统 OS 在功能上的相似性，背后是因为二者都要通�
 
 乔布斯在 40 年前对计算机的发展做过总结：“ 过去 20 年里，我们在越来越高的抽象级别使用计算机 ”。最初通过打孔纸带和按钮的机器语言处于最底层，是完全适应机器的二进制码；汇编语言虽然与机器码一一对应，但具备了一定的语义，编程变得相对容易；高级语言则更接近人类的自然语言，具备更高的表达能力和效率。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX0hicxBvpANrr7rSzC5eGmicaYVHsPTuO9aQgqoqRXUIcP6fZT45naygA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 这一总结在今天仍然适用，可以作为理解 AI Agent 继续发展的原则：
 
@@ -255,13 +251,13 @@ AgentOS 和传统 OS 在功能上的相似性，背后是因为二者都要通�
 
 目前的 AI Agent 阶段更进一步，用户不再委托一个孤立的任务，而是可以表达复杂的意图，即“我想要什么”（what I want）。由机器理解意图、规划任务、然后调用资源并完成执行。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX5tYCmN0ElgW0Cqv1WPib71mCnRZsQp9wjtkCloMrxGQzlqYmNLicbztw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 沿着这一趋势，AI Agent 将继续在更高的抽象层级上满足人类需求。当需求足够抽象，以至于可以表达为一种“角色”（who you are）--比如“旅行管家”--人机关系也将达到质变的“奇点”，从委托变成授权： 人类授权机器在某个角色身份下自主决策和行动，机器可以自主决策、主动发起行动、持续与环境互动，甚至在必要时向人类指派任务 。 这标志着人机共生时代的到来，AI Agent 可以在数字甚至物理世界中持续为人类创造价值。
 
 以旅行规划为例，任务级AI可以处理的需求是“ 帮我预定一张明天去上海的机票 ”，这是一个边界清晰、一次性的任务。给意图级 AI 的需要是“ 我想策划一次暑假去欧洲的家庭旅行 ”，这需要机器分解任务，但目标仍然是具体的、有终点的。对于角色级 AI，我们可以授予机器一个持续的角色：“ 从现在起，你是我的家庭旅行管家 ”。AI 会进入持续服务的状态，会在发现最佳旅行时机时（比如结婚纪念日和目标航线打折），主动发起旅行建议并规划行程供人类决策。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXKsZwWpicjjRiboSDTS3vibgo4nWtbzAR50tlibgfnus8QPCLk02El0WqtQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 思考框架：更好地理解 & 更好地执行抽象意图
 
@@ -305,7 +301,7 @@ OpenAI 最近收购了苹果前首席设计官 Jony Ive 的智能硬件公司 Lo
 
 (2) 没有屏幕，不依赖视觉交互，专注于上下文感知，依托手机/PC 进行结果呈现。大多数时候 AI Agent 之间可以直接通信和协作，无需 GUI 界面；只有在需要人类确认或查看结果时，才借助手机的屏幕展示信息。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXOzLjCjzIIIZPrLJwf27L1VHBOYgRWyiaCe4SND6bg9P41ibDpRhoaZ2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 由 Lovart 生成
 
@@ -329,7 +325,7 @@ PC、手机、AI 原生终端将构成一个人的完整智能生态 ：
 
 (3) AI 原生终端：作为与物理世界持续连接的桥梁，时刻感知环境、理解上下文，让其他设备能更智能、更主动地服务。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX6AgcSh2MOEtvRqfsIYb8vBfHMUmExs3c8iaBGiaa6yiceicjMb969VTAibA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 2\. 智能操作系统的形态
 
@@ -347,7 +343,7 @@ PC、手机、AI 原生终端将构成一个人的完整智能生态 ：
 
 这种变化也将重构操作系统的 UI。应用层会只保留几个核心 APP，作为垂直 Agent 的独立入口。这其中可以包含用户定制的、满足特定需要的垂直 Agent，比如给孩子批改作业的 Agent：拍摄作业、识别错误点，标注和讲解错误原因。而多数应用会退化为服务接口，供 ChatUI 形式的 OS Agent 在需要时调用。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzX5GMy2ictKXtWfyT4WEm0BSTJ1tvsxwlGboG1bwxq5AZLTaAmd2Nl81A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 由 Lovart 生成
 
@@ -371,7 +367,7 @@ PC、手机、AI 原生终端将构成一个人的完整智能生态 ：
 
 随着 AI Coding 能力不断增强，智能操作系统可以根据当前任务动态生成最合适的 UI 界面。就像浏览器加载网页时自动进行布局与渲染一样。这样的 UI 是任务驱动和结果导向的，由系统 按需渲染、临时创建、用完即消失 。
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXtWxjxbDWMAs4CsYzFuT52qsrxqNbEJJPp0IGMu0e6OfCHV3gAGZEhA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 由 Lovart 生成
 
@@ -381,7 +377,7 @@ PC、手机、AI 原生终端将构成一个人的完整智能生态 ：
 
 Andrej Karpathy 在 YC 的 AI Startup School 演讲中，将软件的发展划分为三个阶段：1.0 的手工显式编写，2.0 的通过数据训练生成神经网络，以及今天基于大模型的 3.0，即基于提示词的自然语言编程。  
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXOj0PIR3RXKouO51g1nUiaQ0tX1YftH0LJJ91AibASMnuKHLyCGqNH2QA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 
 来源：Andrej Karpathy《Software in the Age of AI》
 
@@ -401,7 +397,7 @@ Andrej Karpathy 在 YC 的 AI Startup School 演讲中，将软件的发展划�
 
 这一阶段的软件形态，也与 这部分之前讨论 的操作系统与终端形态相对应。对应的操作系统是 **社会化 AgentOS，不仅要支撑单个 Agent 运行，还** 需要提供身份信用管理、环境共享、社会规则引擎等群体管理功能。而对应的交互载体，可能不是某个终端设备，而是能够融合多种终端、实现全域环境感知的 **空间计算平台。**
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXVzmFQ048JzvBPRBwPKs5971NjlJLcwMb3ibYZrA4O8tzEQnBRCQSmvg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 基于以上软件阶段的划分，接下来，我们聚焦当前应用软件的主要形态--SaaS，一起看一下从软件 3.0 向 3.5、乃至 4.0 迈进的过程中，垂直领域的 SaaS 产品 可能呈现出的理想发展轨迹。
 
@@ -417,7 +413,7 @@ Agent 化 ：主要变化 是从传统的、基于点击的图形界面，转向
 
 (2) **2C 的社区化，类似 AI Agent 版的小红书/GitHub，支持普通用户在创作者社区中发布、分享和订阅轻量级 Agent，并进行二次创作。这两种形态可以底层的基础设施，包括模型底座、工具接口、信用体系等，但面向不同用户群提供差异化的 UI，并可通过跨平台分享的方式实现互通。可以预见，这一阶段将会同时出现由核心厂商主导的闭源生态，以及由社区驱动的开源 Agent 生态，共同推动垂直领域的智能化进程。**
 
-![图片](https://mp.weixin.qq.com/s/www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%20fill-opacity='0'%3E%3Cg%20transform='translate(-249.000000,%20-126.000000)'%20fill='%23FFFFFF'%3E%3Crect%20x='249'%20y='126'%20width='1'%20height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NJ4eMQN0M2APCiasJQYVjDzXxY3RMpUoUZ4eM3NDCRUwTicPBp3kCRGBU3eqJfdAKdFNzxr4VTYXswQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 从不断演进的人机关系出发，我们观察到终端设备正在从智能手机向 AI 原生终端和空间计算平台演化，操作系统也正重构为以智能调度和意图理解为核心的 AgentOS，而应用软件则迈向基于垂直 Agent 的、具备更强自主性和协作性的智能体体系。这些软硬件形态的变迁，正是为了在更高抽象层级上理解人类意图、释放机器智能。
 
@@ -432,6 +428,18 @@ Agent 化 ：主要变化 是从传统的、基于点击的图形界面，转向
 生物智能进化由自然选择驱动，充满偶然性。而机器智能的发展，目前主要由人类的意图和工程实现驱动，目标性更强，迭代速度也更快，因此有可能跳过某些生物智能发展的阶段。同样，指令式计算以确定性和逻辑驱动为核心，强调结果的唯一性和可复现性；智能计算则是概率性、上下文驱动的，其结果往往是生成式、非唯一的，更侧重在不确定性中进行推理、自我调整和反馈。
 
 此外，从人机关系的角度， 本文关于计算架构和软硬件形态的讨论，仍然聚焦“以人为中心”的智能代理阶段。当真正进入“以 AI 为中心”的阶段，如人机共生的社会智能体和自治智能体，AI Agent 的形态和技术实现将变得更加模糊和不可预测。在讨论这个更远的未来时，应保持足够的开放性：我们面对的，不只是一个更聪明强大的工具，而是可能拥有自主行为逻辑和高阶目标的新型智能主体。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0v4p9yzE7NKGsCkic8Q7fIRWMRLibyQmwoBeiahVkGicTcy1aCqLXqA2BDDqFOa8ibHv5ry1UgQol7ISLcZS0COHaog/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp)
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NIKCf0OhW56GqOINiaWE7RxZ0MY7ftGJzld4vSvTnB6uicZPxR2eoZpNfK6652WLa9bFP0abUOYYjkw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0v4p9yzE7NLYCFULKZMW4HQDhVPpdyRZTpPaicMJYZBmuF6THYS950Em2u6YSAu2y4Bbicg7dlDZZTwrw6YIveEw/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
+
+继续滑动看下一个
+
+特工宇宙
+
+向上滑动看下一个
 
 
 # AI总结
