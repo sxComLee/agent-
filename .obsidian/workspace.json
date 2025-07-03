@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/MCP/从架构设计侧剖析： MCP vs A2A 是朋友还是对手？.md",
+                "file": "大模型/agent/claude/Anthropic 官方：Genspark 是如何构建 Agents 的？.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "从架构设计侧剖析： MCP vs A2A 是朋友还是对手？"
+              "title": "Anthropic 官方：Genspark 是如何构建 Agents 的？"
             }
           },
           {
@@ -262,11 +262,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "e13a75e96ec158fd",
   "lastOpenFiles": [
+    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
+    "大模型/agent/claude/Anthropic 官方：Genspark 是如何构建 Agents 的？.md",
+    "_resources/Anthropic 官方：Genspark 是如何构建 Agents 的？",
+    "大模型/agent/claude/未确认 392718.crdownload",
+    "大模型/MCP/从架构设计侧剖析： MCP vs A2A 是朋友还是对手？.md",
     "大模型/MCP/2025年最新精选MCP服务，覆盖搜索、数据、开发等多个领域，附官方地址.md",
     "大模型/prompt/文生图/即梦提示词：与屏幕里的美女握手.md",
-    "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
     "大模型/agent/agent搭建方式.md",
     "大模型/agent/智能体对比.md",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
@@ -288,9 +292,7 @@
     "大模型/prompt/未命名",
     "学习计划详情.md",
     "大模型/prompt/deepseek/未确认 286218.crdownload",
-    "大模型/prompt/deepseek",
     "大模型/方法论/AI领导力/AI领导力学习平台.md",
-    "大模型/agent/未确认 89005.crdownload",
     "Pasted image 20250528163039.png",
     "_resources/低时延复杂 agent 的搭建原理/b5eda90d629cb43de6ede60b6d208ae1_MD5.jpeg",
     "_resources/低时延复杂 agent 的搭建原理/c9b0c1eac5536f8fe4f6fc5ad09a5ac7_MD5.jpeg",
@@ -309,8 +311,6 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "Drawing 2025-05-28 10.07.11.excalidraw.md",
-    "学习计划.md",
-    "大模型/cursor/来自cursor团队的12条AI编程技巧。.md",
-    "AI加速器.md"
+    "学习计划.md"
   ]
 }
