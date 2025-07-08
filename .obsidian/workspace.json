@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
+                "file": "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术"
+              "title": "苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
+                "file": "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术 的大纲"
+              "title": "苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧 的大纲"
             }
           },
           {
@@ -277,27 +277,30 @@
   },
   "active": "e13a75e96ec158fd",
   "lastOpenFiles": [
-    "大模型/prompt/让 chatGPT 输出记忆的提示词.md",
-    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
+    "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
+    "大模型/agent/测试数据/微信公众号测试数据/万字盘点2025上半年，值得推荐的AI模型与产品清单.md",
+    "大模型/agent/测试数据/微信公众号测试数据/虚实招募令，寻找那些热爱AI却又离经叛道的同伙们。.md",
     "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 887055.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/开源CUDA项目起死回生，支持非英伟达芯片，濒临倒闭时神秘机构出手援助.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 486548.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 964804.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 797776.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
+    "大模型/agent/测试数据/微信公众号测试数据/开源CUDA项目起死回生，支持非英伟达芯片，濒临倒闭时神秘机构出手援助.md",
+    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
+    "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术/97c27e255fa1356522c4b0eb8a40c3e8_MD5.jpeg",
+    "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术",
+    "Pasted image 20250708151122.png",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 732147.crdownload",
+    "大模型/prompt/让 chatGPT 输出记忆的提示词.md",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 887055.crdownload",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 486548.crdownload",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 964804.crdownload",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 797776.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 786402.crdownload",
     "大模型/测评/国内外AI产品推荐榜（2025.7）.md",
     "大模型/测评/未确认 540409.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/万字盘点2025上半年，值得推荐的AI模型与产品清单.md",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 257138.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 186464.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 79956.crdownload",
     "大模型/agent/对话夸克 AI：首次揭秘，全国最大规模深度研究 Agent 落地方法论.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 424634.crdownload",
     "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
     "大模型/agent/智能体对比.md",
@@ -319,10 +322,6 @@
     "大模型/agent/agent搭建方式.md",
     "大模型/prompt/Prompt 编写模式：如何将思维框架赋予机器.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
-    "大模型/prompt/deepseek/DeepSeek-R1系统提示词.md",
-    "大模型/prompt/-【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物....md",
-    "Pasted image 20250528163039.png",
-    "_resources/低时延复杂 agent 的搭建原理/b5eda90d629cb43de6ede60b6d208ae1_MD5.jpeg",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
