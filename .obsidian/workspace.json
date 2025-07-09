@@ -28,11 +28,25 @@
               "type": "markdown",
               "state": {
                 "file": "每日笔记/2025-07-09.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2025-07-09"
+            }
+          },
+          {
+            "id": "85dfd448076a0f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenAI 点名智谱：全球战略的竞争对手"
             }
           },
           {
@@ -42,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日笔记/2025-07-09.md",
+                "file": "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-09 的大纲"
+              "title": "OpenAI 点名智谱：全球战略的竞争对手 的大纲"
             }
           },
           {
@@ -261,45 +275,46 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b0c0466def1b7093",
+  "active": "85dfd448076a0f04",
   "lastOpenFiles": [
-    "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
+    "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
+    "大模型/agent/测试数据/微信公众号测试数据/虚实招募令，寻找那些热爱AI却又离经叛道的同伙们。.md",
+    "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
+    "大模型/agent/测试数据/微信公众号测试数据/我把群聊天做成了一个网页，人人都可以访问，还有音频.md",
+    "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
+    "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
+    "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
+    "大模型/agent/测试数据/微信公众号测试数据/从卡片到 Agent：搜索百年演化史.md",
+    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
     "每日笔记/2025-07-09.md",
+    "大模型/agent/测试数据/微信公众号测试数据/未确认 521187.crdownload",
+    "模版/日记模版.md",
+    "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
+    "每日笔记/2025-04-22.md",
+    "每日笔记/2025-06-10.md",
+    "每日笔记/2025-06-11.md",
     "大模型/agent/未确认 586163.crdownload",
     "大模型/agent/智谱/智谱新出的模型，做PPT太会整活了.md",
-    "模版/日记模版.md",
     "大模型/agent/智谱/未确认 498333.crdownload",
     "大模型/agent/智谱",
     "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
-    "每日笔记/2025-06-10.md",
     "大模型/从0开始/步骤/推理/未确认 972919.crdownload",
     "大模型/从0开始/步骤/推理",
     "大模型/从0开始/步骤",
-    "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
-    "大模型/agent/测试数据/微信公众号测试数据/从卡片到 Agent：搜索百年演化史.md",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 104289.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 297581.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
     "大模型/agent/测试数据/微信公众号测试数据/万字盘点2025上半年，值得推荐的AI模型与产品清单.md",
-    "大模型/agent/测试数据/微信公众号测试数据/虚实招募令，寻找那些热爱AI却又离经叛道的同伙们。.md",
-    "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
-    "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
-    "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
     "大模型/agent/测试数据/微信公众号测试数据/开源CUDA项目起死回生，支持非英伟达芯片，濒临倒闭时神秘机构出手援助.md",
-    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
     "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术/97c27e255fa1356522c4b0eb8a40c3e8_MD5.jpeg",
     "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术",
     "Pasted image 20250708151122.png",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 732147.crdownload",
     "大模型/prompt/让 chatGPT 输出记忆的提示词.md",
     "大模型/测评/国内外AI产品推荐榜（2025.7）.md",
     "大模型/agent/对话夸克 AI：首次揭秘，全国最大规模深度研究 Agent 落地方法论.md",
     "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
     "大模型/agent/低时延复杂 agent 的搭建原理.md",
-    "大模型/agent/智能体对比.md",
-    "大模型/agent/AI Agent 的发展：能力、技术架构和软硬件形态.md",
     "大模型/agent/0217515278613917d78b734a2cad46cd9f36eb34766025c35c7a5.jpeg",
     "大模型/agent/0217515248002887cc37f667a86cb86ae91e87193dfe09d55429f.jpeg",
     "大模型/agent/021751524800332abb108bf667db03ddf350a2875908157ecd08b.jpeg",
@@ -308,7 +323,6 @@
     "大模型/agent/02175152359692132a841d7be9b7e7534699065d0a14d8fe513b5 (1).jpeg",
     "大模型/agent/021751523596903ae3896fadf431819d71188208c4cbf6a9f7698.jpeg",
     "大模型/agent/02175152359692132a841d7be9b7e7534699065d0a14d8fe513b5.jpeg",
-    "大模型/agent/新模型亦是新 Agent，Kimi-Researcher 超大量一手实测！.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
