@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
+                "file": "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术"
+              "title": "OpenAI 点名智谱：全球战略的竞争对手"
+            }
+          },
+          {
+            "id": "cc54ed0948d3c54a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s/XOuCUgyABpkFuQWzRYWM3A",
+                "title": "苹果开发者自曝用Claude完成95%开发，开发应用已上架",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "苹果开发者自曝用Claude完成95%开发，开发应用已上架"
             }
           },
           {
@@ -213,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
+                "file": "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术 的大纲"
+              "title": "OpenAI 点名智谱：全球战略的竞争对手 的大纲"
             }
           },
           {
@@ -277,16 +291,16 @@
   },
   "active": "85dfd448076a0f04",
   "lastOpenFiles": [
+    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
+    "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
+    "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
+    "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
     "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
     "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
-    "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
     "大模型/agent/测试数据/微信公众号测试数据/虚实招募令，寻找那些热爱AI却又离经叛道的同伙们。.md",
     "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
     "大模型/agent/测试数据/微信公众号测试数据/我把群聊天做成了一个网页，人人都可以访问，还有音频.md",
-    "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
-    "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
     "大模型/agent/测试数据/微信公众号测试数据/从卡片到 Agent：搜索百年演化史.md",
-    "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
     "每日笔记/2025-07-09.md",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 521187.crdownload",
     "模版/日记模版.md",
