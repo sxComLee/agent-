@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "a29a9e76ebfdb2cd",
+            "id": "b0c0466def1b7093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "每日笔记/2025-07-09.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-07-09"
             }
           },
           {
-            "id": "b0c0466def1b7093",
+            "id": "e60fc531a3be7029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
+                "file": "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」"
-            }
-          },
-          {
-            "id": "6792eea37c25f2c8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mp.weixin.qq.com/s/sRHFZBlVEJpFOQ4HvmMV2w?scene=1",
-                "title": "AI Agent到底哪家强？横评五款主流Agent",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AI Agent到底哪家强？横评五款主流Agent"
+              "title": "有一说一，老周还真的挺懂 Agent 的"
             }
           },
           {
@@ -275,12 +261,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a29a9e76ebfdb2cd",
+  "active": "b0c0466def1b7093",
   "lastOpenFiles": [
-    "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
+    "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
     "每日笔记/2025-07-09.md",
-    "每日笔记/2025-06-10.md",
+    "大模型/agent/未确认 586163.crdownload",
+    "大模型/agent/智谱/智谱新出的模型，做PPT太会整活了.md",
     "模版/日记模版.md",
+    "大模型/agent/智谱/未确认 498333.crdownload",
+    "大模型/agent/智谱",
+    "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
+    "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
+    "每日笔记/2025-06-10.md",
     "大模型/从0开始/步骤/推理/未确认 972919.crdownload",
     "大模型/从0开始/步骤/推理",
     "大模型/从0开始/步骤",
@@ -302,9 +294,6 @@
     "Pasted image 20250708151122.png",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 732147.crdownload",
     "大模型/prompt/让 chatGPT 输出记忆的提示词.md",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 887055.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 486548.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/未确认 964804.crdownload",
     "大模型/测评/国内外AI产品推荐榜（2025.7）.md",
     "大模型/agent/对话夸克 AI：首次揭秘，全国最大规模深度研究 Agent 落地方法论.md",
     "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
@@ -320,9 +309,6 @@
     "大模型/agent/021751523596903ae3896fadf431819d71188208c4cbf6a9f7698.jpeg",
     "大模型/agent/02175152359692132a841d7be9b7e7534699065d0a14d8fe513b5.jpeg",
     "大模型/agent/新模型亦是新 Agent，Kimi-Researcher 超大量一手实测！.md",
-    "大模型/agent/claude/Solvely.ai 与 Claude 携手改变全球学习-Solvely.ai transforms global learning with Claude.md",
-    "大模型/agent/claude/Anthropic 官方：Genspark 是如何构建 Agents 的？.md",
-    "大模型/MCP/从架构设计侧剖析： MCP vs A2A 是朋友还是对手？.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
