@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -289,7 +289,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "85dfd448076a0f04",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
     "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
