@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
+                "file": "剪藏文件/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "谷歌 Gemini 团队的编码模型训练方法论"
+              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
+                "file": "剪藏文件/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "谷歌 Gemini 团队的编码模型训练方法论 的大纲"
+              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论 的大纲"
             }
           },
           {
@@ -221,13 +221,22 @@
   },
   "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/a15b8e1a3328d2a60b81d9f5cb160217_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/c30e86f96ed793b424ed5cf0074d127a_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/ec655c1ce4d44d503082437f3895aa6c_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/dfbe697ba82a52caa92f5953dd5c6000_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/2eba68db81355a5a18454f0addfcaa3e_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/cff41eb5d776cae4fa2fbcc1376ab33b_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/d2e7b714558fe4297bc1b4e4b6d7489b_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/e469661b90a78915cddcb567e50e64da_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/b6acfbdacbd1f2af2f0e7dbcfe407af8_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/e6560a61f3d9283b69547002b2902760_MD5.webp",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论",
+    "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
+    "剪藏文件/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "_resources/谷歌 Gemini 团队的编码模型训练方法论/e7e3b0979e6b402b45ee08e21c4fd171_MD5.jpeg",
-    "Pasted image 20250715173726.png",
-    "_resources/谷歌 Gemini 团队的编码模型训练方法论/bc2bbb8175d019cfa3d06c57a2fcc202_MD5.jpg",
-    "_resources/谷歌 Gemini 团队的编码模型训练方法论/0f5ce6134d59606fb2f3e6e688480d3e_MD5.jpg",
     "_resources/谷歌 Gemini 团队的编码模型训练方法论",
     "大模型/prompt/生成 html/苹果液态玻璃生成提示词.md",
-    "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
     "剪藏文件",
     "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
     "大模型/prompt/生成 html",
@@ -240,7 +249,6 @@
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
     "每日笔记/2025-07-09.md",
     "每日笔记/2025-07-14.md",
-    "大模型/测评/kimi/k2 模型/Kimi_K2详测，Claude国产平替有了_ima脑图.png",
     "大模型/测评/kimi/k2 模型/未确认 353810.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/OpenAI 点名智谱：全球战略的竞争对手.md",
     "大模型/测评/kimi/k2 模型/未确认 271473.crdownload",
@@ -259,14 +267,6 @@
     "模版/日记模版.md",
     "每日笔记/2025-04-22.md",
     "每日笔记/2025-06-10.md",
-    "每日笔记/2025-06-11.md",
-    "大模型/agent/未确认 586163.crdownload",
-    "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术/97c27e255fa1356522c4b0eb8a40c3e8_MD5.jpeg",
-    "Pasted image 20250708151122.png",
-    "大模型/agent/0217515278613917d78b734a2cad46cd9f36eb34766025c35c7a5.jpeg",
-    "大模型/agent/0217515248002887cc37f667a86cb86ae91e87193dfe09d55429f.jpeg",
-    "大模型/agent/021751524800332abb108bf667db03ddf350a2875908157ecd08b.jpeg",
-    "大模型/agent/021751524500463338417df08f5b97625a67c95618c18a81a6f6d.jpeg",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
