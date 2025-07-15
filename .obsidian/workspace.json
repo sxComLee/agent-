@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/短视频生成想法/高科技.md",
+                "file": "大模型/prompt/ppt 视频封面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高科技"
+              "title": "ppt 视频封面"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/短视频生成想法/高科技.md",
+                "file": "大模型/prompt/ppt 视频封面.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高科技 的大纲"
+              "title": "ppt 视频封面 的大纲"
             }
           },
           {
@@ -221,21 +221,24 @@
   },
   "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
-    "Pasted image 20250715195531.png",
-    "_resources/高科技/a9babe147343cf8415d7673d71ea9b8c_MD5.jpeg",
+    "大模型/prompt/提示词示例.md",
+    "大模型/prompt/ppt 视频封面.md",
+    "大模型/prompt/短视频生成想法/未来风机甲.md",
+    "大模型/prompt/ppt 视频封面",
+    "_resources/未来风机甲/019d9be7848e604f0baeca9b64fb101f_MD5.jpeg",
+    "Pasted image 20250715195838.png",
+    "_resources/未来风机甲/2437f89d0c066ec49d71c7f4416380e2_MD5.jpeg",
+    "Pasted image 20250715195829.png",
+    "_resources/未来风机甲/143e9e75e9136c25ab94b771ca7ce0e4_MD5.jpeg",
+    "Pasted image 20250715195818.png",
+    "_resources/未来风机甲/ae76886c7751259fa02ff3f6f414de9f_MD5.jpeg",
+    "Pasted image 20250715195809.png",
+    "_resources/未来风机甲/cd74c72e26d4d2aec81a91efd2e8b1e6_MD5.jpeg",
+    "_resources/未来风机甲",
+    "Pasted image 20250715195756.png",
     "_resources/高科技",
-    "Pasted image 20250715195521.png",
     "剪藏文件/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
-    "大模型/prompt/短视频生成想法/高科技.md",
     "大模型/prompt/短视频生成想法",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/50f47b2d73b626bfb30572a0cc286c98_MD5.gif",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/8846f26371ed938fe732ed0feb6fe2f0_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/bc3e8dfdb7184521af55e85d40f56de6_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/a21418576afe46c301c520f2cde39c68_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/b00117530286c3e297fbbbaa3892c582_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/08c6c82cbd8bf944416556049fec5468_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/e1c774d7d73849269c6df23e42579a98_MD5.webp",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1/7d090565edba89c75c8698ae941450f7_MD5.webp",
     "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1",
     "剪藏文件/Lovart 国内版本上线！藏师傅教提示词大全及教学.md",
     "_resources/Lovart 国内版本上线！藏师傅教提示词大全及教学",
@@ -247,9 +250,7 @@
     "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
     "_resources/谷歌 Gemini 团队的编码模型训练方法论",
     "大模型/prompt/生成 html/苹果液态玻璃生成提示词.md",
-    "剪藏文件",
     "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
-    "大模型/prompt/生成 html",
     "每日笔记/2025-07-15.md",
     "python 相关包.md",
     "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
@@ -266,7 +267,6 @@
     "大模型/agent/测试数据/微信公众号测试数据/苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧.md",
     "大模型/agent/测试数据/微信公众号测试数据/虚实招募令，寻找那些热爱AI却又离经叛道的同伙们。.md",
     "大模型/agent/测试数据/微信公众号测试数据/谢赛宁回应团队论文藏AI好评提示词：立正挨打，但是时候重新思考游戏规则了.md",
-    "大模型/agent/测试数据/微信公众号测试数据/我把群聊天做成了一个网页，人人都可以访问，还有音频.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
