@@ -22,77 +22,21 @@
             }
           },
           {
-            "id": "5ffa81efc509f222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
             "id": "14bd31cef33aec1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python 相关包.md",
+                "file": "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python 相关包"
-            }
-          },
-          {
-            "id": "e60fc531a3be7029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "有一说一，老周还真的挺懂 Agent 的"
-            }
-          },
-          {
-            "id": "f5cb88fad46a4729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型/agent/AI Agent到底哪家强？横评五款主流Agent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Agent到底哪家强？横评五款主流Agent"
-            }
-          },
-          {
-            "id": "095402dae0043bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思维导图.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "思维导图"
+              "title": "Kimi K2详测，Claude国产平替有了"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python 相关包.md",
+                "file": "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "python 相关包 的大纲"
+              "title": "Kimi K2详测，Claude国产平替有了 的大纲"
             }
           },
           {
@@ -277,8 +221,10 @@
   },
   "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
-    "欢迎.md",
+    "每日笔记/2025-07-15.md",
     "python 相关包.md",
+    "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
+    "欢迎.md",
     "未命名",
     "大模型/概念.md",
     "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
@@ -302,7 +248,6 @@
     "大模型/agent/测试数据/微信公众号测试数据/从卡片到 Agent：搜索百年演化史.md",
     "大模型/agent/测试数据/微信公众号测试数据/未确认 521187.crdownload",
     "模版/日记模版.md",
-    "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
     "每日笔记/2025-04-22.md",
     "每日笔记/2025-06-10.md",
     "每日笔记/2025-06-11.md",
@@ -313,7 +258,6 @@
     "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
     "大模型/从0开始/步骤/推理/未确认 972919.crdownload",
     "大模型/agent/测试数据/微信公众号测试数据/万字盘点2025上半年，值得推荐的AI模型与产品清单.md",
-    "大模型/agent/测试数据/微信公众号测试数据/开源CUDA项目起死回生，支持非英伟达芯片，濒临倒闭时神秘机构出手援助.md",
     "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术/97c27e255fa1356522c4b0eb8a40c3e8_MD5.jpeg",
     "Pasted image 20250708151122.png",
     "大模型/agent/0217515278613917d78b734a2cad46cd9f36eb34766025c35c7a5.jpeg",
