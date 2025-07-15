@@ -1,18 +1,19 @@
 ---
-标题: "Lovart 国内版本上线！藏师傅教提示词大全及教学"
-链接: "https://mp.weixin.qq.com/s/X8Y7xF0HTStRWPTIhcWjEg"
+标题: Lovart 国内版本上线！藏师傅教提示词大全及教学
+链接: https://mp.weixin.qq.com/s/X8Y7xF0HTStRWPTIhcWjEg
 作者: "[[歸藏的 AI 工具箱]]"
 创建时间: 2025-07-15T19:43:24+08:00
-摘要: "文章介绍了Lovart国内版星流Agent的功能和提示词合集，包括图像海报批量生成、品牌VI设计、FLUX Kontext模型使用、表情包生成、UI设计图标生成和视频制作能力。"
+摘要: 文章介绍了Lovart国内版星流Agent的功能和提示词合集，包括图像海报批量生成、品牌VI设计、FLUX Kontext模型使用、表情包生成、UI设计图标生成和视频制作能力。
 tags:
-  - "clippings"
-  - "AI"
-  - "UI 设计"
-  - "提示词"
-  - "Lovart"
-  - "星流Agent"
+  - clippings
+  - AI
+  - UI
+  - 设计
+  - 提示词
+  - Lovart
+  - 星流Agent
 字数: 448
-状态: "未开始"
+状态: 空闲读
 ---
 # [[学习方法/预读法介绍]]
 ### 预读问题  

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-07-15.md",
+                "file": "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-15"
+              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论"
+            }
+          },
+          {
+            "id": "060315b61d614519",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s/dbcu3HFO6bMMR8Mhsg3OFA",
+                "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论"
             }
           },
           {
@@ -157,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "上下文就是一切！行业热议话题：提示工程是否应该改名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -197,11 +210,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 700.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +233,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1e5c10f2e266dbba",
+  "active": "060315b61d614519",
   "lastOpenFiles": [
+    "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "每日笔记/2025-07-15.md",
-    "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
     "大模型/agent/测评/Lovart 国内版本上线！藏师傅教提示词大全及教学.md",
+    "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
+    "README.md",
+    "相关脑图/上下文工程是否应该改名：行业热议与实践探讨_ima脑图.png",
+    "相关脑图",
     "大模型/agent/测评",
     "大模型/agent/新模型亦是新 Agent，Kimi-Researcher 超大量一手实测！.md",
     "大模型/agent/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
@@ -245,13 +263,10 @@
     "Pasted image 20250715195809.png",
     "_resources/未来风机甲/cd74c72e26d4d2aec81a91efd2e8b1e6_MD5.jpeg",
     "_resources/未来风机甲",
-    "Pasted image 20250715195756.png",
     "_resources/高科技",
     "大模型/prompt/短视频生成想法",
     "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 1",
     "_resources/Lovart 国内版本上线！藏师傅教提示词大全及教学",
-    "_resources/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程",
-    "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "大模型/prompt/生成 html/苹果液态玻璃生成提示词.md",
     "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
     "python 相关包.md",
