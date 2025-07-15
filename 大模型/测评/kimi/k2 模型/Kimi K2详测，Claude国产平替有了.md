@@ -1,18 +1,19 @@
 ---
-标题: "Kimi K2详测，Claude国产平替有了"
-链接: "https://mp.weixin.qq.com/s/5oygKf0Sa7eDZ9Kdyx5SNA"
+标题: Kimi K2详测，Claude国产平替有了
+链接: https://mp.weixin.qq.com/s/5oygKf0Sa7eDZ9Kdyx5SNA
 作者: "[[冷逸]]"
 创建时间: 2025-07-14T20:47:40+08:00
-摘要: "Kimi发布了新一代基础模型K2，参数达1T，性能媲美Claude 4和GPT 4.1，且免费开源。"
+摘要: Kimi发布了新一代基础模型K2，参数达1T，性能媲美Claude 4和GPT 4.1，且免费开源。
 tags:
-  - "clippings"
-  - "AI"
-  - "编程"
-  - "Kimi K2"
-  - "开源模型"
-  - "代码生成"
+  - clippings
+  - AI
+  - 编程
+  - Kimi
+  - K2
+  - 开源模型
+  - 代码生成
 字数: 379
-状态: "未开始"
+状态: 已读完
 ---
 # [[学习方法/预读法介绍]]
 ### 预读问题  
