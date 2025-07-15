@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
+                "file": "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kimi K2详测，Claude国产平替有了"
+              "title": "谷歌 Gemini 团队的编码模型训练方法论"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
+                "file": "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kimi K2详测，Claude国产平替有了 的大纲"
+              "title": "谷歌 Gemini 团队的编码模型训练方法论 的大纲"
             }
           },
           {
@@ -221,13 +221,22 @@
   },
   "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
+    "_resources/谷歌 Gemini 团队的编码模型训练方法论/e7e3b0979e6b402b45ee08e21c4fd171_MD5.jpeg",
+    "Pasted image 20250715173726.png",
+    "_resources/谷歌 Gemini 团队的编码模型训练方法论/bc2bbb8175d019cfa3d06c57a2fcc202_MD5.jpg",
+    "_resources/谷歌 Gemini 团队的编码模型训练方法论/0f5ce6134d59606fb2f3e6e688480d3e_MD5.jpg",
+    "_resources/谷歌 Gemini 团队的编码模型训练方法论",
+    "大模型/prompt/生成 html/苹果液态玻璃生成提示词.md",
+    "剪藏文件/谷歌 Gemini 团队的编码模型训练方法论.md",
+    "剪藏文件",
+    "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
+    "大模型/prompt/生成 html",
     "每日笔记/2025-07-15.md",
     "python 相关包.md",
     "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
     "欢迎.md",
     "未命名",
     "大模型/概念.md",
-    "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
     "大模型/prompt/用AI解决100个问题【提示词合集】/AI写作5大痛点，一套提示词搞定，实测多个AI模型，可过AI检测！.md",
     "每日笔记/2025-07-09.md",
     "每日笔记/2025-07-14.md",
@@ -252,21 +261,12 @@
     "每日笔记/2025-06-10.md",
     "每日笔记/2025-06-11.md",
     "大模型/agent/未确认 586163.crdownload",
-    "大模型/agent/智谱/智谱新出的模型，做PPT太会整活了.md",
-    "大模型/agent/智谱/未确认 498333.crdownload",
-    "大模型/agent/智谱",
-    "大模型/从0开始/步骤/推理/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
-    "大模型/从0开始/步骤/推理/未确认 972919.crdownload",
-    "大模型/agent/测试数据/微信公众号测试数据/万字盘点2025上半年，值得推荐的AI模型与产品清单.md",
     "_resources/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术/97c27e255fa1356522c4b0eb8a40c3e8_MD5.jpeg",
     "Pasted image 20250708151122.png",
     "大模型/agent/0217515278613917d78b734a2cad46cd9f36eb34766025c35c7a5.jpeg",
     "大模型/agent/0217515248002887cc37f667a86cb86ae91e87193dfe09d55429f.jpeg",
     "大模型/agent/021751524800332abb108bf667db03ddf350a2875908157ecd08b.jpeg",
     "大模型/agent/021751524500463338417df08f5b97625a67c95618c18a81a6f6d.jpeg",
-    "大模型/agent/0217515245004588446bb77dfeb1beb860d25b193972144e3c154.jpeg",
-    "大模型/agent/02175152359692132a841d7be9b7e7534699065d0a14d8fe513b5 (1).jpeg",
-    "大模型/agent/021751523596903ae3896fadf431819d71188208c4cbf6a9f7698.jpeg",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
