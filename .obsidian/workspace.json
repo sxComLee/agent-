@@ -49,8 +49,7 @@
               "title": "上下文就是一切！行业热议话题：提示工程是否应该改名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论 的大纲"
             }
           },
           {
@@ -233,8 +233,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "060315b61d614519",
+  "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
+    "Pasted image 20250716090408.png",
+    "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/7baf46199da999c0b800e657455b4bd8_MD5.jpeg",
+    "Pasted image 20250716085814.png",
     "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "每日笔记/2025-07-15.md",
     "大模型/agent/测评/Lovart 国内版本上线！藏师傅教提示词大全及教学.md",
@@ -260,8 +263,6 @@
     "_resources/未来风机甲/143e9e75e9136c25ab94b771ca7ce0e4_MD5.jpeg",
     "Pasted image 20250715195818.png",
     "_resources/未来风机甲/ae76886c7751259fa02ff3f6f414de9f_MD5.jpeg",
-    "Pasted image 20250715195809.png",
-    "_resources/未来风机甲/cd74c72e26d4d2aec81a91efd2e8b1e6_MD5.jpeg",
     "_resources/未来风机甲",
     "_resources/高科技",
     "大模型/prompt/短视频生成想法",
@@ -280,7 +281,6 @@
     "大模型/agent/测试数据/微信公众号测试数据/2025大模型半年回顾：o3、agent和scaling law.md",
     "大模型/agent/测试数据/微信公众号测试数据/开发者遭ChatGPT“赶鸭子上架”！AI编造假功能，结果吸引大量用户，不得不开发出来了.md",
     "大模型/agent/测试数据/微信公众号测试数据/苹果开发者自曝用Claude完成95%开发，开发应用已上架.md",
-    "大模型/agent/测试数据/微信公众号测试数据/Meta新注意力机制突破Transformer上限，还用上了OpenAI的开源技术.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
