@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
+                "file": "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论"
+              "title": "普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
+                "file": "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "近期必读！Devin VS Anthropic 的多智能体构建方法论 的大纲"
+              "title": "普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 的大纲"
             }
           },
           {
@@ -210,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 700.5,
-    "collapsed": true
+    "width": 700.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +234,11 @@
   },
   "active": "14bd31cef33aec1c",
   "lastOpenFiles": [
+    "每日笔记/2025-07-15.md",
+    "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "Pasted image 20250716090408.png",
     "_resources/近期必读！Devin VS Anthropic 的多智能体构建方法论/7baf46199da999c0b800e657455b4bd8_MD5.jpeg",
     "Pasted image 20250716085814.png",
-    "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
-    "每日笔记/2025-07-15.md",
     "大模型/agent/测评/Lovart 国内版本上线！藏师傅教提示词大全及教学.md",
     "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
     "README.md",
@@ -262,7 +261,6 @@
     "Pasted image 20250715195829.png",
     "_resources/未来风机甲/143e9e75e9136c25ab94b771ca7ce0e4_MD5.jpeg",
     "Pasted image 20250715195818.png",
-    "_resources/未来风机甲/ae76886c7751259fa02ff3f6f414de9f_MD5.jpeg",
     "_resources/未来风机甲",
     "_resources/高科技",
     "大模型/prompt/短视频生成想法",
