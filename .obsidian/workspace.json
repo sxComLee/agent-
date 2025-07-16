@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "上下文就是一切！行业热议话题：提示工程是否应该改名"
             }
+          },
+          {
+            "id": "857712e570c5dfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剪藏文件/国内首个免费提供的深度研究，反而有市面上最好的体验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "国内首个免费提供的深度研究，反而有市面上最好的体验"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
+                "file": "剪藏文件/国内首个免费提供的深度研究，反而有市面上最好的体验.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程 的大纲"
+              "title": "国内首个免费提供的深度研究，反而有市面上最好的体验 的大纲"
             }
           },
           {
@@ -210,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -232,8 +247,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "14bd31cef33aec1c",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
+    "剪藏文件/国内首个免费提供的深度研究，反而有市面上最好的体验.md",
+    "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
     "每日笔记/2025-07-15.md",
     "大模型/agent/近期必读！Devin VS Anthropic 的多智能体构建方法论.md",
     "Pasted image 20250716090408.png",
@@ -248,7 +265,6 @@
     "大模型/agent/新模型亦是新 Agent，Kimi-Researcher 超大量一手实测！.md",
     "大模型/agent/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "大模型/google/谷歌 Gemini 团队的编码模型训练方法论.md",
-    "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
     "大模型/未命名",
     "未命名",
     "大模型/prompt/ppt 视频封面.md",
