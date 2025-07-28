@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会.md",
+                "file": "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会"
+              "title": "高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报"
             }
           }
         ],
@@ -250,6 +250,13 @@
   },
   "active": "857712e570c5dfc3",
   "lastOpenFiles": [
+    "_resources/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报/8f1a4c7dcf7b987c3651e1aab1b789fe_MD5.jpg",
+    "_resources/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报/1a73c63d846936eb06a940939b4617cc_MD5.jpg",
+    "_resources/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报/0e392a805868eed01cfb800c4393f36a_MD5.webp",
+    "_resources/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报/1834d96835a640bbb2685a8fe1466101_MD5.jpg",
+    "_resources/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报",
+    "剪藏文件/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会.md",
+    "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/6c8e1322c8f297c0c98d243ea6b873e0_MD5.webp",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/9cf7b49143b88d6bfd2b2505d8aa876e_MD5.webp",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/41126ef3b3c67d6137a66f341d6c53ba_MD5.webp",
@@ -257,13 +264,8 @@
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/db22954d67d7be11376cfaedac6108a2_MD5.webp",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/93333e39f1fab9e321576ff192f8e460_MD5.webp",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/da3c0750c9a8b7b068425dcc72edb655_MD5.webp",
-    "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/613e456b7b6f66e8c55c5846ef0e5fa9_MD5.webp",
-    "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/8b15282228f19f01c6e5c81ab58facba_MD5.webp",
-    "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/dadba9c72b6c759fce83810814e29091_MD5.webp",
-    "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会/6a78d593c324e37bc897fcf83ac740ff_MD5.webp",
     "_resources/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会",
     "剪藏文件/对话问小白创始人李岩：AI是一种暴力美学，小不可能美.md",
-    "剪藏文件/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会.md",
     "_resources/对话问小白创始人李岩：AI是一种暴力美学，小不可能美",
     "剪藏文件/我把群聊天做成了一个网页，人人都可以访问，还有音频.md",
     "_resources/我把群聊天做成了一个网页，人人都可以访问，还有音频",
@@ -284,7 +286,6 @@
     "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
     "README.md",
     "相关脑图",
-    "大模型/agent/测评",
     "大模型/agent/新模型亦是新 Agent，Kimi-Researcher 超大量一手实测！.md",
     "大模型/agent/0. 学习路径_ 成为基于Agent的创造者 - 飞书云文档.md",
     "大模型/google/谷歌 Gemini 团队的编码模型训练方法论.md",
@@ -295,7 +296,6 @@
     "大模型/测评/kimi/k2 模型/Kimi K2详测，Claude国产平替有了.md",
     "python 相关包.md",
     "大模型/agent/有一说一，老周还真的挺懂 Agent 的.md",
-    "欢迎.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
