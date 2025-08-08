@@ -55,16 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
+                "file": "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抱着“不做就会死”的决心，才能真正做好全球化  42章经"
+              "title": "AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用"
+            }
+          },
+          {
+            "id": "1d1c0b9df0afdd8d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://guangzhengli.com/",
+                "title": "Guangzheng Li",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Guangzheng Li"
+            }
+          },
+          {
+            "id": "e43ce8cdcc283d31",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://guangzhengli.com/blog/zh/model-context-protocol",
+                "title": "MCP 终极指南",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "MCP 终极指南"
+            }
+          },
+          {
+            "id": "c0c1c73cba4b8149",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024",
+                "title": "独立开发技术栈 2025",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "独立开发技术栈 2025"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,12 +290,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "857712e570c5dfc3",
+  "active": "e43ce8cdcc283d31",
   "lastOpenFiles": [
+    "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
+    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
     "_resources/抱着“不做就会死”的决心，才能真正做好全球化  42章经/4c2dea1e0aaf31aec0ba5713e4e35ecd_MD5.webp",
     "_resources/抱着“不做就会死”的决心，才能真正做好全球化  42章经",
     "剪藏文件/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1.md",
-    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
     "_resources/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1/0594805e753faa6e55e07db235823c36_MD5.webp",
     "_resources/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！/0594805e753faa6e55e07db235823c36_MD5.webp",
     "_resources/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1/c5d97a08b199a5838d6d938e1f7309f2_MD5.webp",
@@ -269,7 +312,6 @@
     "剪藏文件/不是「电商 AI」，而是「AI 电商」.md",
     "_resources/不是「电商 AI」，而是「AI 电商」/91706e9dbe9b78aef82f587e09bde5ff_MD5.jpg",
     "_resources/不是「电商 AI」，而是「AI 电商」/c777fae2942f09d3aef00c3615bf7fa1_MD5.jpg",
-    "_resources/不是「电商 AI」，而是「AI 电商」/343217908e3a00e4348791f52da72894_MD5.jpg",
     "_resources/不是「电商 AI」，而是「AI 电商」",
     "剪藏文件/有一说一，老周还真的挺懂 Agent 的.md",
     "_resources/有一说一，老周还真的挺懂 Agent 的",
