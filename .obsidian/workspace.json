@@ -83,8 +83,9 @@
             "state": {
               "type": "webviewer",
               "state": {
+                "url": "https://guangzhengli.com/blog/zh/model-context-protocol",
                 "title": "MCP 终极指南",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "MCP 终极指南"
@@ -289,7 +290,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e43ce8cdcc283d31",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
     "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
