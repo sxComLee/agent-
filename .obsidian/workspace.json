@@ -83,9 +83,8 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://guangzhengli.com/blog/zh/model-context-protocol",
                 "title": "MCP 终极指南",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "MCP 终极指南"
