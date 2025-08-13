@@ -7,5 +7,14 @@
       ],
       "key": "F"
     }
+  ],
+  "comments:add": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
