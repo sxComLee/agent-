@@ -24,6 +24,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "创建时间": "date",
-    "字数": "number"
+    "字数": "number",
+    "excalidraw-embed-md": "checkbox"
   }
 }
