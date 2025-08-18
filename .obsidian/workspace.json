@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tags",
+                "query": "path:\"大模型/Claude/claude code/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,10 +291,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "14bd31cef33aec1c",
+  "active": "499801c21c312d25",
   "lastOpenFiles": [
-    "大模型/Claude/Claude_Code_Agent系统完整技术解析.md",
+    "大模型/Claude/claude code/整理调用过程图解.png",
     "大模型/Claude/claude code/整体调用过程.md",
+    "整体调用过程.md",
+    "大模型/Claude/Claude_Code_Agent系统完整技术解析.md",
     "大模型/Claude/claude code",
     "大模型/google/谷歌 Gemini 团队的编码模型训练方法论.md",
     "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
@@ -318,7 +320,6 @@
     "_resources/吴恩达谈 Agent 现状：MCP、Agent 通信还太早期",
     "剪藏文件/不是「电商 AI」，而是「AI 电商」.md",
     "_resources/不是「电商 AI」，而是「AI 电商」/91706e9dbe9b78aef82f587e09bde5ff_MD5.jpg",
-    "_resources/不是「电商 AI」，而是「AI 电商」/c777fae2942f09d3aef00c3615bf7fa1_MD5.jpg",
     "_resources/不是「电商 AI」，而是「AI 电商」",
     "剪藏文件/有一说一，老周还真的挺懂 Agent 的.md",
     "_resources/有一说一，老周还真的挺懂 Agent 的",
@@ -337,8 +338,6 @@
     "剪藏文件/我不给人做产品，给 Agent 做  42章经.md",
     "剪藏文件/拥有Github 的微软终于出手，发布一键生成全栈应用的GitHub Spark！.md",
     "剪藏文件/长思维链里的推理步骤，哪些最关键？三招锁定LLM的「命门句子」.md",
-    "剪藏文件/国内首个免费提供的深度研究，反而有市面上最好的体验.md",
-    "每日笔记/2025-07-15.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
