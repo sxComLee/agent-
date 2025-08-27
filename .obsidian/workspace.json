@@ -62,65 +62,9 @@
               "icon": "lucide-file",
               "title": "AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用"
             }
-          },
-          {
-            "id": "1d1c0b9df0afdd8d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://guangzhengli.com/",
-                "title": "Guangzheng Li",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Guangzheng Li"
-            }
-          },
-          {
-            "id": "e43ce8cdcc283d31",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://guangzhengli.com/blog/zh/model-context-protocol",
-                "title": "MCP 终极指南",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "MCP 终极指南"
-            }
-          },
-          {
-            "id": "c0c1c73cba4b8149",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024",
-                "title": "独立开发技术栈 2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "独立开发技术栈 2025"
-            }
-          },
-          {
-            "id": "24b56392dfe63ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型/Claude/claude code/整体调用过程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "整体调用过程"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -307,54 +251,54 @@
       "publish:发布更改": false
     }
   },
-  "active": "24b56392dfe63ceb",
+  "active": "857712e570c5dfc3",
   "lastOpenFiles": [
-    "大模型/Claude/claude code/整理调用过程图解.png",
-    "未命名 2.base",
-    "未命名 1.base",
-    "未命名.base",
-    "剪藏文件/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程.md",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/3111a3e0a985812baaf28d5ff4cf4b9c_MD5.gif",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/05172407654bc75e2be37cb1b9411a73_MD5.gif",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/44e9db63fcc14e921df604ed0477e3e5_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/c069ba0a5f947eadb1b251cf8b24183b_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/4dca76450fa586d701b3df03b5c7c291_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/5d583d572a083acf69b148b502a96df3_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/768f1456f7acd86bd5c034119f08348b_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/49d9033e6c8fc87ddd9a2bfb45adc654_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/31c6cb71efdcd0cbcc4fdb32b6b16bec_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/69ffec49f981885f6595666e55ff7025_MD5.webp",
-    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程",
-    "剪藏文件/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风.md",
-    "大模型/agent/相关理论/2505.20286v1.pdf",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风",
-    "剪藏文件/“模型即Agent” - 从AutoGPT到Claude Code.md",
-    "剪藏文件/别碰Vibe Coding！有点难受，但很上头【含实操与见解】.md",
-    "_resources/别碰Vibe Coding！有点难受，但很上头【含实操与见解】",
-    "剪藏文件/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）.md",
-    "_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）",
+    "剪藏文件/Claude Code长期记忆：优雅的上下文管理.md",
+    "大模型/agent/claude/claude code/Claude Code长期记忆：优雅的上下文管理.md",
+    "_resources/Claude Code长期记忆：优雅的上下文管理/e8f76e823e39f52063de080e05db89ba_MD5.webp",
+    "_resources/Claude Code长期记忆：优雅的上下文管理",
+    "剪藏文件/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App.md",
+    "大模型/agent/相关理论/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程.md",
+    "大模型/agent/claude/claude code/手工川精讲吴恩达Claude Code教程 04. Prompt范式、深度思考、上下文工程与MCP.md",
+    "大模型/agent/claude/claude code/吴恩达谈 Agent 现状：MCP、Agent 通信还太早期.md",
+    "大模型/agent/claude/claude code/吴恩达 x Anthropic：Claude Code 终极教程 01.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 教程 03：深入代码库与 AI 记忆的构建.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 教程 02：揭秘 AI 编程助理的核心机制.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 笔记精华版.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化.md",
+    "大模型/agent/claude/claude code/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴.md",
+    "大模型/agent/claude/claude code",
+    "大模型/agent/claude/未命名文件夹",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/43011a835f629ab2293d7b1f807e0617_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/27c570ee33a38d23104ba2f22480e6e6_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/5dae6880487857edc020a9315476f400_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/3e829cb3c0ddfc3378a9bf7ab67db155_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/e615aa520030d5fad71f79dade68ecf1_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/ebfc6a7e958a9984459996652d1b210c_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/698353be27f8c137eaeb0d980ee65a27_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/eafa1f372836252601206de36b4af422_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/d0aacc05638da1baf0d5695c15c64c6e_MD5.webp",
+    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App",
+    "剪藏文件/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化.md",
+    "_resources/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化",
+    "剪藏文件/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化.md",
+    "_resources/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化",
+    "剪藏文件/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴.md",
+    "_resources/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴",
+    "剪藏文件/手工川精讲吴恩达Claude Code教程 04. Prompt范式、深度思考、上下文工程与MCP.md",
+    "_resources/手工川精讲吴恩达Claude Code教程 04. Prompt范式、深度思考、上下文工程与MCP",
+    "剪藏文件/吴恩达 Claude Code 教程 03：深入代码库与 AI 记忆的构建.md",
+    "_resources/吴恩达 Claude Code 教程 03：深入代码库与 AI 记忆的构建",
+    "剪藏文件/吴恩达 Claude Code 教程 02：揭秘 AI 编程助理的核心机制.md",
+    "_resources/吴恩达 Claude Code 教程 02：揭秘 AI 编程助理的核心机制",
+    "剪藏文件/吴恩达 x Anthropic：Claude Code 终极教程 01.md",
+    "剪藏文件/吴恩达 Claude Code 笔记精华版.md",
     "大模型/Claude/claude code/整体调用过程.md",
-    "整体调用过程.md",
-    "大模型/Claude/Claude_Code_Agent系统完整技术解析.md",
-    "大模型/Claude/claude code",
-    "大模型/google/谷歌 Gemini 团队的编码模型训练方法论.md",
-    "大模型/google/普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程.md",
-    "大模型/prompt/上下文就是一切！行业热议话题：提示工程是否应该改名.md",
-    "大模型/MCP/AI编程萌新必看：从0到1写一个 MCP服务，附优秀MCP导航站，复制粘贴就能用.md",
-    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
-    "_resources/抱着“不做就会死”的决心，才能真正做好全球化  42章经",
-    "剪藏文件/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1.md",
-    "剪藏文件/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！.md",
-    "剪藏文件/吴恩达谈 Agent 现状：MCP、Agent 通信还太早期.md",
-    "剪藏文件/不是「电商 AI」，而是「AI 电商」.md",
-    "剪藏文件/有一说一，老周还真的挺懂 Agent 的.md",
-    "剪藏文件/思维混乱有救了！我把顶级“思维教练”塞进AI，让人人都能用的六顶思考帽（附Prompt）.md",
-    "剪藏文件/全球大模型真实编程能力大摸底！评测新标准揭秘模型能力虚胖真相.md",
-    "剪藏文件/现在社会最可怕的现象：“傻瓜共振”（深度好文）.md",
-    "剪藏文件/90天定律：从落后到突围，国产AI的崛起周期｜赛博月刊 2507.md",
-    "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
-    "剪藏文件/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会.md",
-    "剪藏文件/对话问小白创始人李岩：AI是一种暴力美学，小不可能美.md",
+    "剪藏文件/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程.md",
+    "剪藏文件/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风.md",
+    "剪藏文件/“模型即Agent” - 从AutoGPT到Claude Code.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
