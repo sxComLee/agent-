@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风.md",
+                "file": "大模型/Claude/claude code/整体调用过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风"
+              "title": "整体调用过程"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"大模型/Claude/claude code/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,20 +309,26 @@
   },
   "active": "24b56392dfe63ceb",
   "lastOpenFiles": [
+    "大模型/Claude/claude code/整理调用过程图解.png",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "剪藏文件/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程.md",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/3111a3e0a985812baaf28d5ff4cf4b9c_MD5.gif",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/05172407654bc75e2be37cb1b9411a73_MD5.gif",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/44e9db63fcc14e921df604ed0477e3e5_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/c069ba0a5f947eadb1b251cf8b24183b_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/4dca76450fa586d701b3df03b5c7c291_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/5d583d572a083acf69b148b502a96df3_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/768f1456f7acd86bd5c034119f08348b_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/49d9033e6c8fc87ddd9a2bfb45adc654_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/31c6cb71efdcd0cbcc4fdb32b6b16bec_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程/69ffec49f981885f6595666e55ff7025_MD5.webp",
+    "_resources/为什么你的 Agent 总是止步于 70 分？你不应该只关注上下文工程",
+    "剪藏文件/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风.md",
     "大模型/agent/相关理论/2505.20286v1.pdf",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/2fac8307fcbd1d68ab057d5c34e89f57_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/42416f8447d85940ce2d59c1a036b1c4_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/2120da2bcd0faa21924de718d5e78ad8_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/def70cf1b76cf8bc4144226756668048_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/92174c5c4d217f1e61cd2b01bbde34b0_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/038eadcb864003a5925f26bf7d90a39c_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/50448db54aa5a7bc78c222f3fbc939ad_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/1e48078909ee6dff0869aba9c69bf077_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/ef4d68b6408a3b9bbd5568fd1ccafa7c_MD5.webp",
-    "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风/57bf77d626f89018383a6b5f12c10a3e_MD5.webp",
     "_resources/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风",
     "剪藏文件/“模型即Agent” - 从AutoGPT到Claude Code.md",
-    "剪藏文件/用 AI 三步搞定专业排版：从Prompt到代码，一键生成惊艳杂志风.md",
     "剪藏文件/别碰Vibe Coding！有点难受，但很上头【含实操与见解】.md",
     "_resources/别碰Vibe Coding！有点难受，但很上头【含实操与见解】",
     "剪藏文件/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）.md",
@@ -338,15 +344,10 @@
     "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
     "_resources/抱着“不做就会死”的决心，才能真正做好全球化  42章经",
     "剪藏文件/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1.md",
-    "_resources/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！ 1",
-    "_resources/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！",
     "剪藏文件/RAG、Evals、ReAct、Guardrails…六大技术改变AI格局，成本投入大起底！.md",
     "剪藏文件/吴恩达谈 Agent 现状：MCP、Agent 通信还太早期.md",
-    "_resources/吴恩达谈 Agent 现状：MCP、Agent 通信还太早期",
     "剪藏文件/不是「电商 AI」，而是「AI 电商」.md",
-    "_resources/不是「电商 AI」，而是「AI 电商」",
     "剪藏文件/有一说一，老周还真的挺懂 Agent 的.md",
-    "_resources/有一说一，老周还真的挺懂 Agent 的",
     "剪藏文件/思维混乱有救了！我把顶级“思维教练”塞进AI，让人人都能用的六顶思考帽（附Prompt）.md",
     "剪藏文件/全球大模型真实编程能力大摸底！评测新标准揭秘模型能力虚胖真相.md",
     "剪藏文件/现在社会最可怕的现象：“傻瓜共振”（深度好文）.md",
@@ -354,7 +355,6 @@
     "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
     "剪藏文件/一个可怕的事实：越来越多的人用 AI 给自己创建产品，也许是新的趋势和机会.md",
     "剪藏文件/对话问小白创始人李岩：AI是一种暴力美学，小不可能美.md",
-    "剪藏文件/我把群聊天做成了一个网页，人人都可以访问，还有音频.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
