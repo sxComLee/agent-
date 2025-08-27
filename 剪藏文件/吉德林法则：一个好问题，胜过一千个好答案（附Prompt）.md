@@ -41,7 +41,7 @@ tags:
 
 小伙伴们大家好呀，我是甲木。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDu6lF4rInoUo4kXhGEswB0dxd4ATs68zESSV2Wln9zrL9soWmg3WlLtA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/efac555091feaabcabe6368189542b2d_MD5.webp]]
 
 上周给大家分享了「AI杂志排版」相关的思路和prompt，
 
@@ -55,7 +55,7 @@ tags:
 
 今天就给大家带来—— **「吉德林法则」(Kidlin's Law)**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDutyApz7SsAybbtLGianGbrCIAAiaWttJoFv57bEDjicSOd8ictvoyHOpibGQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/e751a46fcee1fffd569f6905b1486718_MD5.webp]]
 
 ## 缘起
 
@@ -69,7 +69,7 @@ tags:
 
 这种感觉，就像你被扔进一个伸手不见五指的浓雾迷宫里，你知道有出口，但连自己在哪、墙在哪都摸不清楚，只能原地打转，无力感倍增。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDu4Vicia74cGnt9tnvibGE79tSrj8DicBVuj4tUibuFe4oWsZMPO9vz01zEwA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/4f52c9061c489e3e9ca06ce374bff5ef_MD5.webp]]
 
 其实，早在AI出现之前，管理学界就有一条著名的法则，专门用来“驱散”这种思维迷雾。
 
@@ -98,7 +98,7 @@ tags:
 
 你知道了任务量，看到了结构，甚至脑子里已经开始自动规划：“先把垃圾扔了，再把衣服放进洗衣机，然后……”
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuia01iaxjm4G3wE5kicWTYl3t2ugsEMKMm0XdhVjyQJkSuwGD4jLIHJLsw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/313e6a8b212cd0508458ca52da29f402_MD5.webp]]
 
 **看，你还没开始动手，但“收拾房间”这个难题，是不是感觉已经被解决了一半了？**
 
@@ -221,45 +221,45 @@ AI不会给你答案，而是启发你自己找到答案。
 
 **【步骤一：初步陈述】**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuFUkrxopT0q1YckNgZd2vdc0OEuB5ApIy5Js9BpzXicnPdSnoLiayzCOQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/c51ecfb86513cec37e9c26f8f34cebc7_MD5.webp]]
 
 **【步骤二：事实与现状】**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuh2K7gCP5ZqV3vABeWXWKWqaibibLZxNnV8T6ZCYjEcFGGnYWywvlpBdg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/9519cafd38436b248cd0d89238f86c84_MD5.webp]]
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuP89fWvz0ic8htV8ptWuA9c6v5PPQOg6jhX6WiaI5A81qxZ121icPxqkzQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/b6c84018301d8b8d4300f0cc83c78f2a_MD5.webp]]
 
 > **李总** ：每月增长也不多，大概5-10%左右，我仔细想了一下，主要是新用户的注册量几乎没动。我们核心老用户的活跃度和留存率其实还行，波动不大。问题就是没有新血液进来。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDukba48ibnF6IxQeH4CUkkGh1VfFq6KvwnICWeA1LHxKnR9hPmtMSmZMg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/cc80d2afac5656f2554c39fd7b7beb18_MD5.webp]]
 
 > **李总** ：注册转化率降低，市场活动预算拉低了。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDu9dS90FfsyiaIdrRgyibZt8HXCcic0L0ESy1ibJiaQ3Xh3DTiaXDhfjySNF6w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/4b879899a205b33828477fcf5e099800_MD5.webp]]
 
 **【步骤三 & 四：影响与目标】**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuqHQEia7x1I3gkSU4jWPE95UbZYd1Znp4pbWtSKlL7TxLxrFFWn8ahyA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/3ed1dd49521c46651579916b10888899_MD5.webp]]
 
 > **李总** ：影响太大了。首先是业务层面，增长停滞直接导致我们Q2的营收预测没有达成。更重要的是战略层面，我们正在准备下一轮融资，现在这个增长数据根本没法跟投资人交代，整个融资计划都被迫延后了。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDull086yj8WaJQsStfIqWxCqx70bQ4H9a2ialibSn96EC9KV8tGo3COHsA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/d6da19e0f334f44421f76d713f795721_MD5.webp]]
 
 > **李总** ：最坏的结果？核心团队可能会因为看不到希望而开始流失，这比没融到资还可怕。公司可能会陷入“负向螺旋”，越没增长越没士气，越没士气越没增长，最后慢慢死掉。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuDyENLSwvcUn3gpB2XicibZibWicRnDjrzv7ibXv5YaSjnBLJQjobibL28LvQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/1000e935f2d2a1c647d2c17c665b795f_MD5.webp]]
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuvWAqEIib6u0VcWYiccFLhf4vvoiaktlJOjnPLHKj1CQ6N0xFG14gtHOYw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/838c421d6df8f42cbad41932ff6cd5ca_MD5.webp]]
 
 **【步骤五：核心问题重述】**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuibgGtibtzeJNOvZBYmLTKC7UylLKeTuUSOoPbL0YeOMVHQHrIrzWQl0A/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/068e2df54fa09c4faaa3b30152a88619_MD5.webp]]
 
 **【步骤六：自我启发与方向】**
 
 > **AI顾问** ：现在，看着这份我们共同完成的、清晰明了的问题陈述，您脑海中浮现出的第一个、最想尝试的行动或改变是什么？
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDuDMj2vz1RavicP3kTfTuzqrehzuR2VzqVvxJq8GNt7wiaatx8qnxph54Q/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/e6217f5e018f5da455c1d85f13ddba3e_MD5.webp]]
 
 这是一个商业场景的简单应用，
 
@@ -289,7 +289,7 @@ AI不会给你答案，而是启发你自己找到答案。
 
 一个模糊的问题，会引来一千个无效的答案；而一个清晰的问题，本身就蕴含着走向答案的唯一路径。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lcSfmTk9Xqdqnpf2l9r1xutUUJ5rdbDufezqbic25a7yIEMoqJY6WJkVib0DPEicNAmvxlicURT90AV6lTjglfTM2g/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1)
+![[_resources/吉德林法则：一个好问题，胜过一千个好答案（附Prompt）/b6ac879ab5f4b319648ae4496fc433cf_MD5.webp]]
 
 回顾我们之前介绍的所有思维模型：
 
