@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/一图理解Nano Banana为何这么强？.md",
+                "file": "大模型/prompt/教程_翻译/【谷歌官方揭秘】写好 Prompt，让 AI 更懂你的终极指南！.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一图理解Nano Banana为何这么强？"
+              "title": "【谷歌官方揭秘】写好 Prompt，让 AI 更懂你的终极指南！"
             }
           }
         ],
@@ -274,12 +274,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "f5a115002c4e8851",
   "lastOpenFiles": [
+    "大模型/prompt/pua ai prompt.md",
+    "剪藏文件/一图理解Nano Banana为何这么强？.md",
     "_resources/一图理解Nano Banana为何这么强？/1d89cff8bbd45e9750368d5ea8eb434b_MD5.webp",
     "_resources/一图理解Nano Banana为何这么强？/75c7e5d2cbee1e621f13b5a7bd105864_MD5.webp",
     "_resources/一图理解Nano Banana为何这么强？",
-    "剪藏文件/一图理解Nano Banana为何这么强？.md",
     "README.md",
     "每日笔记/2025-09-01.md",
     "python 相关包.md",
@@ -314,7 +315,6 @@
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/5dae6880487857edc020a9315476f400_MD5.webp",
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/3e829cb3c0ddfc3378a9bf7ab67db155_MD5.webp",
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/e615aa520030d5fad71f79dade68ecf1_MD5.webp",
-    "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/ebfc6a7e958a9984459996652d1b210c_MD5.webp",
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App",
     "剪藏文件/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化.md",
     "_resources/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化",
