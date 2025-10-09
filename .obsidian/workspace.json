@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "【谷歌官方揭秘】写好 Prompt，让 AI 更懂你的终极指南！"
             }
+          },
+          {
+            "id": "23c6a65a9719f0ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,6 +270,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "bases:创建新数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
@@ -274,8 +287,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f5a115002c4e8851",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
+    "大模型/prompt/Feed Summary.md",
     "大模型/prompt/pua ai prompt.md",
     "剪藏文件/一图理解Nano Banana为何这么强？.md",
     "_resources/一图理解Nano Banana为何这么强？/1d89cff8bbd45e9750368d5ea8eb434b_MD5.webp",
@@ -320,7 +334,6 @@
     "_resources/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化",
     "剪藏文件/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化.md",
     "_resources/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化",
-    "剪藏文件/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴.md",
     "_resources/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴",
     "未命名 1.canvas",
     "未命名.canvas"
