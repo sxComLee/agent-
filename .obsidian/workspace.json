@@ -81,12 +81,14 @@
             "id": "23c6a65a9719f0ee",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "大模型/prompt/短视频生成想法/未来风机甲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "icon": "lucide-file",
+              "title": "未来风机甲"
             }
           }
         ],
@@ -287,7 +289,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "23c6a65a9719f0ee",
   "lastOpenFiles": [
     "大模型/prompt/Feed Summary.md",
     "大模型/prompt/pua ai prompt.md",
