@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c74ec457d8cc922d",
+        "id": "d59b2c504430e337",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea4abf8fb8de34f",
+            "id": "9484fc5e3dcb9086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-09-05.md",
+                "file": "每日笔记/2025-11-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "2025-11-20"
+            }
+          },
+          {
+            "id": "5cd99a4ebb79e9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日笔记/2025-11-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "每日笔记/2025-09-05.md",
+            "file": "每日笔记/2025-11-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,8 +159,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       }
     ],
@@ -162,16 +177,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Open Copilot Chat": false
+      "bases:Create new base": false
     }
   },
-  "active": "7ea4abf8fb8de34f",
+  "active": "5cd99a4ebb79e9f4",
   "lastOpenFiles": [
-    "Pasted image 20250716090408.png",
-    "每日笔记/2025-09-05.md"
+    "Untitled.md",
+    "每日笔记/2025-11-22.md",
+    "每日笔记/2025-11-20.md",
+    "每日笔记/2025-09-05.md",
+    "Pasted image 20250716090408.png"
   ]
 }

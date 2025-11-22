@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型/prompt/短视频生成想法/未来风机甲.md",
+                "file": "每日笔记/2025-11-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未来风机甲"
+              "title": "2025-11-22"
             }
           }
         ],
@@ -289,9 +289,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23c6a65a9719f0ee",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
     "剪藏文件/技能如何运作？, 技能类型, 主要优势, 技能与其他 Claude 功能的比较, 了解更多关于技能的信息-What are Skills?  Claude Help Center.md",
+    "大模型/prompt/短视频生成想法/未来风机甲.md",
+    "_resources/技能如何运作？, 技能类型, 主要优势, 技能与其他 Claude 功能的比较, 了解更多关于技能的信息-What are Skills?  Claude Help Center",
     "大模型/prompt/Feed Summary.md",
     "大模型/prompt/pua ai prompt.md",
     "剪藏文件/一图理解Nano Banana为何这么强？.md",
@@ -333,10 +335,8 @@
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/3e829cb3c0ddfc3378a9bf7ab67db155_MD5.webp",
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App/e615aa520030d5fad71f79dade68ecf1_MD5.webp",
     "_resources/吴恩达 Claude Code 笔记 09：基于 Figma MCP 直出 App",
-    "剪藏文件/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化.md",
     "_resources/吴恩达 Claude Code 教程 08：Jupyter 数据分析与 Streamlit 可视化",
     "_resources/吴恩达 Claude Code 笔记 07：集成 GitHub 与 Hooks 实现开发全流程自动化",
-    "_resources/吴恩达 Claude Code 笔记 05：测试驱动开发（TDD）与并行Agent头脑风暴",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
