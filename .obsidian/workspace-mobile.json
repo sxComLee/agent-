@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-11-22.md",
+                "file": "每日笔记/2025-11-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-22"
+              "title": "2025-11-28"
+            }
+          },
+          {
+            "id": "36c8d2b6af0c78be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -113,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "每日笔记/2025-11-20.md",
+            "file": "每日笔记/2025-11-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,8 +192,8 @@
   },
   "active": "5cd99a4ebb79e9f4",
   "lastOpenFiles": [
-    "Untitled.md",
     "每日笔记/2025-11-22.md",
+    "Untitled.md",
     "每日笔记/2025-11-20.md",
     "每日笔记/2025-09-05.md",
     "Pasted image 20250716090408.png"
