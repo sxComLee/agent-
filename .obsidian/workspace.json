@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cahtbot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,7 +290,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23c6a65a9719f0ee",
+  "active": "9af52773118ee76e",
   "lastOpenFiles": [
     "剪藏文件/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档.md",
     "每日笔记/2025-12-01.md",
