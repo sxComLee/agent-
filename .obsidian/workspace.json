@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "2025-12-05"
             }
+          },
+          {
+            "id": "4014fadfadd111d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日笔记/2025-12-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-06"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -290,8 +304,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23c6a65a9719f0ee",
+  "active": "4014fadfadd111d5",
   "lastOpenFiles": [
+    "每日笔记/2025-12-06.md",
     "_resources/2025-12-05/76b6515622ea804b110b825573fa24de_MD5.jpeg",
     "Pasted image 20251205205940.png",
     "_resources/2025-12-05/0ca1c1e5d2a6a4dbf0877c4fe75edf44_MD5.jpeg",
@@ -309,7 +324,6 @@
     "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166/31d5183d899e548ccdc59782b45951a4_MD5.webp",
     "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166/f6584bd2b0c93902ee9b0acc603f7eaa_MD5.jpg",
     "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166/248a9debff89cd69aae458cf24fb3e04_MD5.webp",
-    "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166/f150751df66cea408aa771e12944e964_MD5.webp",
     "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166",
     "剪藏文件/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166.md",
     "_resources/【译】上下文工程：别把窗塞满越多越糟！用写筛压隔四步，警惕投毒干扰混淆冲突，把噪声挡窗外——慢慢学AI170",
