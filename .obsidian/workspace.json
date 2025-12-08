@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-12-06.md",
+                "file": "每日笔记/2025-12-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-06"
+              "title": "2025-12-08"
             }
           }
         ],
@@ -306,6 +306,7 @@
   },
   "active": "4014fadfadd111d5",
   "lastOpenFiles": [
+    "每日笔记/2025-12-08.md",
     "每日笔记/2025-12-06.md",
     "_resources/2025-12-05/76b6515622ea804b110b825573fa24de_MD5.jpeg",
     "Pasted image 20251205205940.png",
@@ -351,7 +352,6 @@
     "剪藏文件/技能如何运作？, 技能类型, 主要优势, 技能与其他 Claude 功能的比较, 了解更多关于技能的信息-What are Skills?  Claude Help Center.md",
     "大模型/prompt/短视频生成想法/未来风机甲.md",
     "大模型/prompt/Feed Summary.md",
-    "大模型/prompt/pua ai prompt.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
