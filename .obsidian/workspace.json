@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-12-12.md",
-                "mode": "source",
-                "source": false
+                "file": "剪藏文件/chagpt 的Memory系统.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "chagpt 的Memory系统"
             }
           }
         ]
@@ -218,10 +218,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "e21335939c90f318",
   "lastOpenFiles": [
-    "每日笔记/2025-12-08.md",
+    "剪藏文件/GPT-5.2 Prompting Guide  OpenAI Cookbook.md",
+    "剪藏文件/I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!.md",
+    "剪藏文件/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档.md",
+    "剪藏文件/chagpt 的Memory系统.md",
     "每日笔记/2025-12-12.md",
+    "每日笔记/2025-12-08.md",
     "思考/关于 nano banana pro 做 ppt 思考.md",
     "思维导图.md",
     "未命名",
@@ -234,7 +238,6 @@
     "每日笔记/2025-12-04.md",
     "每日笔记/2025-12-05.md",
     "每日笔记/2025-12-01.md",
-    "剪藏文件/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档.md",
     "_resources/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档/cd1e0bdc7098fd4425c26a71b3bf2481_MD5.jpg",
     "_resources/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档/0dc909e1d9bfecc4caa1aedd5f200941_MD5.jpg",
     "剪藏文件/‌​⁤‌⁣‌​‍⁣‍﻿⁡​⁡‬⁤⁣﻿﻿‌​​​‌‍⁣​‍‬‬‌‬⁤⁣⁣‌﻿﻿⁣‬‌‍‌⁢​‍⁡​‍​构建AI Agent的完整实战指南：从邮件助手案例看6步落地方法 - 飞书云文档.md",
@@ -263,9 +266,6 @@
     "剪藏文件/‬​⁢​⁡﻿​‬‌⁣⁡⁣⁢⁤‌⁢⁣‌﻿‌⁤‍‬⁤⁢​⁡‍​⁡​​​‬‬‍‍⁢﻿⁡⁡‍⁣‬﻿​⁡⁣AI Agent产品经理血泪史（一）：一年来我摸过的那些石头【Tools篇】 - 飞书云文档.md",
     "剪藏文件/‌⁣⁤⁡​‌⁣⁤﻿​‍⁢⁢‍‌‌‌‬‍⁤⁢‍​​​‍⁣⁢‬⁡⁡﻿⁢‌⁤‌⁢⁢⁡﻿‌﻿​​‬‍‌‬‌⁢四种 Agent 设计范式（通俗易懂版）-- 吴恩达最新演讲 - 飞书云文档.md",
     "剪藏文件/‌﻿⁡‌⁤​⁤​​​​​⁢‍‬‌‍⁢⁣‬⁢‬​⁣⁤﻿⁢⁢⁣⁣‍​‍⁣﻿‍⁡​‍‬‬‌​⁢⁣﻿⁡‌‬​Inhai Agentic Workflow：AI 重塑了我的工作流 - 飞书云文档.md",
-    "每日笔记/2025-11-24.md",
-    "每日笔记/2025-11-28.md",
-    "每日笔记/2025-11-22.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
