@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-12-22"
             }
+          },
+          {
+            "id": "b2f80427b7e338be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "相关脑图/Drawing 2025-12-22 10.38.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-22 10.38.54.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +231,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "b2f80427b7e338be",
   "lastOpenFiles": [
-    "每日笔记/2025-12-15.md",
     "每日笔记/2025-12-22.md",
+    "相关脑图/Drawing 2025-12-22 10.38.54.excalidraw.md",
+    "每日笔记/2025-12-15.md",
     "剪藏文件/chagpt 的Memory系统.md",
     "剪藏文件/GPT-5.2 Prompting Guide  OpenAI Cookbook.md",
     "剪藏文件/I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!.md",
@@ -265,7 +279,6 @@
     "剪藏文件/‍‌⁢⁣​‍⁣﻿​⁣​‌​⁤⁢⁢⁡​‍⁢‌⁢​‬⁡​‬⁡​​⁤‬⁡‬⁡﻿‬⁡⁡​⁡﻿⁢﻿⁣﻿﻿⁤﻿⁡AI下半场，聊一聊 Agent 本质与变革  大白话技术科普系列@Jomy - 飞书云文档.md",
     "剪藏文件/‌​⁤⁡⁤‬‬​⁢​‍‍​‬⁡​​‬​⁡⁡⁡﻿​‬​⁣‍⁢⁢​⁢⁣⁤⁡​﻿⁢⁡⁤⁣⁡⁤⁣​⁤⁣​⁣‬工作流与Agent实战指南：从选型决策到高效实施 - 飞书云文档.md",
     "剪藏文件/⁣‬‬​⁤⁢⁤⁡‬‍﻿‌⁤‌​‌⁢﻿⁡​​‬⁡⁣‌‍﻿​⁡​​‍‍​⁢​‌​‌⁣​⁢⁣‬﻿⁢⁡‍AI 智能体：企业自动化的新架构 - Menlo Ventures - 飞书云文档.md",
-    "剪藏文件/‬​⁢​⁡﻿​‬‌⁣⁡⁣⁢⁤‌⁢⁣‌﻿‌⁤‍‬⁤⁢​⁡‍​⁡​​​‬‬‍‍⁢﻿⁡⁡‍⁣‬﻿​⁡⁣AI Agent产品经理血泪史（一）：一年来我摸过的那些石头【Tools篇】 - 飞书云文档.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
