@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2025-12-15.md",
+                "file": "每日笔记/2025-12-22.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-12-15"
+              "title": "2025-12-22"
             }
           }
         ]
@@ -218,10 +218,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e21335939c90f318",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
-    "剪藏文件/chagpt 的Memory系统.md",
     "每日笔记/2025-12-15.md",
+    "每日笔记/2025-12-22.md",
+    "剪藏文件/chagpt 的Memory系统.md",
     "剪藏文件/GPT-5.2 Prompting Guide  OpenAI Cookbook.md",
     "剪藏文件/I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!.md",
     "剪藏文件/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档.md",
@@ -265,7 +266,6 @@
     "剪藏文件/‌​⁤⁡⁤‬‬​⁢​‍‍​‬⁡​​‬​⁡⁡⁡﻿​‬​⁣‍⁢⁢​⁢⁣⁤⁡​﻿⁢⁡⁤⁣⁡⁤⁣​⁤⁣​⁣‬工作流与Agent实战指南：从选型决策到高效实施 - 飞书云文档.md",
     "剪藏文件/⁣‬‬​⁤⁢⁤⁡‬‍﻿‌⁤‌​‌⁢﻿⁡​​‬⁡⁣‌‍﻿​⁡​​‍‍​⁢​‌​‌⁣​⁢⁣‬﻿⁢⁡‍AI 智能体：企业自动化的新架构 - Menlo Ventures - 飞书云文档.md",
     "剪藏文件/‬​⁢​⁡﻿​‬‌⁣⁡⁣⁢⁤‌⁢⁣‌﻿‌⁤‍‬⁤⁢​⁡‍​⁡​​​‬‬‍‍⁢﻿⁡⁡‍⁣‬﻿​⁡⁣AI Agent产品经理血泪史（一）：一年来我摸过的那些石头【Tools篇】 - 飞书云文档.md",
-    "剪藏文件/‌⁣⁤⁡​‌⁣⁤﻿​‍⁢⁢‍‌‌‌‬‍⁤⁢‍​​​‍⁣⁢‬⁡⁡﻿⁢‌⁤‌⁢⁢⁡﻿‌﻿​​‬‍‌‬‌⁢四种 Agent 设计范式（通俗易懂版）-- 吴恩达最新演讲 - 飞书云文档.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
