@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复盘/2025Q4 业务复盘/复盘总结.md",
-                "mode": "preview",
+                "file": "每日笔记/2026-01-01.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "复盘总结"
+              "title": "2026-01-01"
             }
           }
         ],
@@ -235,6 +235,7 @@
   },
   "active": "b2f80427b7e338be",
   "lastOpenFiles": [
+    "每日笔记/2026-01-01.md",
     "复盘/2025Q4 业务复盘/按照不同内容类型进行分析.md",
     "复盘/2025Q4 业务复盘/2025Q4 周报详情.md",
     "每日笔记/2025-12-29.md",
