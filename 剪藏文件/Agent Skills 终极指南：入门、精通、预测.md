@@ -35,7 +35,7 @@ tags:
 
 原创 一泽Eze *2026年1月7日 09:40*
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/7ck8FnyVQnviaS5P0WygredgOkAB3hj5PU2EYd5vQlKCYOqllGLLicJsqmST9PbA42kapY1nrw4HGYVbFjZQVMHg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+![[_resources/Agent Skills 终极指南：入门、精通、预测/0843be065a6054d58c3df96750c8ed5d_MD5.webp]]
 
 ## 🎐 卷首语
 
@@ -55,7 +55,7 @@ Claude Skills 的价值，还是被大大低估了。
 
 比如我自己做的 Article-Copilot，一个 skill 就实现了从素材处理到正文写作的 Agent 应用；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/7ck8FnyVQnviaS5P0WygredgOkAB3hj5PicP1oVngsIJHtvNYhKcM9lHE1mao0tO9Hr0vPtPeKpvgicCROYxxFEKQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![[_resources/Agent Skills 终极指南：入门、精通、预测/9f85853757fc0fce2f8e916a1322c44e_MD5.webp]]
 
 又如 AI Partner Skill，让 通用 Agent 深度学习你的记忆，塑造懂你的 AI 伴侣，给到个性回应。
 
