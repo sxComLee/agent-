@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键.md",
+                "file": "复盘/2026Q1/20260113.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键"
+              "title": "20260113"
             }
           },
           {
@@ -232,10 +232,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "499801c21c312d25",
+  "active": "23ff4fd903f035e9",
   "lastOpenFiles": [
-    "复盘/2026Q1",
+    "每日笔记/2026-01-01.md",
+    "复盘/2026Q1/20260113.md",
+    "每日笔记/2026-01-13.md",
+    "每日笔记/2026-01-04.md",
+    "每日笔记/2026-01-08.md",
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键.md",
+    "复盘/2026Q1",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/b1eb43e411f9687b1e7bfa9bf99fe56f_MD5.jpg",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/4b6b5d7a12e7fb3b2679510d834d26ec_MD5.jpg",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/68054929e04f547ad10468de76ccbef6_MD5.webp",
@@ -248,16 +253,12 @@
     "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？/b1eb43e411f9687b1e7bfa9bf99fe56f_MD5.jpg",
     "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？",
     "剪藏文件/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？.md",
-    "每日笔记/2026-01-13.md",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键",
-    "每日笔记/2026-01-08.md",
     "_resources/Agent Skills 终极指南：入门、精通、预测",
-    "每日笔记/2026-01-04.md",
     "剪藏文件/Agent Skills 终极指南：入门、精通、预测.md",
     "项目/tt 起号/成本核算.md",
     "项目/tt 起号",
     "项目",
-    "每日笔记/2026-01-01.md",
     "未命名.md",
     "复盘/2025Q4 业务复盘/复盘总结.md",
     "复盘/2025Q4 业务复盘/按照不同内容类型进行分析.md",
@@ -279,7 +280,6 @@
     "思维导图.md",
     "_resources/2025-12-05",
     "_resources/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档",
-    "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
