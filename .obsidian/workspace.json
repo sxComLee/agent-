@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9e271d293d84524",
+            "id": "23ff4fd903f035e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-01-13.md",
+                "file": "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键"
+            }
+          },
+          {
+            "id": "edb44beea76defe5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247517891&idx=1&sn=5ed3475ad774b7e1819ca4467db2e6b5&scene=21&poc_token=HEaWZWmjhYaVlRgUN7HI8-ZOtjgh9OLTRkgwCA7S",
+                "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？"
             }
           }
         ]
@@ -218,18 +232,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f9e271d293d84524",
+  "active": "23ff4fd903f035e9",
   "lastOpenFiles": [
-    "每日笔记/2026-01-08.md",
-    "每日笔记/2026-01-13.md",
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键.md",
-    "_resources/Agent Skills 终极指南：入门、精通、预测/9f85853757fc0fce2f8e916a1322c44e_MD5.webp",
-    "_resources/Agent Skills 终极指南：入门、精通、预测/0843be065a6054d58c3df96750c8ed5d_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/b1eb43e411f9687b1e7bfa9bf99fe56f_MD5.jpg",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/4b6b5d7a12e7fb3b2679510d834d26ec_MD5.jpg",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/68054929e04f547ad10468de76ccbef6_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/d9f9a57b047dfadd3f58e70bc1b08921_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/b15b0aa9cfde2ddbab33b5a743dbc4f6_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/cc3196ca249aebe5f4892d0dc60422e5_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/848030f8b0315766eb062d6047c7333c_MD5.webp",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/a2cc5ad550834c023e1e2e8fe55d5e12_MD5.webp",
+    "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？/4b6b5d7a12e7fb3b2679510d834d26ec_MD5.jpg",
+    "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？/b1eb43e411f9687b1e7bfa9bf99fe56f_MD5.jpg",
+    "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？",
+    "剪藏文件/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？.md",
+    "每日笔记/2026-01-13.md",
+    "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键",
+    "每日笔记/2026-01-08.md",
     "_resources/Agent Skills 终极指南：入门、精通、预测",
     "每日笔记/2026-01-04.md",
     "剪藏文件/Agent Skills 终极指南：入门、精通、预测.md",
     "项目/tt 起号/成本核算.md",
-    "Pasted image 20250716090408.png",
     "项目/tt 起号",
     "项目",
     "每日笔记/2026-01-01.md",
@@ -238,13 +262,6 @@
     "复盘/2025Q4 业务复盘/按照不同内容类型进行分析.md",
     "复盘/2025Q4 业务复盘/2025Q4 周报详情.md",
     "每日笔记/2025-12-29.md",
-    "_resources/按照不同内容类型进行分析/ef95541fd047da53d0c1bbdcda88c8e3_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/ea3801fd5de0333ac733b87fc337a2a6_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/d9033e1421f57ed7281fca4885f5bf26_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/3de824b59af56964986c30fc134e06ee_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/f44b9171b67d27495b733ab77b87cadf_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/c7f4e42d2042f244b491e4b64d9ec5a1_MD5.jpg",
-    "_resources/按照不同内容类型进行分析/8bdc96dd589608e725da819af801eda4_MD5.jpg",
     "_resources/按照不同内容类型进行分析",
     "复盘/未命名.md",
     "复盘/2025Q4 业务复盘",
@@ -259,13 +276,9 @@
     "每日笔记/2025-12-08.md",
     "思考/关于 nano banana pro 做 ppt 思考.md",
     "思维导图.md",
-    "每日笔记/2025-12-06.md",
     "_resources/2025-12-05",
-    "每日笔记/2025-12-04.md",
     "_resources/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档",
     "_resources/如何在企业工作流中实施AI智能体：2025年完整实施指南——慢慢学AI166",
-    "_resources/【译】上下文工程：别把窗塞满越多越糟！用写筛压隔四步，警惕投毒干扰混淆冲突，把噪声挡窗外——慢慢学AI170",
-    "_resources/‌​⁤‌⁣‌​‍⁣‍﻿⁡​⁡‬⁤⁣﻿﻿‌​​​‌‍⁣​‍‬‬‌‬⁤⁣⁣‌﻿﻿⁣‬‌‍‌⁢​‍⁡​‍​构建AI Agent的完整实战指南：从邮件助手案例看6步落地方法 - 飞书云文档",
     "未命名 1.canvas",
     "未命名.canvas"
   ]

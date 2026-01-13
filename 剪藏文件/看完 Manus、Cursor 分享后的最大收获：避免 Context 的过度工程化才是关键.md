@@ -35,7 +35,7 @@ tags:
 
 Founder Park *2026年1月9日 20:32*
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/qpAK9iaV2O3sAVsSPfCN9UX44XiaoicbUJIrOGuaujdMNY6iaQewDZEX1GY3tcVk3QGeKJyUMMHBSMALvO8B7DZwsA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/e51dc07c86240b386d5e6f63fe426e16_MD5.gif]]
 
 毫无疑问，上下文工程的优化，仍然是 Agent 创业公司在新一年都在「卷」的重点。
 
@@ -63,7 +63,7 @@ Cursor 原文：https://cursor.com/cn/blog/dynamic-context-discovery
 
 邀请从业者、开发人员和创业者，飞书扫码加群：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qpAK9iaV2O3ueG8mmruO4d9Ng0qg2WTQYr0Wsm87ibtalibEvqdMlH3Xic5UV0W4MHpNuzYKiaFYaO3bWEpjlhjicnXQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/360222758f775f15c87ddca527e558d4_MD5.webp]]
 
 进群后，你有机会得到：  
 
@@ -85,11 +85,11 @@ Agent 每调用一次工具，就会返回一个工具的观测结果，这个�
 
 Manus 之前提到，典型的任务大约需要调用 50 次工具。Anthropic 也提到过类似的情况，生产环境中的 Agent 可能会进行长达数百轮的对话。
 
-上下文长度的持续增长，会导致推理性能断崖式的下跌。业内叫做「上下文腐烂」（Context Rot），具体表现是：推理变慢、质量下降、甚至开始无意义地重复。
+上下文长度的持续增长，会导致推理性能断崖式的下跌。业内叫做「**上下文腐烂**」（Context Rot），具体表现是：推理变慢、质量下降、甚至开始无意义地重复。
 
 如何解决？业内目前共识的一个方法是「上下文卸载（Context Offloading）」，核心思路是 **别把所有东西都硬塞进 Agent 的短期记忆里，把它卸载出去** 。放到上下文窗口之外，但在需要时，又能被精确地检索回来。
 
-将信息转移到文件系统中，是目前生产级 Agent 中主流、最 Work 的一种做法。
+**将信息转移到文件系统中**，是目前生产级 Agent 中主流、最 Work 的一种做法。
 
 **Cursor：万物皆可文件化**
 
@@ -113,9 +113,9 @@ Cursor 的做法是，将这些输出直接写入到一个文件，然后在上�
 
 当模型的上下文窗口被填满，Cursor 会触发一个「总结」步骤，给 Agent 腾出一个新的上下文窗口，其中包含之前工作的摘要。
 
-但 Agent 的知识会在这个过程中「退化」，因为「总结」本质上是对上下文的一种有损压缩。 Cursor 把完整的聊天历史记录也看做是一个文件。当触发总结时，Agent 会拿到一份摘要，以及一个指向「历史记录文件」的引用。如果 Agent 意识到摘要中缺少某些它需要的细节，它就可以通过搜索这份历史记录文件来找回这些信息。
+但 Agent 的知识会在这个过程中「退化」，因为**「总结」本质上是对上下文的一种有损压缩**。 Cursor 把完整的聊天历史记录也看做是一个文件。当触发总结时，Agent 会拿到一份摘要，以及一个指向「历史记录文件」的引用。如果 Agent 意识到摘要中缺少某些它需要的细节，它就可以通过搜索这份历史记录文件来找回这些信息。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/qpAK9iaV2O3tamMAj8DZc6AG3rmbFazXXZMdJiavzqe0XvafacRnibkk7C7apA6a5FJ6OhHC9AW3OL9h9GSX5lkLw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/c43af3242e7f0bf2c67a9fc391f910d0_MD5.webp]]
 - **将所有集成终端的会话视为文件**
 
 在 Cursor 中，不再需要手动复制粘贴满屏的终端报错信息，会自动将集成终端的所有会话输出同步到本地文件系统。 提问「为什么我的命令失败了？」时，Agent 能直接定位问题，甚至可以使用 grep 这样的命令，在长篇的服务器日志中只搜索相关的错误行。这种做法模仿了 CLI Agent 的体验，拥有之前的 Shell 输出作为上下文，但不同的是，它是动态发现，不是被静态注入。
@@ -187,7 +187,7 @@ Cursor 的策略，更简单、粗暴。把所有 MCP 工具、Agent Skills 的�
 
 Cursor 做了一次 A/B 测试，结果发现，对于调用了 MCP 工具的运行任务，这种策略把 **Token 的总消耗降低了 46.9%。**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/qpAK9iaV2O3tamMAj8DZc6AG3rmbFazXXcIzKMdO2iah2gDAK519ias9G1bENn6Ig4q4ntBdThOE6af5Jog48UuQA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/758b2109c539b8afe136085780121f4f_MD5.webp]]
 
 同时，Cursor 提到，这种全部文件化的方式，还解锁了一个意想不到的能力：向 Agent 传达工具的状态。
 
@@ -313,9 +313,9 @@ Manus 的思路是：「少构建，多理解」，避免上下文的过度工�
 
 引用宝玉老师的一句话：未来，随着基模能力的提升，把主动权交给模型会是一个趋势。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qpAK9iaV2O3tgKBLnu3ESdbS3me6paicic7GtJVibuQJFwedF36nareXFGjUJdaqPC8e5sxqrsB9ok18Uq7Wtb5jVg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/ab27390323d6bf589a5ed45c51e38887_MD5.webp]]
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qpAK9iaV2O3u2fI9s28mn09TnD4aChWibVHIyyBzPC2GibicVQ57QYiaEw6yibwy9zhkB7aFajGpNtBru6icEFuibRKXwA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+![[_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/066263da4c12aa1aabc4687f0695e625_MD5.webp]]
 
 **更多阅读
 
