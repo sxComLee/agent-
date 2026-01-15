@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-01-13.md",
+                "file": "每日笔记/2026-01-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "2026-01-15"
             }
           },
           {
@@ -232,11 +232,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "23ff4fd903f035e9",
   "lastOpenFiles": [
+    "_resources/DeepSeek最新论文 Engram 解读，牛逼！/87d021e21f57aab8391dfbed96193c8e_MD5.webp",
+    "_resources/DeepSeek最新论文 Engram 解读，牛逼！/d96b639573fa760b2284816e688ecb46_MD5.webp",
+    "_resources/DeepSeek最新论文 Engram 解读，牛逼！",
+    "每日笔记/2026-01-13.md",
+    "每日笔记/2026-01-15.md",
+    "剪藏文件/DeepSeek最新论文 Engram 解读，牛逼！.md",
     "复盘/2026Q1/20260113.md",
     "每日笔记/2026-01-01.md",
-    "每日笔记/2026-01-13.md",
     "每日笔记/2026-01-04.md",
     "每日笔记/2026-01-08.md",
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键.md",
@@ -250,7 +255,6 @@
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/848030f8b0315766eb062d6047c7333c_MD5.webp",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键/a2cc5ad550834c023e1e2e8fe55d5e12_MD5.webp",
     "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？/4b6b5d7a12e7fb3b2679510d834d26ec_MD5.jpg",
-    "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？/b1eb43e411f9687b1e7bfa9bf99fe56f_MD5.jpg",
     "_resources/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？",
     "剪藏文件/来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？.md",
     "_resources/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键",
@@ -275,11 +279,7 @@
     "剪藏文件/I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!.md",
     "剪藏文件/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档.md",
     "每日笔记/2025-12-12.md",
-    "每日笔记/2025-12-08.md",
-    "思考/关于 nano banana pro 做 ppt 思考.md",
-    "思维导图.md",
     "_resources/2025-12-05",
-    "_resources/‌⁡‬﻿​⁡​﻿⁤​⁣⁡​‬⁢‍​‍‍﻿⁣⁣⁢⁤‌⁣​‬​⁡⁣​⁡‍⁣⁣⁡⁤﻿﻿​⁢‌⁢​​‌‌Anthropic官方指南 AI Agent 工具设计的正确打开方式 - 飞书云文档",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
