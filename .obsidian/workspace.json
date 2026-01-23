@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-01-16.md",
+                "file": "每日笔记/2026-01-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16"
+              "title": "2026-01-23"
+            }
+          },
+          {
+            "id": "f09bb778ed4acecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剪藏文件/AI代理的上下文工程：构建Manus的经验教训.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI代理的上下文工程：构建Manus的经验教训"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,25 +248,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23ff4fd903f035e9",
+  "active": "f09bb778ed4acecb",
   "lastOpenFiles": [
+    "Pasted image 20260123075703.png",
+    "Pasted image 20260123075603.png",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训/b7482ecea21c525e056af2cecee920eb_MD5.jpeg",
+    "Pasted image 20260123075535.png",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训/b7313fd1b3fdf4a513dc736a9096f09a_MD5.jpeg",
+    "Pasted image 20260123075520.png",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训/18bca2da84cb3e43cde456fecfec78a9_MD5.jpeg",
+    "Pasted image 20260123075501.png",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训/56fa08fe425fcf0c169705ee89338924_MD5.jpeg",
+    "Pasted image 20260123075444.png",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训/6c7d8e9358efc4b8176cb2eed23c1c15_MD5.jpeg",
+    "每日笔记/2026-01-23.md",
+    "_resources/AI代理的上下文工程：构建Manus的经验教训",
+    "每日笔记/2026-01-16.md",
     "剪藏文件/AI代理的上下文工程：构建Manus的经验教训.md",
     "每日笔记/2026-01-15.md",
-    "每日笔记/2026-01-16.md",
-    "_resources/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点/c020ec17c42ba094847f2cc9e26de997_MD5.webp",
-    "_resources/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点/20f56cc46f9250b87f2cdb1c556613ff_MD5.jpg",
     "_resources/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点",
     "剪藏文件/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点.md",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/e5ad4de25708337420dee0bbb0ebba2d_MD5.webp",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/d5f8a55c05e88e4144d9993b90db65c4_MD5.webp",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/ca00a8e9e95c9f9467145270261c9c9e_MD5.jpg",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/b16f8b742de355f39a49d9fb021b2f4b_MD5.webp",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/6468b42d46cb7eee6a3b1b3f63487425_MD5.webp",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/ea53fae467625f5878a54ea34e3a3ea4_MD5.webp",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1/0b7b433ff9db4a200490ae2f4547cbd2_MD5.webp",
     "_resources/逆向拆解 ChatGPT 的记忆系统 1",
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统 1.md",
-    "_resources/逆向拆解 ChatGPT 的记忆系统/6468b42d46cb7eee6a3b1b3f63487425_MD5.webp",
     "_resources/逆向拆解 ChatGPT 的记忆系统",
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统.md",
     "_resources/从每天收入5美元到上市，智谱Z.ai这一年做对了什么？",
@@ -266,7 +284,6 @@
     "剪藏文件/一些大模型，高分低能，为何？.md",
     "_resources/为什么到现在依然只有一个Manus",
     "剪藏文件/为什么到现在依然只有一个Manus.md",
-    "_resources/“基模四杰”开年首炸：Chat已死，Agent已来",
     "剪藏文件/“基模四杰”开年首炸：Chat已死，Agent已来.md",
     "每日笔记/2026-01-13.md",
     "剪藏文件/DeepSeek最新论文 Engram 解读，牛逼！.md",
@@ -279,8 +296,6 @@
     "剪藏文件/Agent Skills 终极指南：入门、精通、预测.md",
     "项目/tt 起号/成本核算.md",
     "未命名.md",
-    "复盘/2025Q4 业务复盘/复盘总结.md",
-    "复盘/2025Q4 业务复盘/按照不同内容类型进行分析.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
