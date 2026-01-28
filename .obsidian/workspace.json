@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23ff4fd903f035e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日笔记/2026-01-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-23"
-            }
-          },
-          {
             "id": "f09bb778ed4acecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/一些大模型，高分低能，为何？.md",
+                "file": "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一些大模型，高分低能，为何？"
+              "title": "Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,52 +234,52 @@
   },
   "active": "f09bb778ed4acecb",
   "lastOpenFiles": [
-    "_resources/The importance of Agent Harness in 2026/d0542cffa120b914f17429e8724df849_MD5.jpg",
-    "_resources/The importance of Agent Harness in 2026",
-    "剪藏文件/The importance of Agent Harness in 2026.md",
-    "剪藏文件/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了.md",
     "每日笔记/2026-01-28.md",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。.md",
+    "剪藏文件/The importance of Agent Harness in 2026.md",
+    "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
+    "剪藏文件/未命名.md",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。/n/n不要只看结果，Transcript也.md",
+    "剪藏文件/一些大模型，高分低能，为何？.md",
+    "每日笔记/2026-01-23.md",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。/n",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n",
+    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。",
+    "_resources/The importance of Agent Harness in 2026/d0542cffa120b914f17429e8724df849_MD5.jpg",
+    "剪藏文件/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了.md",
     "剪藏文件/一些大模型，高分低能，为何？ 1.md",
     "剪藏文件/一些大模型，高分低能，为何？ 2.md",
     "_resources/一些大模型，高分低能，为何？ 2/3ee2c41d92a2ba3956b744b453291c30_MD5.jpg",
     "_resources/一些大模型，高分低能，为何？ 2/59358837e6064f46bc6669f6795b08ef_MD5.webp",
     "_resources/一些大模型，高分低能，为何？ 2/f2ebc5fe9df0cf038f9376269b587858_MD5.jpg",
-    "_resources/一些大模型，高分低能，为何？ 2",
     "_resources/一些大模型，高分低能，为何？ 1/f2ebc5fe9df0cf038f9376269b587858_MD5.jpg",
     "_resources/一些大模型，高分低能，为何？ 1/59358837e6064f46bc6669f6795b08ef_MD5.webp",
     "_resources/一些大模型，高分低能，为何？ 1/3ee2c41d92a2ba3956b744b453291c30_MD5.jpg",
-    "_resources/一些大模型，高分低能，为何？ 1",
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/82082a79063aa024fabd4c46017f7009_MD5.jpg",
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/a3d99ac5ed308d7fbf3611612ec73c9a_MD5.jpg",
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/6cac5cd63477faa67177a08df4029037_MD5.webp",
-    "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/0650f26131349b4ded56d4aa18707511_MD5.jpg",
-    "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了",
-    "_resources/深入浅出完整解析LoRA（Low-Rank Adaptation）模型核心基础知识",
     "剪藏文件/AI代理的上下文工程：构建Manus的经验教训.md",
     "剪藏文件/深入浅出完整解析LoRA（Low-Rank Adaptation）模型核心基础知识.md",
-    "每日笔记/2026-01-23.md",
-    "_resources/AI代理的上下文工程：构建Manus的经验教训",
     "每日笔记/2026-01-16.md",
     "每日笔记/2026-01-15.md",
-    "_resources/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点",
     "剪藏文件/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点.md",
-    "_resources/逆向拆解 ChatGPT 的记忆系统 1",
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统 1.md",
-    "_resources/逆向拆解 ChatGPT 的记忆系统",
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统.md",
-    "_resources/从每天收入5美元到上市，智谱Z.ai这一年做对了什么？",
     "剪藏文件/从每天收入5美元到上市，智谱Z.ai这一年做对了什么？.md",
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键 1.md",
     "剪藏文件/唐杰、杨植麟、姚顺雨、林俊旸罕见同台分享，这3个小时的信息密度实在太高了。.md",
     "剪藏文件/Anthropic 最新博客：构建 AI Agent 评估体系完整指南.md",
-    "剪藏文件/一些大模型，高分低能，为何？.md",
     "剪藏文件/为什么到现在依然只有一个Manus.md",
     "剪藏文件/“基模四杰”开年首炸：Chat已死，Agent已来.md",
     "每日笔记/2026-01-13.md",
     "剪藏文件/DeepSeek最新论文 Engram 解读，牛逼！.md",
-    "复盘/2026Q1/20260113.md",
-    "每日笔记/2026-01-01.md",
-    "每日笔记/2026-01-04.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
