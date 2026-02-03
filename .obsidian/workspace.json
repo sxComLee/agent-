@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。.md",
+                "file": "剪藏文件/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。"
+              "title": "未命名"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " obsidian-skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,10 +233,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f09bb778ed4acecb",
+  "active": "9af52773118ee76e",
   "lastOpenFiles": [
-    "每日笔记/2026-01-28.md",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。.md",
+    "每日笔记/2026-01-28.md",
     "剪藏文件/The importance of Agent Harness in 2026.md",
     "剪藏文件/高效自动化新工具，用 pokee.ai 玩转阿森纳转会新闻日报.md",
     "剪藏文件/未命名.md",
