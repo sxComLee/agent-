@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Drawing 2026-02-07 13.59.17.excalidraw.md",
+                "file": "每日笔记/2026-02-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing 2026-02-07 13.59.17.excalidraw"
+              "title": "2026-02-08"
+            }
+          },
+          {
+            "id": "e7ee85c1b875d433",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
             }
           },
           {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,10 +269,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d7a90abfedccf62b",
+  "active": "e6e7a314e3d0f90b",
   "lastOpenFiles": [
-    "每日笔记/2026-02-07.md",
     "工具/Drawing 2026-02-07 13.59.17.excalidraw.md",
+    "每日笔记/2026-02-08.md",
+    "每日笔记/2026-02-07.md",
     "未命名.base",
     "每日笔记/2026-02-06.md",
     "剪藏文件/未命名.md",
@@ -304,7 +317,6 @@
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键 1.md",
     "剪藏文件/唐杰、杨植麟、姚顺雨、林俊旸罕见同台分享，这3个小时的信息密度实在太高了。.md",
     "剪藏文件/Anthropic 最新博客：构建 AI Agent 评估体系完整指南.md",
-    "剪藏文件/为什么到现在依然只有一个Manus.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
