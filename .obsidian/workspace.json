@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-02-08.md",
+                "file": "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-02-08"
+              "title": "抱着“不做就会死”的决心，才能真正做好全球化  42章经"
+            }
+          },
+          {
+            "id": "5b0f681f01a891e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +253,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d7a90abfedccf62b",
+  "active": "5b0f681f01a891e2",
   "lastOpenFiles": [
+    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
+    "剪藏文件/2026-02-08-开源模型质变：Claude Code 超级小白入门指南.md",
+    "剪藏文件/未命名.md",
+    "每日笔记/2026-02-08.md",
     "剪藏文件/README.md",
     "剪藏文件/__pycache__/batch_reader.cpython-312.pyc",
     "剪藏文件/__pycache__",
@@ -252,11 +266,9 @@
     "剪藏文件/requirements.txt",
     "剪藏文件/urls.txt",
     "工具/Drawing 2026-02-07 13.59.17.excalidraw.md",
-    "每日笔记/2026-02-08.md",
     "每日笔记/2026-02-07.md",
     "未命名.base",
     "每日笔记/2026-02-06.md",
-    "剪藏文件/未命名.md",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。.md",
     "每日笔记/2026-01-28.md",
     "剪藏文件/The importance of Agent Harness in 2026.md",
@@ -289,8 +301,6 @@
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统 1.md",
     "剪藏文件/逆向拆解 ChatGPT 的记忆系统.md",
     "剪藏文件/从每天收入5美元到上市，智谱Z.ai这一年做对了什么？.md",
-    "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键 1.md",
-    "剪藏文件/唐杰、杨植麟、姚顺雨、林俊旸罕见同台分享，这3个小时的信息密度实在太高了。.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
