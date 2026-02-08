@@ -34,35 +34,9 @@
               "icon": "lucide-file",
               "title": "2026-02-08"
             }
-          },
-          {
-            "id": "e7ee85c1b875d433",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
-            }
-          },
-          {
-            "id": "edb44beea76defe5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247517891&idx=1&sn=5ed3475ad774b7e1819ca4467db2e6b5&scene=21&poc_token=HEaWZWmjhYaVlRgUN7HI8-ZOtjgh9OLTRkgwCA7S",
-                "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "来自 Manus 的一手分享：如何构建 AI Agent 的上下文工程？"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,8 +243,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "d7a90abfedccf62b",
   "lastOpenFiles": [
+    "剪藏文件/README.md",
+    "剪藏文件/__pycache__/batch_reader.cpython-312.pyc",
+    "剪藏文件/__pycache__",
+    "剪藏文件/batch_reader.py",
+    "剪藏文件/requirements.txt",
+    "剪藏文件/urls.txt",
     "工具/Drawing 2026-02-07 13.59.17.excalidraw.md",
     "每日笔记/2026-02-08.md",
     "每日笔记/2026-02-07.md",
@@ -288,11 +268,6 @@
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n",
     "_resources/The importance of Agent Harness in 2026/d0542cffa120b914f17429e8724df849_MD5.jpg",
     "剪藏文件/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了.md",
     "剪藏文件/一些大模型，高分低能，为何？ 1.md",
@@ -316,7 +291,6 @@
     "剪藏文件/从每天收入5美元到上市，智谱Z.ai这一年做对了什么？.md",
     "剪藏文件/看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键 1.md",
     "剪藏文件/唐杰、杨植麟、姚顺雨、林俊旸罕见同台分享，这3个小时的信息密度实在太高了。.md",
-    "剪藏文件/Anthropic 最新博客：构建 AI Agent 评估体系完整指南.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
