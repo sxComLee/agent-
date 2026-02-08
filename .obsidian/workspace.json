@@ -11,14 +11,10 @@
             "id": "d7a90abfedccf62b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "剪藏文件/90天定律：从落后到突围，国产AI的崛起周期｜赛博月刊 2507.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "90天定律：从落后到突围，国产AI的崛起周期｜赛博月刊 2507"
+              "title": "新标签页"
             }
           }
         ]
@@ -230,9 +226,18 @@
   },
   "active": "d7a90abfedccf62b",
   "lastOpenFiles": [
-    "剪藏文件/2026-02-08-开源模型质变：Claude Code 超级小白入门指南.md",
-    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
+    "剪藏文件/2026-02-08_开源模型质变：Claude Code 超级小白入门指南 (1).md",
+    "剪藏文件/2026-02-08_开源模型质变：Claude Code 超级小白入门指南.md",
+    "剪藏文件/2026-02-08_作者回顾了 (2).md",
+    "剪藏文件/2026-02-08_作者回顾了 (1).md",
+    "剪藏文件/未确认 1343.crdownload",
+    "剪藏文件/2026-02-08_作者回顾了.md",
+    "剪藏文件/开源模型质变：Claude Code 超级小白入门指南 (1).md",
     "剪藏文件/开源模型质变：Claude Code 超级小白入门指南.md",
+    "剪藏文件/90天定律：从落后到突围，国产AI的崛起周期｜赛博月刊 2507.md",
+    "剪藏文件/2026-02-08-开源模型质变：Claude Code 超级小白入门指南.md",
+    "剪藏文件/Untitled (1).md",
+    "剪藏文件/抱着“不做就会死”的决心，才能真正做好全球化  42章经.md",
     "剪藏文件/未确认 206031.crdownload",
     "剪藏文件/Untitled.md",
     "剪藏文件/未命名.md",
@@ -256,11 +261,8 @@
     "每日笔记/2026-01-23.md",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。/n",
     "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。/nOutcome： 最后的结果。",
-    "剪藏文件/Anthropic万字长文，把很多Agent没法落地的真正原因说明白了。/n/n他们分享了内部踩坑无数后，总结的一套Eval方法论，讲透了4件事情。/n/n所有的Agent系统，在交付之前，一定要把Eval体系想清楚，把评什么、怎么评、谁维护，想清楚！/n/nAgent Eval本质上是集成测试：/n/nTask ： 具体的是什么活？/nTranscript Agent的执行轨迹，调用工具，报错，重试全过程。",
     "_resources/The importance of Agent Harness in 2026/d0542cffa120b914f17429e8724df849_MD5.jpg",
     "剪藏文件/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了.md",
-    "剪藏文件/一些大模型，高分低能，为何？ 1.md",
-    "剪藏文件/一些大模型，高分低能，为何？ 2.md",
     "_resources/一些大模型，高分低能，为何？ 2/3ee2c41d92a2ba3956b744b453291c30_MD5.jpg",
     "_resources/一些大模型，高分低能，为何？ 2/59358837e6064f46bc6669f6795b08ef_MD5.webp",
     "_resources/一些大模型，高分低能，为何？ 2/f2ebc5fe9df0cf038f9376269b587858_MD5.jpg",
@@ -270,12 +272,6 @@
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/82082a79063aa024fabd4c46017f7009_MD5.jpg",
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/a3d99ac5ed308d7fbf3611612ec73c9a_MD5.jpg",
     "_resources/AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了/6cac5cd63477faa67177a08df4029037_MD5.webp",
-    "剪藏文件/AI代理的上下文工程：构建Manus的经验教训.md",
-    "剪藏文件/深入浅出完整解析LoRA（Low-Rank Adaptation）模型核心基础知识.md",
-    "每日笔记/2026-01-16.md",
-    "每日笔记/2026-01-15.md",
-    "剪藏文件/从HITL(Human In The Loop) 实践出发看Agent与设计模式的对跖点.md",
-    "剪藏文件/逆向拆解 ChatGPT 的记忆系统 1.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
