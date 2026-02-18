@@ -11,10 +11,14 @@
             "id": "d7a90abfedccf62b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "每日笔记/2026-02-19.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-02-19"
             }
           }
         ]
@@ -226,6 +230,7 @@
   },
   "active": "d7a90abfedccf62b",
   "lastOpenFiles": [
+    "每日笔记/2026-02-19.md",
     "剪藏文件/2026-02-08_Skills商店来了：5万人在用的Top 10热门Skills，我帮你试了一遍.md",
     "剪藏文件/2026-02-08_MiniMax往我电脑里塞了个实习生，新人还限时免费？.md",
     "剪藏文件/2026-02-08_Claude Code之父的13大cc使用技巧.md",
@@ -251,7 +256,6 @@
     "剪藏文件/2026-02-08_本文分享了.md",
     "剪藏文件/2026-02-08_2025年，AI领域最大的问题是什么？18位大佬给出了不同答案.md",
     "剪藏文件/2026-02-08_Vidu悄悄上线万物可参考视频模型，电影里的特效材质动作...都是我的了.md",
-    "剪藏文件/2026-02-08_DeepSeek又又又又发新论文了！这一次，他们重构了AI看图的方式.md",
     "剪藏文件/未确认 455695.crdownload",
     "剪藏文件/未确认 661100.crdownload",
     "剪藏文件/未确认 504226.crdownload",
