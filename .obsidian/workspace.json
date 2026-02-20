@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d10a79d57bf687bb",
+        "id": "78177d4c711bd046",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a90abfedccf62b",
+            "id": "e7169d2c407c0d4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日笔记/2026-02-20.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-02-20"
+              "title": "新标签页"
             }
           }
         ]
@@ -228,8 +224,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "499801c21c312d25",
   "lastOpenFiles": [
+    "工具/openclaw",
     "每日笔记/2026-02-19.md",
     "每日笔记/2026-02-20.md",
     "剪藏文件/2026-02-08_Skills商店来了：5万人在用的Top 10热门Skills，我帮你试了一遍.md",
@@ -255,7 +252,6 @@
     "剪藏文件/2026-02-08_本文推荐了.md",
     "剪藏文件/2026-02-08_本文介绍了.md",
     "剪藏文件/2026-02-08_本文分享了.md",
-    "剪藏文件/2026-02-08_2025年，AI领域最大的问题是什么？18位大佬给出了不同答案.md",
     "剪藏文件/未确认 455695.crdownload",
     "剪藏文件/未确认 661100.crdownload",
     "剪藏文件/未确认 504226.crdownload",
