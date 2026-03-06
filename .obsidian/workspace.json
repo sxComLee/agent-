@@ -25,12 +25,14 @@
             "id": "65879e04c923a716",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "剪藏文件/OpenClaw多Agent实操：一个人指挥一支AI军队.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "OpenClaw多Agent实操：一个人指挥一支AI军队"
             }
           }
         ],
@@ -87,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,9 +243,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e6e7a314e3d0f90b",
+  "active": "65879e04c923a716",
   "lastOpenFiles": [
+    "_resources/OpenClaw多Agent实操：一个人指挥一支AI军队",
+    "剪藏文件/assets/OpenClaw多Agent实操/img2.png",
+    "剪藏文件/assets/OpenClaw多Agent实操/img1.jpg",
+    "剪藏文件/assets/OpenClaw多Agent实操",
+    "剪藏文件/assets",
     "每日笔记/2026-03-06.md",
+    "剪藏文件/OpenClaw多Agent实操：一个人指挥一支AI军队.md",
     "_resources/驾驭工程：在智能体优先的世界中利用Codex-Harness engineering leveraging Codex in an agent-first world/5a89432b99eaaaf5796109e5f4403356_MD5.webp",
     "_resources/驾驭工程：在智能体优先的世界中利用Codex-Harness engineering leveraging Codex in an agent-first world/39b0973af51f20b271d837c7bdffc889_MD5.webp",
     "_resources/驾驭工程：在智能体优先的世界中利用Codex-Harness engineering leveraging Codex in an agent-first world/3a6e86914927f358714969b5286da6fb_MD5.webp",
@@ -278,18 +285,12 @@
     "剪藏文件/2026-02-08_文章分享了.md",
     "剪藏文件/2026-02-08_该文章可能.md",
     "剪藏文件/2026-02-08_该文章由花.md",
-    "剪藏文件/2026-02-08_该文章介绍.md",
-    "剪藏文件/2026-02-08_比OpenAI更Manus，实测Kimi新上线多核Agent集群.md",
     "剪藏文件/未确认 455695.crdownload",
     "剪藏文件/未确认 661100.crdownload",
     "剪藏文件/未确认 504226.crdownload",
     "剪藏文件/未确认 566296.crdownload",
     "剪藏文件/未确认 1343.crdownload",
-    "剪藏文件/未确认 206031.crdownload",
-    "剪藏文件/__pycache__/batch_reader.cpython-312.pyc",
     "_resources/The importance of Agent Harness in 2026/d0542cffa120b914f17429e8724df849_MD5.jpg",
-    "_resources/一些大模型，高分低能，为何？ 2/3ee2c41d92a2ba3956b744b453291c30_MD5.jpg",
-    "_resources/一些大模型，高分低能，为何？ 2/59358837e6064f46bc6669f6795b08ef_MD5.webp",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
