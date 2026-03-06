@@ -26,6 +26,8 @@ tags:
 
 "飞书不同群对应不同人格是怎么实现的？"
 
+![[assets/OpenClaw多Agent实操/img01.jpg]]
+
 看来大家对省钱只是基础需求，对搞个 AI 团队才是真爱。既然大家最感兴趣，那今天我就把实操逻辑全盘托出。
 
 ## 为什么需要 Multi Agent？
@@ -50,13 +52,15 @@ tags:
 
 每只🦞都有自己的办公室、记忆和会话，完全隔离。但它们又能通过"内线电话"互相协作。这就是 OpenClaw 多 Agent 模式的魅力。
 
-![[assets/OpenClaw多Agent实操/img1.jpg]]
+![[assets/OpenClaw多Agent实操/img02.png]]
+
+![[assets/OpenClaw多Agent实操/img03.png]]
 
 ## 两种流派：分身术 vs 独立团
 
 有硬核网友在上一篇文章评论：
 
-![[assets/OpenClaw多Agent实操/img2.png]]
+![[assets/OpenClaw多Agent实操/img04.png]]
 
 没错，OpenClaw 的灵活性就在这里。
 
@@ -128,6 +132,14 @@ openclaw agents set-identity --agent work --name "全能小秘书" --emoji "🤖
 
 首先在飞书建一个群组，添加群机器人，拿到群会话 ID。
 
+![[assets/OpenClaw多Agent实操/img05.png]]
+
+![[assets/OpenClaw多Agent实操/img06.png]]
+
+最重要的是需要拿到群会话 ID
+
+![[assets/OpenClaw多Agent实操/img07.png]]
+
 在 `openclaw.json` 的 `bindings` 数组中添加路由规则：
 
 ```json
@@ -171,9 +183,15 @@ openclaw agents set-identity --agent work --name "全能小秘书" --emoji "🤖
 }
 ```
 
+![[assets/OpenClaw多Agent实操/img08.png]]
+
 ## Agent 之间如何通信
 
 多 Agent 模式的核心意义：安排一个 Agent 负责监督，当其他执行任务的 Agent 卡住或出错时，监督者能及时介入进行修复工作。
+
+有了各司其职的专家，接下来最关键的就是让它们协作起来。在我的系统里，机器人**首席牛马官**的背后，其实是一个严密的组织架构。
+
+![[assets/OpenClaw多Agent实操/img09.jpg]]
 
 ### 首席牛马官（main）的职责
 
@@ -189,6 +207,8 @@ Agent 之间相互通信通过 OpenClaw 内置的 `sessions_send` 工具实现�
 
 ### 开启 agentToAgent
 
+要让"内线电话"打得通，必须在配置文件里给它们开通权限：
+
 ```json
 {
   "tools": {
@@ -200,6 +220,12 @@ Agent 之间相互通信通过 OpenClaw 内置的 `sessions_send` 工具实现�
 }
 ```
 
+![[assets/OpenClaw多Agent实操/img10.png]]
+
+![[assets/OpenClaw多Agent实操/img11.jpg]]
+
+![[assets/OpenClaw多Agent实操/img12.jpg]]
+
 ## 写在最后
 
 搞定了多 Agent 架构，你手里已经握着一支随时待命的 AI 军队了。但要让这支军队真正产生战斗力，重点不在于堆砌模型，而在于你作为"架构师"的**组织设计**。
@@ -209,3 +235,7 @@ Agent 之间相互通信通过 OpenClaw 内置的 `sessions_send` 工具实现�
 高级阵法：
 - **线性流水线**：调研员 → 写手 → 校审官
 - **依赖并行**：架构师定框架，后端 + 前端同时开工，质量监督把关
+
+![[assets/OpenClaw多Agent实操/img13.png]]
+
+![[assets/OpenClaw多Agent实操/img14.png]]
