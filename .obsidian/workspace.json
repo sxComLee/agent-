@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-03-16.md",
+                "file": "课程录制/anthropic 相关课程/build with anthropic/overwrite with model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-16"
+              "title": "overwrite with model"
             }
           }
         ]
@@ -230,9 +230,20 @@
   },
   "active": "73f2872dc34dea5f",
   "lastOpenFiles": [
+    "README.md",
+    "课程录制/anthropic 相关课程/build with anthropic/overwrite with model.md",
+    "课程录制/anthropic 相关课程/build with anthropic",
+    "课程录制/anthropic 相关课程",
+    "python 相关包.md",
+    "Pasted image 20250716090408.png",
+    "欢迎.md",
+    "整体调用过程.md",
+    "思维导图.md",
+    "未命名.base",
+    "每日笔记/2026-03-18.md",
+    "每日笔记/2026-03-16.md",
     "每日笔记/Drawing 2026-03-16 16.24.26.excalidraw.md",
     "Drawing 2026-03-16 16.24.45.excalidraw.md",
-    "每日笔记/2026-03-16.md",
     "剪藏文件/I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!.md",
     "剪藏文件/Coding Agent 越过奇点，人类该怎么办？.md",
     "剪藏文件/assets/coding-agent-singularity",
@@ -252,13 +263,6 @@
     "剪藏文件/Clawdbot(Moltbot)免费极简安装教程(10分钟).md",
     "剪藏文件/开源AI助手ClawdBot火爆全网已狂飙50K Star附喂饭级安装教程.md",
     "剪藏文件/Clawdbot杀疯了！手把手教你接入飞书，把AI助理装进社群（林月半子版）.md",
-    "剪藏文件/Wise：Openclaw+Kimi K 2.5 部署+飞书使用教程.md",
-    "剪藏文件/芋头小宝：接入飞书和钉钉的OpenClaw到底能玩点啥.md",
-    "剪藏文件/Clawdbot超级小白入门指南，不靠MacMini和云，安全用上满血版.md",
-    "剪藏文件/Clawdbot一夜爆火，GitHub已狂飙64k Star！.md",
-    "剪藏文件/笑川：【深度聊】Moltbot改写AI创业者底层范式.md",
-    "剪藏文件/做了一个skill技能，一句话装好openclaw.md",
-    "剪藏文件/失控：AI自己建了个社交网站，人类被排除在外.md",
     "剪藏文件/assets/test-article2/img01.jpg",
     "剪藏文件/assets/test-article2",
     "剪藏文件/assets/test-article/img01.jpg",
@@ -269,13 +273,9 @@
     "剪藏文件/assets/OpenClaw多Agent实操/img14.png",
     "剪藏文件/assets/OpenClaw多Agent实操/img11.jpg",
     "剪藏文件/assets/OpenClaw多Agent实操/img12.jpg",
-    "剪藏文件/assets/OpenClaw多Agent实操/img10.png",
     "_resources/OpenClaw多Agent实操：一个人指挥一支AI军队",
     "剪藏文件/assets/OpenClaw多Agent实操",
     "剪藏文件/assets",
-    "_resources/驾驭工程：在智能体优先的世界中利用Codex-Harness engineering leveraging Codex in an agent-first world",
-    "工具/openclaw 2",
-    "工具/openclaw",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
