@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-03-30"
             }
+          },
+          {
+            "id": "0b3cbc5b48e28889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日笔记/2026-04-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-02"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,6 +215,20 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "82fc1879bafdb279",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 4
@@ -212,24 +241,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
       "bases:新建数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "publish:发布更改": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "73f2872dc34dea5f",
+  "active": "0b3cbc5b48e28889",
   "lastOpenFiles": [
+    "每日笔记/2026-04-02.md",
     "课程录制/anthropic 相关课程/build with anthropic/RAG and Agentic Search/6. A Multi-Index RAG pipeline.md",
     "每日笔记/2026-03-30.md",
     "_resources/6. A Multi-Index RAG pipeline/b146171efe574356e65f3aaaea6b244d_MD5.jpg",
@@ -275,7 +302,6 @@
     "剪藏文件/Ilya重新定义AGI 为什么ChatGPT离真正的AGI还很远.md",
     "剪藏文件/‌﻿⁡‌⁤​⁤​​​​​⁢‍‬‌‍⁢⁣‬⁢‬​⁣⁤﻿⁢⁢⁣⁣‍​‍⁣﻿‍⁡​‍‬‬‌​⁢⁣﻿⁡‌‬​Inhai Agentic Workflow：AI 重塑了我的工作流 - 飞书云文档.md",
     "剪藏文件/Manus揭秘自己的技术：“手搓”上下文工程，推翻多个“共识”，一堆血泪教训.md",
-    "剪藏文件/OpenClaw多Agent实操：一个人指挥一支AI军队.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
