@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记/2026-04-02.md",
+                "file": "每日笔记/2026-04-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-02"
+              "title": "2026-04-09"
             }
           }
         ],
@@ -257,6 +257,7 @@
   "active": "0b3cbc5b48e28889",
   "lastOpenFiles": [
     "每日笔记/2026-04-02.md",
+    "每日笔记/2026-04-09.md",
     "课程录制/anthropic 相关课程/build with anthropic/RAG and Agentic Search/6. A Multi-Index RAG pipeline.md",
     "每日笔记/2026-03-30.md",
     "_resources/6. A Multi-Index RAG pipeline/b146171efe574356e65f3aaaea6b244d_MD5.jpg",
@@ -301,7 +302,6 @@
     "剪藏文件/Coding Agent 越过奇点，人类该怎么办？.md",
     "剪藏文件/Ilya重新定义AGI 为什么ChatGPT离真正的AGI还很远.md",
     "剪藏文件/‌﻿⁡‌⁤​⁤​​​​​⁢‍‬‌‍⁢⁣‬⁢‬​⁣⁤﻿⁢⁢⁣⁣‍​‍⁣﻿‍⁡​‍‬‬‌​⁢⁣﻿⁡‌‬​Inhai Agentic Workflow：AI 重塑了我的工作流 - 飞书云文档.md",
-    "剪藏文件/Manus揭秘自己的技术：“手搓”上下文工程，推翻多个“共识”，一堆血泪教训.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
